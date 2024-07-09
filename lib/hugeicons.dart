@@ -16100,4 +16100,3 @@ class HugeIcon extends StatelessWidget {
     );
   }
 }
-

@@ -1,6 +1,6 @@
 name: hugeicons
 description: "HugeIcons is a comprehensive icon library for Flutter, providing both free and pro versions with thousands of icons. Ideal for enhancing UI design."
-version: 0.0.3
+version: 0.0.4
 homepage: https://hugeicons.com/icons
 
 environment:

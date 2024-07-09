@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.4] - 2024-07-09
+### Added
+- General bug fixes and improvements.
+
 ## [0.0.3] - 2024-07-09
 ### Added
 - Created the `HugeIcon` widget to display icons with customizable color and size.
