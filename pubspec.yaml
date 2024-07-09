@@ -1,0 +1,27 @@
+name: hugeicons
+description: "HugeIcons is a comprehensive icon library for Flutter, providing both free and pro versions with thousands of icons. Ideal for enhancing UI design."
+version: 0.0.3
+homepage: https://hugeicons.com/icons
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  fonts:
+    - family: HgiStrokeRounded
+      fonts:
+        - asset: lib/fonts/hgi-stroke-rounded.woff2
