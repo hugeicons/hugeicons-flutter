@@ -68,4 +68,4 @@ Hugeicons Flutter Icons is licensed under the MIT License. You are free to use, 
 
 Hugeicons Flutter Icons is licensed under the MIT License. This permits use, modification, distribution, and private or commercial use of the flutter icons, provided only the icons that the original copyright and permission notice are included in all copies or substantial portions of the software.
 
-For more details, see the [LICENSE.md](./LICENSE.md) file in the repository.
+For more details, see the [LICENSE](./LICENSE) file in the repository.
