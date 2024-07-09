@@ -1,7 +1,11 @@
 # Changelog
 
+## [0.0.5] - 2024-07-09
+### Fixes
+- General bug fixes and improvements.
+
 ## [0.0.4] - 2024-07-09
-### Added
+### Fixes
 - General bug fixes and improvements.
 
 ## [0.0.3] - 2024-07-09
@@ -12,7 +16,7 @@
 - Included an example project demonstrating how to use the `hugeicons` package in a Flutter application.
 
 ## [0.0.1] - 2024-07-05
-### Added
+### Fixes
 - General bug fixes and improvements.
 
 ## [0.0.1] - 2024-07-02
