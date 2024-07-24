@@ -4,7 +4,7 @@ version: 0.0.5
 homepage: https://hugeicons.com/icons
 
 environment:
-  sdk: '>=3.4.3 <4.0.0'
+  sdk: ">=3.4.3 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -24,4 +24,4 @@ flutter:
   fonts:
     - family: HgiStrokeRounded
       fonts:
-        - asset: lib/fonts/hgi-stroke-rounded.woff2
+        - asset: lib/fonts/hgi-stroke-rounded.ttf

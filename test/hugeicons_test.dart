@@ -15,7 +15,7 @@ void main() {
       const testKey = Key('hugeIconTest');
 
       await tester.pumpWidget(
-        MaterialApp(
+        const MaterialApp(
           home: Scaffold(
             body: HugeIcon(
               key: testKey,

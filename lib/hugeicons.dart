@@ -12,8 +12,7 @@ class HugeIcons {
   static const _kFontPkg = 'hugeicons';
 
   /// IconData for the 'strokeRoundedAbacus' icon.
-  static const IconData strokeRoundedAbacus =
-      IconData(0x28b9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAbacus = IconData(0x28b9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAbsolute' icon.
   static const IconData strokeRoundedAbsolute =
@@ -24,8 +23,7 @@ class HugeIcons {
       IconData(0x28bb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAccess' icon.
-  static const IconData strokeRoundedAccess =
-      IconData(0x28bc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAccess = IconData(0x28bc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAccident' icon.
   static const IconData strokeRoundedAccident =
@@ -60,16 +58,13 @@ class HugeIcons {
       IconData(0x28c4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAcute' icon.
-  static const IconData strokeRoundedAcute =
-      IconData(0x28c5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAcute = IconData(0x28c5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAdd01' icon.
-  static const IconData strokeRoundedAdd01 =
-      IconData(0x28c6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAdd01 = IconData(0x28c6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAdd02' icon.
-  static const IconData strokeRoundedAdd02 =
-      IconData(0x28c7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAdd02 = IconData(0x28c7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAddCircleHalfDot' icon.
   static const IconData strokeRoundedAddCircleHalfDot =
@@ -84,8 +79,7 @@ class HugeIcons {
       IconData(0x28ca, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAddTeam' icon.
-  static const IconData strokeRoundedAddTeam =
-      IconData(0x28cb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAddTeam = IconData(0x28cb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAddressBook' icon.
   static const IconData strokeRoundedAddressBook =
@@ -112,8 +106,7 @@ class HugeIcons {
       IconData(0x28d1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAdobeXd' icon.
-  static const IconData strokeRoundedAdobeXd =
-      IconData(0x28d2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAdobeXd = IconData(0x28d2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAdventure' icon.
   static const IconData strokeRoundedAdventure =
@@ -124,8 +117,7 @@ class HugeIcons {
       IconData(0x28d4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAdzan' icon.
-  static const IconData strokeRoundedAdzan =
-      IconData(0x28d5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAdzan = IconData(0x28d5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAffiliate' icon.
   static const IconData strokeRoundedAffiliate =
@@ -144,8 +136,7 @@ class HugeIcons {
       IconData(0x28d9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAiBook' icon.
-  static const IconData strokeRoundedAiBook =
-      IconData(0x28da, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAiBook = IconData(0x28da, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAiBrain01' icon.
   static const IconData strokeRoundedAiBrain01 =
@@ -188,8 +179,7 @@ class HugeIcons {
       IconData(0x28e4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAiDna' icon.
-  static const IconData strokeRoundedAiDna =
-      IconData(0x28e5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAiDna = IconData(0x28e5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAiFolder01' icon.
   static const IconData strokeRoundedAiFolder01 =
@@ -220,12 +210,10 @@ class HugeIcons {
       IconData(0x28ec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAiLock' icon.
-  static const IconData strokeRoundedAiLock =
-      IconData(0x28ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAiLock = IconData(0x28ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAiMail' icon.
-  static const IconData strokeRoundedAiMail =
-      IconData(0x28ee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAiMail = IconData(0x28ee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAiNetwork' icon.
   static const IconData strokeRoundedAiNetwork =
@@ -256,24 +244,20 @@ class HugeIcons {
       IconData(0x28f5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAiView' icon.
-  static const IconData strokeRoundedAiView =
-      IconData(0x28f6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAiView = IconData(0x28f6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAids' icon.
-  static const IconData strokeRoundedAids =
-      IconData(0x28f7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAids = IconData(0x28f7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAirbnb' icon.
-  static const IconData strokeRoundedAirbnb =
-      IconData(0x28f8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAirbnb = IconData(0x28f8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAircraftGame' icon.
   static const IconData strokeRoundedAircraftGame =
       IconData(0x28f9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAirdrop' icon.
-  static const IconData strokeRoundedAirdrop =
-      IconData(0x28fa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAirdrop = IconData(0x28fa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAirplane01' icon.
   static const IconData strokeRoundedAirplane01 =
@@ -332,12 +316,10 @@ class HugeIcons {
       IconData(0x2908, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlbum01' icon.
-  static const IconData strokeRoundedAlbum01 =
-      IconData(0x2909, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAlbum01 = IconData(0x2909, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlbum02' icon.
-  static const IconData strokeRoundedAlbum02 =
-      IconData(0x290a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAlbum02 = IconData(0x290a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlbumNotFound01' icon.
   static const IconData strokeRoundedAlbumNotFound01 =
@@ -348,12 +330,10 @@ class HugeIcons {
       IconData(0x290c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlert01' icon.
-  static const IconData strokeRoundedAlert01 =
-      IconData(0x290d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAlert01 = IconData(0x290d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlert02' icon.
-  static const IconData strokeRoundedAlert02 =
-      IconData(0x290e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAlert02 = IconData(0x290e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlertCircle' icon.
   static const IconData strokeRoundedAlertCircle =
@@ -372,12 +352,10 @@ class HugeIcons {
       IconData(0x2912, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlien01' icon.
-  static const IconData strokeRoundedAlien01 =
-      IconData(0x2913, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAlien01 = IconData(0x2913, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlien02' icon.
-  static const IconData strokeRoundedAlien02 =
-      IconData(0x2914, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAlien02 = IconData(0x2914, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlignBottom' icon.
   static const IconData strokeRoundedAlignBottom =
@@ -452,12 +430,10 @@ class HugeIcons {
       IconData(0x2926, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAllah' icon.
-  static const IconData strokeRoundedAllah =
-      IconData(0x2927, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAllah = IconData(0x2927, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlms' icon.
-  static const IconData strokeRoundedAlms =
-      IconData(0x2928, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAlms = IconData(0x2928, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlphaCircle' icon.
   static const IconData strokeRoundedAlphaCircle =
@@ -468,8 +444,7 @@ class HugeIcons {
       IconData(0x292a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlpha' icon.
-  static const IconData strokeRoundedAlpha =
-      IconData(0x292b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAlpha = IconData(0x292b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAlphabetArabic' icon.
   static const IconData strokeRoundedAlphabetArabic =
@@ -516,12 +491,10 @@ class HugeIcons {
       IconData(0x2936, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAmie' icon.
-  static const IconData strokeRoundedAmie =
-      IconData(0x2937, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAmie = IconData(0x2937, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAmpoule' icon.
-  static const IconData strokeRoundedAmpoule =
-      IconData(0x2938, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAmpoule = IconData(0x2938, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAnalysisTextLink' icon.
   static const IconData strokeRoundedAnalysisTextLink =
@@ -548,44 +521,37 @@ class HugeIcons {
       IconData(0x293e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAndroid' icon.
-  static const IconData strokeRoundedAndroid =
-      IconData(0x293f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAndroid = IconData(0x293f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAngel' icon.
-  static const IconData strokeRoundedAngel =
-      IconData(0x2940, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAngel = IconData(0x2940, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAngle01' icon.
-  static const IconData strokeRoundedAngle01 =
-      IconData(0x2941, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAngle01 = IconData(0x2941, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAngle' icon.
-  static const IconData strokeRoundedAngle =
-      IconData(0x2942, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAngle = IconData(0x2942, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAngryBird' icon.
   static const IconData strokeRoundedAngryBird =
       IconData(0x2943, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAngry' icon.
-  static const IconData strokeRoundedAngry =
-      IconData(0x2944, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAngry = IconData(0x2944, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAnonymous' icon.
   static const IconData strokeRoundedAnonymous =
       IconData(0x2945, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedApi' icon.
-  static const IconData strokeRoundedApi =
-      IconData(0x2946, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedApi = IconData(0x2946, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAppStore' icon.
   static const IconData strokeRoundedAppStore =
       IconData(0x2947, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedApple01' icon.
-  static const IconData strokeRoundedApple01 =
-      IconData(0x2948, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedApple01 = IconData(0x2948, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAppleFinder' icon.
   static const IconData strokeRoundedAppleFinder =
@@ -612,8 +578,7 @@ class HugeIcons {
       IconData(0x294e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedApple' icon.
-  static const IconData strokeRoundedApple =
-      IconData(0x294f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedApple = IconData(0x294f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedApproximatelyEqualCircle' icon.
   static const IconData strokeRoundedApproximatelyEqualCircle =
@@ -628,20 +593,17 @@ class HugeIcons {
       IconData(0x2952, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedApricot' icon.
-  static const IconData strokeRoundedApricot =
-      IconData(0x2953, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedApricot = IconData(0x2953, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedApron' icon.
-  static const IconData strokeRoundedApron =
-      IconData(0x2954, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedApron = IconData(0x2954, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedArcBrowser' icon.
   static const IconData strokeRoundedArcBrowser =
       IconData(0x2955, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedArcher' icon.
-  static const IconData strokeRoundedArcher =
-      IconData(0x2956, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedArcher = IconData(0x2956, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedArchive01' icon.
   static const IconData strokeRoundedArchive01 =
@@ -652,8 +614,7 @@ class HugeIcons {
       IconData(0x2958, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedArchive' icon.
-  static const IconData strokeRoundedArchive =
-      IconData(0x2959, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedArchive = IconData(0x2959, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedArmoredBoot' icon.
   static const IconData strokeRoundedArmoredBoot =
@@ -676,8 +637,7 @@ class HugeIcons {
       IconData(0x295e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedArrange' icon.
-  static const IconData strokeRoundedArrange =
-      IconData(0x295f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedArrange = IconData(0x295f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedArrowAllDirection' icon.
   static const IconData strokeRoundedArrowAllDirection =
@@ -984,24 +944,19 @@ class HugeIcons {
       IconData(0x29ab, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAt' icon.
-  static const IconData strokeRoundedAt =
-      IconData(0x29ac, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAt = IconData(0x29ac, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAtm01' icon.
-  static const IconData strokeRoundedAtm01 =
-      IconData(0x29ad, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAtm01 = IconData(0x29ad, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAtm02' icon.
-  static const IconData strokeRoundedAtm02 =
-      IconData(0x29ae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAtm02 = IconData(0x29ae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAtom01' icon.
-  static const IconData strokeRoundedAtom01 =
-      IconData(0x29af, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAtom01 = IconData(0x29af, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAtom02' icon.
-  static const IconData strokeRoundedAtom02 =
-      IconData(0x29b0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAtom02 = IconData(0x29b0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAtomicPower' icon.
   static const IconData strokeRoundedAtomicPower =
@@ -1028,8 +983,7 @@ class HugeIcons {
       IconData(0x29b6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAuction' icon.
-  static const IconData strokeRoundedAuction =
-      IconData(0x29b7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAuction = IconData(0x29b7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAudioBook01' icon.
   static const IconData strokeRoundedAudioBook01 =
@@ -1048,12 +1002,10 @@ class HugeIcons {
       IconData(0x29bb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAudit01' icon.
-  static const IconData strokeRoundedAudit01 =
-      IconData(0x29bc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAudit01 = IconData(0x29bc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAudit02' icon.
-  static const IconData strokeRoundedAudit02 =
-      IconData(0x29bd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAudit02 = IconData(0x29bd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAugmentedRealityAr' icon.
   static const IconData strokeRoundedAugmentedRealityAr =
@@ -1080,36 +1032,28 @@ class HugeIcons {
       IconData(0x29c3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAvocado' icon.
-  static const IconData strokeRoundedAvocado =
-      IconData(0x29c4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAvocado = IconData(0x29c4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAward01' icon.
-  static const IconData strokeRoundedAward01 =
-      IconData(0x29c5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAward01 = IconData(0x29c5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAward02' icon.
-  static const IconData strokeRoundedAward02 =
-      IconData(0x29c6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAward02 = IconData(0x29c6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAward03' icon.
-  static const IconData strokeRoundedAward03 =
-      IconData(0x29c7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAward03 = IconData(0x29c7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAward04' icon.
-  static const IconData strokeRoundedAward04 =
-      IconData(0x29c8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAward04 = IconData(0x29c8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedAward05' icon.
-  static const IconData strokeRoundedAward05 =
-      IconData(0x29c9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedAward05 = IconData(0x29c9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBaby01' icon.
-  static const IconData strokeRoundedBaby01 =
-      IconData(0x29ca, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBaby01 = IconData(0x29ca, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBaby02' icon.
-  static const IconData strokeRoundedBaby02 =
-      IconData(0x29cb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBaby02 = IconData(0x29cb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBabyBed01' icon.
   static const IconData strokeRoundedBabyBed01 =
@@ -1164,16 +1108,13 @@ class HugeIcons {
       IconData(0x29d8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBanana' icon.
-  static const IconData strokeRoundedBanana =
-      IconData(0x29d9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBanana = IconData(0x29d9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBandage' icon.
-  static const IconData strokeRoundedBandage =
-      IconData(0x29da, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBandage = IconData(0x29da, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBank' icon.
-  static const IconData strokeRoundedBank =
-      IconData(0x29db, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBank = IconData(0x29db, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBarCode01' icon.
   static const IconData strokeRoundedBarCode01 =
@@ -1184,8 +1125,7 @@ class HugeIcons {
       IconData(0x29dd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBarns' icon.
-  static const IconData strokeRoundedBarns =
-      IconData(0x29de, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBarns = IconData(0x29de, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBaseballBat' icon.
   static const IconData strokeRoundedBaseballBat =
@@ -1260,24 +1200,19 @@ class HugeIcons {
       IconData(0x29f0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBeach02' icon.
-  static const IconData strokeRoundedBeach02 =
-      IconData(0x29f1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBeach02 = IconData(0x29f1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBeach' icon.
-  static const IconData strokeRoundedBeach =
-      IconData(0x29f2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBeach = IconData(0x29f2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBeater' icon.
-  static const IconData strokeRoundedBeater =
-      IconData(0x29f3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBeater = IconData(0x29f3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBebo' icon.
-  static const IconData strokeRoundedBebo =
-      IconData(0x29f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBebo = IconData(0x29f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBedBunk' icon.
-  static const IconData strokeRoundedBedBunk =
-      IconData(0x29f5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBedBunk = IconData(0x29f5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBedDouble' icon.
   static const IconData strokeRoundedBedDouble =
@@ -1292,16 +1227,13 @@ class HugeIcons {
       IconData(0x29f8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBed' icon.
-  static const IconData strokeRoundedBed =
-      IconData(0x29f9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBed = IconData(0x29f9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBedug01' icon.
-  static const IconData strokeRoundedBedug01 =
-      IconData(0x29fa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBedug01 = IconData(0x29fa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBedug02' icon.
-  static const IconData strokeRoundedBedug02 =
-      IconData(0x29fb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBedug02 = IconData(0x29fb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBehance01' icon.
   static const IconData strokeRoundedBehance01 =
@@ -1312,8 +1244,7 @@ class HugeIcons {
       IconData(0x29fd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBelt' icon.
-  static const IconData strokeRoundedBelt =
-      IconData(0x29fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBelt = IconData(0x29fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBendTool' icon.
   static const IconData strokeRoundedBendTool =
@@ -1324,20 +1255,17 @@ class HugeIcons {
       IconData(0x2a00, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBerlin' icon.
-  static const IconData strokeRoundedBerlin =
-      IconData(0x2a01, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBerlin = IconData(0x2a01, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBeta' icon.
-  static const IconData strokeRoundedBeta =
-      IconData(0x2a02, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBeta = IconData(0x2a02, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBicycle01' icon.
   static const IconData strokeRoundedBicycle01 =
       IconData(0x2a03, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBicycle' icon.
-  static const IconData strokeRoundedBicycle =
-      IconData(0x2a04, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBicycle = IconData(0x2a04, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBilliard01' icon.
   static const IconData strokeRoundedBilliard01 =
@@ -1352,8 +1280,7 @@ class HugeIcons {
       IconData(0x2a07, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBing' icon.
-  static const IconData strokeRoundedBing =
-      IconData(0x2a08, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBing = IconData(0x2a08, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBioEnergy' icon.
   static const IconData strokeRoundedBioEnergy =
@@ -1368,8 +1295,7 @@ class HugeIcons {
       IconData(0x2a0b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBiscuit' icon.
-  static const IconData strokeRoundedBiscuit =
-      IconData(0x2a0c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBiscuit = IconData(0x2a0c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBitcoin01' icon.
   static const IconData strokeRoundedBitcoin01 =
@@ -1564,8 +1490,7 @@ class HugeIcons {
       IconData(0x2a3c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBitcoin' icon.
-  static const IconData strokeRoundedBitcoin =
-      IconData(0x2a3d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBitcoin = IconData(0x2a3d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBlackHole01' icon.
   static const IconData strokeRoundedBlackHole01 =
@@ -1576,12 +1501,10 @@ class HugeIcons {
       IconData(0x2a3f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBlend' icon.
-  static const IconData strokeRoundedBlend =
-      IconData(0x2a40, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBlend = IconData(0x2a40, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBlender' icon.
-  static const IconData strokeRoundedBlender =
-      IconData(0x2a41, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBlender = IconData(0x2a41, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBlockGame' icon.
   static const IconData strokeRoundedBlockGame =
@@ -1616,8 +1539,7 @@ class HugeIcons {
       IconData(0x2a49, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBlogger' icon.
-  static const IconData strokeRoundedBlogger =
-      IconData(0x2a4a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBlogger = IconData(0x2a4a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBloodBag' icon.
   static const IconData strokeRoundedBloodBag =
@@ -1636,8 +1558,7 @@ class HugeIcons {
       IconData(0x2a4e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBlood' icon.
-  static const IconData strokeRoundedBlood =
-      IconData(0x2a4f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBlood = IconData(0x2a4f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBluetoothCircle' icon.
   static const IconData strokeRoundedBluetoothCircle =
@@ -1660,8 +1581,7 @@ class HugeIcons {
       IconData(0x2a54, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBlur' icon.
-  static const IconData strokeRoundedBlur =
-      IconData(0x2a55, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBlur = IconData(0x2a55, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBlushBrush01' icon.
   static const IconData strokeRoundedBlushBrush01 =
@@ -1676,8 +1596,7 @@ class HugeIcons {
       IconData(0x2a58, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBoat' icon.
-  static const IconData strokeRoundedBoat =
-      IconData(0x2a59, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBoat = IconData(0x2a59, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBodyArmor' icon.
   static const IconData strokeRoundedBodyArmor =
@@ -1704,32 +1623,25 @@ class HugeIcons {
       IconData(0x2a5f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBomb' icon.
-  static const IconData strokeRoundedBomb =
-      IconData(0x2a60, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBomb = IconData(0x2a60, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBone01' icon.
-  static const IconData strokeRoundedBone01 =
-      IconData(0x2a61, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBone01 = IconData(0x2a61, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBone02' icon.
-  static const IconData strokeRoundedBone02 =
-      IconData(0x2a62, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBone02 = IconData(0x2a62, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBook01' icon.
-  static const IconData strokeRoundedBook01 =
-      IconData(0x2a63, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBook01 = IconData(0x2a63, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBook02' icon.
-  static const IconData strokeRoundedBook02 =
-      IconData(0x2a64, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBook02 = IconData(0x2a64, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBook03' icon.
-  static const IconData strokeRoundedBook03 =
-      IconData(0x2a65, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBook03 = IconData(0x2a65, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBook04' icon.
-  static const IconData strokeRoundedBook04 =
-      IconData(0x2a66, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBook04 = IconData(0x2a66, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBookBookmark01' icon.
   static const IconData strokeRoundedBookBookmark01 =
@@ -1820,12 +1732,10 @@ class HugeIcons {
       IconData(0x2a7c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBooks01' icon.
-  static const IconData strokeRoundedBooks01 =
-      IconData(0x2a7d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBooks01 = IconData(0x2a7d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBooks02' icon.
-  static const IconData strokeRoundedBooks02 =
-      IconData(0x2a7e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBooks02 = IconData(0x2a7e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBookshelf01' icon.
   static const IconData strokeRoundedBookshelf01 =
@@ -1912,8 +1822,7 @@ class HugeIcons {
       IconData(0x2a93, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBot' icon.
-  static const IconData strokeRoundedBot =
-      IconData(0x2a94, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBot = IconData(0x2a94, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBounceLeft' icon.
   static const IconData strokeRoundedBounceLeft =
@@ -1928,20 +1837,17 @@ class HugeIcons {
       IconData(0x2a97, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBowTie' icon.
-  static const IconData strokeRoundedBowTie =
-      IconData(0x2a98, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBowTie = IconData(0x2a98, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBowlingPins' icon.
   static const IconData strokeRoundedBowlingPins =
       IconData(0x2a99, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBowling' icon.
-  static const IconData strokeRoundedBowling =
-      IconData(0x2a9a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBowling = IconData(0x2a9a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBoxer' icon.
-  static const IconData strokeRoundedBoxer =
-      IconData(0x2a9b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBoxer = IconData(0x2a9b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBoxingBag' icon.
   static const IconData strokeRoundedBoxingBag =
@@ -1956,44 +1862,36 @@ class HugeIcons {
       IconData(0x2a9e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBrain01' icon.
-  static const IconData strokeRoundedBrain01 =
-      IconData(0x2a9f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBrain01 = IconData(0x2a9f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBrain02' icon.
-  static const IconData strokeRoundedBrain02 =
-      IconData(0x2aa0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBrain02 = IconData(0x2aa0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBrain' icon.
-  static const IconData strokeRoundedBrain =
-      IconData(0x2aa1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBrain = IconData(0x2aa1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBrandfetch' icon.
   static const IconData strokeRoundedBrandfetch =
       IconData(0x2aa2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBread01' icon.
-  static const IconData strokeRoundedBread01 =
-      IconData(0x2aa3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBread01 = IconData(0x2aa3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBread02' icon.
-  static const IconData strokeRoundedBread02 =
-      IconData(0x2aa4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBread02 = IconData(0x2aa4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBread03' icon.
-  static const IconData strokeRoundedBread03 =
-      IconData(0x2aa5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBread03 = IconData(0x2aa5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBread04' icon.
-  static const IconData strokeRoundedBread04 =
-      IconData(0x2aa6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBread04 = IconData(0x2aa6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBreastPump' icon.
   static const IconData strokeRoundedBreastPump =
       IconData(0x2aa7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBridge' icon.
-  static const IconData strokeRoundedBridge =
-      IconData(0x2aa8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBridge = IconData(0x2aa8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBriefcase01' icon.
   static const IconData strokeRoundedBriefcase01 =
@@ -2048,12 +1946,10 @@ class HugeIcons {
       IconData(0x2ab5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBrowser' icon.
-  static const IconData strokeRoundedBrowser =
-      IconData(0x2ab6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBrowser = IconData(0x2ab6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBrush' icon.
-  static const IconData strokeRoundedBrush =
-      IconData(0x2ab7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBrush = IconData(0x2ab7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBubbleChatAdd' icon.
   static const IconData strokeRoundedBubbleChatAdd =
@@ -2152,12 +2048,10 @@ class HugeIcons {
       IconData(0x2acf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBug01' icon.
-  static const IconData strokeRoundedBug01 =
-      IconData(0x2ad0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBug01 = IconData(0x2ad0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBug02' icon.
-  static const IconData strokeRoundedBug02 =
-      IconData(0x2ad1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBug02 = IconData(0x2ad1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBuilding01' icon.
   static const IconData strokeRoundedBuilding01 =
@@ -2188,8 +2082,7 @@ class HugeIcons {
       IconData(0x2ad8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBulb' icon.
-  static const IconData strokeRoundedBulb =
-      IconData(0x2ad9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBulb = IconData(0x2ad9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBulletproofVest' icon.
   static const IconData strokeRoundedBulletproofVest =
@@ -2204,16 +2097,13 @@ class HugeIcons {
       IconData(0x2adc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBus01' icon.
-  static const IconData strokeRoundedBus01 =
-      IconData(0x2add, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBus01 = IconData(0x2add, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBus02' icon.
-  static const IconData strokeRoundedBus02 =
-      IconData(0x2ade, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBus02 = IconData(0x2ade, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedBus03' icon.
-  static const IconData strokeRoundedBus03 =
-      IconData(0x2adf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedBus03 = IconData(0x2adf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCPlusPlus' icon.
   static const IconData strokeRoundedCPlusPlus =
@@ -2244,16 +2134,14 @@ class HugeIcons {
       IconData(0x2ae6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCactus' icon.
-  static const IconData strokeRoundedCactus =
-      IconData(0x2ae7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCactus = IconData(0x2ae7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCaduceus' icon.
   static const IconData strokeRoundedCaduceus =
       IconData(0x2ae8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCafe' icon.
-  static const IconData strokeRoundedCafe =
-      IconData(0x2ae9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCafe = IconData(0x2ae9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCalculate' icon.
   static const IconData strokeRoundedCalculate =
@@ -2380,8 +2268,7 @@ class HugeIcons {
       IconData(0x2b08, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCallAdd' icon.
-  static const IconData strokeRoundedCallAdd =
-      IconData(0x2b09, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCallAdd = IconData(0x2b09, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCallBlocked' icon.
   static const IconData strokeRoundedCallBlocked =
@@ -2460,16 +2347,13 @@ class HugeIcons {
       IconData(0x2b1c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCall' icon.
-  static const IconData strokeRoundedCall =
-      IconData(0x2b1d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCall = IconData(0x2b1d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCalling' icon.
-  static const IconData strokeRoundedCalling =
-      IconData(0x2b1e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCalling = IconData(0x2b1e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCamel' icon.
-  static const IconData strokeRoundedCamel =
-      IconData(0x2b1f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCamel = IconData(0x2b1f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCamera01' icon.
   static const IconData strokeRoundedCamera01 =
@@ -2548,8 +2432,7 @@ class HugeIcons {
       IconData(0x2b32, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCamper' icon.
-  static const IconData strokeRoundedCamper =
-      IconData(0x2b33, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCamper = IconData(0x2b33, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCampfire' icon.
   static const IconData strokeRoundedCampfire =
@@ -2584,8 +2467,7 @@ class HugeIcons {
       IconData(0x2b3b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCanvas' icon.
-  static const IconData strokeRoundedCanvas =
-      IconData(0x2b3c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCanvas = IconData(0x2b3c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCapProjecting' icon.
   static const IconData strokeRoundedCapProjecting =
@@ -2600,32 +2482,26 @@ class HugeIcons {
       IconData(0x2b3f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCap' icon.
-  static const IconData strokeRoundedCap =
-      IconData(0x2b40, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCap = IconData(0x2b40, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCapcutRectangle' icon.
   static const IconData strokeRoundedCapcutRectangle =
       IconData(0x2b41, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCapcut' icon.
-  static const IconData strokeRoundedCapcut =
-      IconData(0x2b42, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCapcut = IconData(0x2b42, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCar01' icon.
-  static const IconData strokeRoundedCar01 =
-      IconData(0x2b43, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCar01 = IconData(0x2b43, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCar02' icon.
-  static const IconData strokeRoundedCar02 =
-      IconData(0x2b44, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCar02 = IconData(0x2b44, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCar03' icon.
-  static const IconData strokeRoundedCar03 =
-      IconData(0x2b45, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCar03 = IconData(0x2b45, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCar04' icon.
-  static const IconData strokeRoundedCar04 =
-      IconData(0x2b46, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCar04 = IconData(0x2b46, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCarParking01' icon.
   static const IconData strokeRoundedCarParking01 =
@@ -2636,8 +2512,7 @@ class HugeIcons {
       IconData(0x2b48, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCaravan' icon.
-  static const IconData strokeRoundedCaravan =
-      IconData(0x2b49, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCaravan = IconData(0x2b49, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCardExchange01' icon.
   static const IconData strokeRoundedCardExchange01 =
@@ -2660,12 +2535,10 @@ class HugeIcons {
       IconData(0x2b4e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCards01' icon.
-  static const IconData strokeRoundedCards01 =
-      IconData(0x2b4f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCards01 = IconData(0x2b4f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCards02' icon.
-  static const IconData strokeRoundedCards02 =
-      IconData(0x2b50, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCards02 = IconData(0x2b50, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCargoShip' icon.
   static const IconData strokeRoundedCargoShip =
@@ -2684,24 +2557,20 @@ class HugeIcons {
       IconData(0x2b54, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCarrot' icon.
-  static const IconData strokeRoundedCarrot =
-      IconData(0x2b55, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCarrot = IconData(0x2b55, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCash01' icon.
-  static const IconData strokeRoundedCash01 =
-      IconData(0x2b56, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCash01 = IconData(0x2b56, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCash02' icon.
-  static const IconData strokeRoundedCash02 =
-      IconData(0x2b57, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCash02 = IconData(0x2b57, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCashier02' icon.
   static const IconData strokeRoundedCashier02 =
       IconData(0x2b58, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCashier' icon.
-  static const IconData strokeRoundedCashier =
-      IconData(0x2b59, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCashier = IconData(0x2b59, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCastle01' icon.
   static const IconData strokeRoundedCastle01 =
@@ -2712,8 +2581,7 @@ class HugeIcons {
       IconData(0x2b5b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCastle' icon.
-  static const IconData strokeRoundedCastle =
-      IconData(0x2b5c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCastle = IconData(0x2b5c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCatalogue' icon.
   static const IconData strokeRoundedCatalogue =
@@ -2728,12 +2596,10 @@ class HugeIcons {
       IconData(0x2b5f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCd' icon.
-  static const IconData strokeRoundedCd =
-      IconData(0x2b60, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCd = IconData(0x2b60, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCells' icon.
-  static const IconData strokeRoundedCells =
-      IconData(0x2b61, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCells = IconData(0x2b61, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCellularNetworkOffline' icon.
   static const IconData strokeRoundedCellularNetworkOffline =
@@ -2744,8 +2610,7 @@ class HugeIcons {
       IconData(0x2b63, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCelsius' icon.
-  static const IconData strokeRoundedCelsius =
-      IconData(0x2b64, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCelsius = IconData(0x2b64, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCenterFocus' icon.
   static const IconData strokeRoundedCenterFocus =
@@ -2768,24 +2633,19 @@ class HugeIcons {
       IconData(0x2b69, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChair01' icon.
-  static const IconData strokeRoundedChair01 =
-      IconData(0x2b6a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChair01 = IconData(0x2b6a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChair02' icon.
-  static const IconData strokeRoundedChair02 =
-      IconData(0x2b6b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChair02 = IconData(0x2b6b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChair03' icon.
-  static const IconData strokeRoundedChair03 =
-      IconData(0x2b6c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChair03 = IconData(0x2b6c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChair04' icon.
-  static const IconData strokeRoundedChair04 =
-      IconData(0x2b6d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChair04 = IconData(0x2b6d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChair05' icon.
-  static const IconData strokeRoundedChair05 =
-      IconData(0x2b6e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChair05 = IconData(0x2b6e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChairBarber' icon.
   static const IconData strokeRoundedChairBarber =
@@ -2804,8 +2664,7 @@ class HugeIcons {
       IconData(0x2b72, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCharity' icon.
-  static const IconData strokeRoundedCharity =
-      IconData(0x2b73, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCharity = IconData(0x2b73, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChartAverage' icon.
   static const IconData strokeRoundedChartAverage =
@@ -2900,16 +2759,13 @@ class HugeIcons {
       IconData(0x2b8a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChart' icon.
-  static const IconData strokeRoundedChart =
-      IconData(0x2b8b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChart = IconData(0x2b8b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChatBot' icon.
-  static const IconData strokeRoundedChatBot =
-      IconData(0x2b8c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChatBot = IconData(0x2b8c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChatGpt' icon.
-  static const IconData strokeRoundedChatGpt =
-      IconData(0x2b8d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChatGpt = IconData(0x2b8d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChatting01' icon.
   static const IconData strokeRoundedChatting01 =
@@ -2976,16 +2832,13 @@ class HugeIcons {
       IconData(0x2b9d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCheese' icon.
-  static const IconData strokeRoundedCheese =
-      IconData(0x2b9e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCheese = IconData(0x2b9e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChefHat' icon.
-  static const IconData strokeRoundedChefHat =
-      IconData(0x2b9f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChefHat = IconData(0x2b9f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChef' icon.
-  static const IconData strokeRoundedChef =
-      IconData(0x2ba0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChef = IconData(0x2ba0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChemistry01' icon.
   static const IconData strokeRoundedChemistry01 =
@@ -3000,16 +2853,13 @@ class HugeIcons {
       IconData(0x2ba3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCherry' icon.
-  static const IconData strokeRoundedCherry =
-      IconData(0x2ba4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCherry = IconData(0x2ba4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChess01' icon.
-  static const IconData strokeRoundedChess01 =
-      IconData(0x2ba5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChess01 = IconData(0x2ba5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChess02' icon.
-  static const IconData strokeRoundedChess02 =
-      IconData(0x2ba6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChess02 = IconData(0x2ba6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChessPawn' icon.
   static const IconData strokeRoundedChessPawn =
@@ -3020,36 +2870,31 @@ class HugeIcons {
       IconData(0x2ba8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChimney' icon.
-  static const IconData strokeRoundedChimney =
-      IconData(0x2ba9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChimney = IconData(0x2ba9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChinaTemple' icon.
   static const IconData strokeRoundedChinaTemple =
       IconData(0x2baa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChip02' icon.
-  static const IconData strokeRoundedChip02 =
-      IconData(0x2bab, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChip02 = IconData(0x2bab, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChip' icon.
-  static const IconData strokeRoundedChip =
-      IconData(0x2bac, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChip = IconData(0x2bac, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChocolate' icon.
   static const IconData strokeRoundedChocolate =
       IconData(0x2bad, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChrome' icon.
-  static const IconData strokeRoundedChrome =
-      IconData(0x2bae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChrome = IconData(0x2bae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChrysler' icon.
   static const IconData strokeRoundedChrysler =
       IconData(0x2baf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedChurch' icon.
-  static const IconData strokeRoundedChurch =
-      IconData(0x2bb0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedChurch = IconData(0x2bb0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCinnamonRoll' icon.
   static const IconData strokeRoundedCinnamonRoll =
@@ -3272,20 +3117,16 @@ class HugeIcons {
       IconData(0x2be7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCircle' icon.
-  static const IconData strokeRoundedCircle =
-      IconData(0x2be8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCircle = IconData(0x2be8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCity01' icon.
-  static const IconData strokeRoundedCity01 =
-      IconData(0x2be9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCity01 = IconData(0x2be9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCity02' icon.
-  static const IconData strokeRoundedCity02 =
-      IconData(0x2bea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCity02 = IconData(0x2bea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCity03' icon.
-  static const IconData strokeRoundedCity03 =
-      IconData(0x2beb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCity03 = IconData(0x2beb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClapping01' icon.
   static const IconData strokeRoundedClapping01 =
@@ -3300,36 +3141,29 @@ class HugeIcons {
       IconData(0x2bee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClinic' icon.
-  static const IconData strokeRoundedClinic =
-      IconData(0x2bef, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedClinic = IconData(0x2bef, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClip' icon.
-  static const IconData strokeRoundedClip =
-      IconData(0x2bf0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedClip = IconData(0x2bf0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClipboard' icon.
   static const IconData strokeRoundedClipboard =
       IconData(0x2bf1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClock01' icon.
-  static const IconData strokeRoundedClock01 =
-      IconData(0x2bf2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedClock01 = IconData(0x2bf2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClock02' icon.
-  static const IconData strokeRoundedClock02 =
-      IconData(0x2bf3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedClock02 = IconData(0x2bf3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClock03' icon.
-  static const IconData strokeRoundedClock03 =
-      IconData(0x2bf4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedClock03 = IconData(0x2bf4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClock04' icon.
-  static const IconData strokeRoundedClock04 =
-      IconData(0x2bf5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedClock04 = IconData(0x2bf5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClock05' icon.
-  static const IconData strokeRoundedClock05 =
-      IconData(0x2bf6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedClock05 = IconData(0x2bf6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClosedCaptionAlt' icon.
   static const IconData strokeRoundedClosedCaptionAlt =
@@ -3340,8 +3174,7 @@ class HugeIcons {
       IconData(0x2bf8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClothes' icon.
-  static const IconData strokeRoundedClothes =
-      IconData(0x2bf9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedClothes = IconData(0x2bf9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCloudAngledRainZap' icon.
   static const IconData strokeRoundedCloudAngledRainZap =
@@ -3416,16 +3249,13 @@ class HugeIcons {
       IconData(0x2c0b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCloud' icon.
-  static const IconData strokeRoundedCloud =
-      IconData(0x2c0c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCloud = IconData(0x2c0c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClubs01' icon.
-  static const IconData strokeRoundedClubs01 =
-      IconData(0x2c0d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedClubs01 = IconData(0x2c0d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedClubs02' icon.
-  static const IconData strokeRoundedClubs02 =
-      IconData(0x2c0e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedClubs02 = IconData(0x2c0e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCoPresent' icon.
   static const IconData strokeRoundedCoPresent =
@@ -3444,8 +3274,7 @@ class HugeIcons {
       IconData(0x2c12, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCode' icon.
-  static const IconData strokeRoundedCode =
-      IconData(0x2c13, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCode = IconData(0x2c13, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCodesandbox' icon.
   static const IconData strokeRoundedCodesandbox =
@@ -3464,12 +3293,10 @@ class HugeIcons {
       IconData(0x2c17, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCoins01' icon.
-  static const IconData strokeRoundedCoins01 =
-      IconData(0x2c18, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCoins01 = IconData(0x2c18, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCoins02' icon.
-  static const IconData strokeRoundedCoins02 =
-      IconData(0x2c19, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCoins02 = IconData(0x2c19, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCoinsBitcoin' icon.
   static const IconData strokeRoundedCoinsBitcoin =
@@ -3504,8 +3331,7 @@ class HugeIcons {
       IconData(0x2c21, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedColors' icon.
-  static const IconData strokeRoundedColors =
-      IconData(0x2c22, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedColors = IconData(0x2c22, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedColosseum' icon.
   static const IconData strokeRoundedColosseum =
@@ -3520,12 +3346,10 @@ class HugeIcons {
       IconData(0x2c25, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedComet01' icon.
-  static const IconData strokeRoundedComet01 =
-      IconData(0x2c26, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedComet01 = IconData(0x2c26, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedComet02' icon.
-  static const IconData strokeRoundedComet02 =
-      IconData(0x2c27, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedComet02 = IconData(0x2c27, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedComingSoon01' icon.
   static const IconData strokeRoundedComingSoon01 =
@@ -3540,8 +3364,7 @@ class HugeIcons {
       IconData(0x2c2a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCommand' icon.
-  static const IconData strokeRoundedCommand =
-      IconData(0x2c2b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCommand = IconData(0x2c2b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedComment01' icon.
   static const IconData strokeRoundedComment01 =
@@ -3580,8 +3403,7 @@ class HugeIcons {
       IconData(0x2c34, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCompass' icon.
-  static const IconData strokeRoundedCompass =
-      IconData(0x2c35, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCompass = IconData(0x2c35, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedComplaint' icon.
   static const IconData strokeRoundedComplaint =
@@ -3652,12 +3474,10 @@ class HugeIcons {
       IconData(0x2c46, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCone01' icon.
-  static const IconData strokeRoundedCone01 =
-      IconData(0x2c47, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCone01 = IconData(0x2c47, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCone02' icon.
-  static const IconData strokeRoundedCone02 =
-      IconData(0x2c48, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCone02 = IconData(0x2c48, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedConference' icon.
   static const IconData strokeRoundedConference =
@@ -3688,12 +3508,10 @@ class HugeIcons {
       IconData(0x2c4f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedConnect' icon.
-  static const IconData strokeRoundedConnect =
-      IconData(0x2c50, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedConnect = IconData(0x2c50, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedConsole' icon.
-  static const IconData strokeRoundedConsole =
-      IconData(0x2c51, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedConsole = IconData(0x2c51, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedConstellation' icon.
   static const IconData strokeRoundedConstellation =
@@ -3712,8 +3530,7 @@ class HugeIcons {
       IconData(0x2c55, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedContact' icon.
-  static const IconData strokeRoundedContact =
-      IconData(0x2c56, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedContact = IconData(0x2c56, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedContainerTruck01' icon.
   static const IconData strokeRoundedContainerTruck01 =
@@ -3736,8 +3553,7 @@ class HugeIcons {
       IconData(0x2c5b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCookie' icon.
-  static const IconData strokeRoundedCookie =
-      IconData(0x2c5c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCookie = IconData(0x2c5c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCoordinate01' icon.
   static const IconData strokeRoundedCoordinate01 =
@@ -3748,16 +3564,13 @@ class HugeIcons {
       IconData(0x2c5e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCopilot' icon.
-  static const IconData strokeRoundedCopilot =
-      IconData(0x2c5f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCopilot = IconData(0x2c5f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCopy01' icon.
-  static const IconData strokeRoundedCopy01 =
-      IconData(0x2c60, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCopy01 = IconData(0x2c60, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCopy02' icon.
-  static const IconData strokeRoundedCopy02 =
-      IconData(0x2c61, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCopy02 = IconData(0x2c61, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCopyLink' icon.
   static const IconData strokeRoundedCopyLink =
@@ -3768,16 +3581,14 @@ class HugeIcons {
       IconData(0x2c63, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCorn' icon.
-  static const IconData strokeRoundedCorn =
-      IconData(0x2c64, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCorn = IconData(0x2c64, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCorporate' icon.
   static const IconData strokeRoundedCorporate =
       IconData(0x2c65, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCos' icon.
-  static const IconData strokeRoundedCos =
-      IconData(0x2c66, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCos = IconData(0x2c66, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCosine01' icon.
   static const IconData strokeRoundedCosine01 =
@@ -3788,8 +3599,7 @@ class HugeIcons {
       IconData(0x2c68, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCottage' icon.
-  static const IconData strokeRoundedCottage =
-      IconData(0x2c69, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCottage = IconData(0x2c69, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCottonCandy' icon.
   static const IconData strokeRoundedCottonCandy =
@@ -3812,8 +3622,7 @@ class HugeIcons {
       IconData(0x2c6e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCourse' icon.
-  static const IconData strokeRoundedCourse =
-      IconData(0x2c6f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCourse = IconData(0x2c6f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCourtHouse' icon.
   static const IconData strokeRoundedCourtHouse =
@@ -3844,20 +3653,16 @@ class HugeIcons {
       IconData(0x2c76, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCpu' icon.
-  static const IconData strokeRoundedCpu =
-      IconData(0x2c77, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCpu = IconData(0x2c77, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCrab' icon.
-  static const IconData strokeRoundedCrab =
-      IconData(0x2c78, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCrab = IconData(0x2c78, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCrane' icon.
-  static const IconData strokeRoundedCrane =
-      IconData(0x2c79, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCrane = IconData(0x2c79, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCrazy' icon.
-  static const IconData strokeRoundedCrazy =
-      IconData(0x2c7a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCrazy = IconData(0x2c7a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCreativeMarket' icon.
   static const IconData strokeRoundedCreativeMarket =
@@ -3916,32 +3721,26 @@ class HugeIcons {
       IconData(0x2c88, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCrop' icon.
-  static const IconData strokeRoundedCrop =
-      IconData(0x2c89, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCrop = IconData(0x2c89, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCrowdfunding' icon.
   static const IconData strokeRoundedCrowdfunding =
       IconData(0x2c8a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCrown' icon.
-  static const IconData strokeRoundedCrown =
-      IconData(0x2c8b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCrown = IconData(0x2c8b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCrying' icon.
-  static const IconData strokeRoundedCrying =
-      IconData(0x2c8c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCrying = IconData(0x2c8c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCsv01' icon.
-  static const IconData strokeRoundedCsv01 =
-      IconData(0x2c8d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCsv01 = IconData(0x2c8d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCsv02' icon.
-  static const IconData strokeRoundedCsv02 =
-      IconData(0x2c8e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCsv02 = IconData(0x2c8e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCube' icon.
-  static const IconData strokeRoundedCube =
-      IconData(0x2c8f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCube = IconData(0x2c8f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCupcake01' icon.
   static const IconData strokeRoundedCupcake01 =
@@ -3956,8 +3755,7 @@ class HugeIcons {
       IconData(0x2c92, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCurling' icon.
-  static const IconData strokeRoundedCurling =
-      IconData(0x2c93, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedCurling = IconData(0x2c93, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedCursor01' icon.
   static const IconData strokeRoundedCursor01 =
@@ -4144,12 +3942,10 @@ class HugeIcons {
       IconData(0x2cc1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDanger' icon.
-  static const IconData strokeRoundedDanger =
-      IconData(0x2cc2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDanger = IconData(0x2cc2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDart' icon.
-  static const IconData strokeRoundedDart =
-      IconData(0x2cc3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDart = IconData(0x2cc3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDashboardBrowsing' icon.
   static const IconData strokeRoundedDashboardBrowsing =
@@ -4268,12 +4064,10 @@ class HugeIcons {
       IconData(0x2ce0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDates' icon.
-  static const IconData strokeRoundedDates =
-      IconData(0x2ce1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDates = IconData(0x2ce1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDead' icon.
-  static const IconData strokeRoundedDead =
-      IconData(0x2ce2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDead = IconData(0x2ce2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDelete01' icon.
   static const IconData strokeRoundedDelete01 =
@@ -4396,20 +4190,16 @@ class HugeIcons {
       IconData(0x2d00, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDesert' icon.
-  static const IconData strokeRoundedDesert =
-      IconData(0x2d01, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDesert = IconData(0x2d01, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDesk01' icon.
-  static const IconData strokeRoundedDesk01 =
-      IconData(0x2d02, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDesk01 = IconData(0x2d02, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDesk02' icon.
-  static const IconData strokeRoundedDesk02 =
-      IconData(0x2d03, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDesk02 = IconData(0x2d03, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDesk' icon.
-  static const IconData strokeRoundedDesk =
-      IconData(0x2d04, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDesk = IconData(0x2d04, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDeveloper' icon.
   static const IconData strokeRoundedDeveloper =
@@ -4456,24 +4246,20 @@ class HugeIcons {
       IconData(0x2d0f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDiamond' icon.
-  static const IconData strokeRoundedDiamond =
-      IconData(0x2d10, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDiamond = IconData(0x2d10, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDiaper' icon.
-  static const IconData strokeRoundedDiaper =
-      IconData(0x2d11, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDiaper = IconData(0x2d11, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDice' icon.
-  static const IconData strokeRoundedDice =
-      IconData(0x2d12, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDice = IconData(0x2d12, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDigestion' icon.
   static const IconData strokeRoundedDigestion =
       IconData(0x2d13, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDigg' icon.
-  static const IconData strokeRoundedDigg =
-      IconData(0x2d14, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDigg = IconData(0x2d14, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDigitalClock' icon.
   static const IconData strokeRoundedDigitalClock =
@@ -4492,8 +4278,7 @@ class HugeIcons {
       IconData(0x2d18, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDiploma' icon.
-  static const IconData strokeRoundedDiploma =
-      IconData(0x2d19, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDiploma = IconData(0x2d19, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDirectionLeft01' icon.
   static const IconData strokeRoundedDirectionLeft01 =
@@ -4520,8 +4305,7 @@ class HugeIcons {
       IconData(0x2d1f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDirham' icon.
-  static const IconData strokeRoundedDirham =
-      IconData(0x2d20, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDirham = IconData(0x2d20, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDisability01' icon.
   static const IconData strokeRoundedDisability01 =
@@ -4532,8 +4316,7 @@ class HugeIcons {
       IconData(0x2d22, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDiscord' icon.
-  static const IconData strokeRoundedDiscord =
-      IconData(0x2d23, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDiscord = IconData(0x2d23, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDiscount01' icon.
   static const IconData strokeRoundedDiscount01 =
@@ -4560,12 +4343,10 @@ class HugeIcons {
       IconData(0x2d29, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDish01' icon.
-  static const IconData strokeRoundedDish01 =
-      IconData(0x2d2a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDish01 = IconData(0x2d2a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDish02' icon.
-  static const IconData strokeRoundedDish02 =
-      IconData(0x2d2b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDish02 = IconData(0x2d2b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDishWasher' icon.
   static const IconData strokeRoundedDishWasher =
@@ -4616,12 +4397,10 @@ class HugeIcons {
       IconData(0x2d37, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDna01' icon.
-  static const IconData strokeRoundedDna01 =
-      IconData(0x2d38, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDna01 = IconData(0x2d38, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDna' icon.
-  static const IconData strokeRoundedDna =
-      IconData(0x2d39, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDna = IconData(0x2d39, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDoNotTouch01' icon.
   static const IconData strokeRoundedDoNotTouch01 =
@@ -4632,12 +4411,10 @@ class HugeIcons {
       IconData(0x2d3b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDoc01' icon.
-  static const IconData strokeRoundedDoc01 =
-      IconData(0x2d3c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDoc01 = IconData(0x2d3c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDoc02' icon.
-  static const IconData strokeRoundedDoc02 =
-      IconData(0x2d3d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDoc02 = IconData(0x2d3d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDoctor01' icon.
   static const IconData strokeRoundedDoctor01 =
@@ -4696,28 +4473,23 @@ class HugeIcons {
       IconData(0x2d4b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDome' icon.
-  static const IconData strokeRoundedDome =
-      IconData(0x2d4c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDome = IconData(0x2d4c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDomino' icon.
-  static const IconData strokeRoundedDomino =
-      IconData(0x2d4d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDomino = IconData(0x2d4d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDoor01' icon.
-  static const IconData strokeRoundedDoor01 =
-      IconData(0x2d4e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDoor01 = IconData(0x2d4e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDoor02' icon.
-  static const IconData strokeRoundedDoor02 =
-      IconData(0x2d4f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDoor02 = IconData(0x2d4f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDoorLock' icon.
   static const IconData strokeRoundedDoorLock =
       IconData(0x2d50, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDoor' icon.
-  static const IconData strokeRoundedDoor =
-      IconData(0x2d51, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDoor = IconData(0x2d51, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDoughnut' icon.
   static const IconData strokeRoundedDoughnut =
@@ -4760,20 +4532,16 @@ class HugeIcons {
       IconData(0x2d5b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDrag01' icon.
-  static const IconData strokeRoundedDrag01 =
-      IconData(0x2d5c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDrag01 = IconData(0x2d5c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDrag02' icon.
-  static const IconData strokeRoundedDrag02 =
-      IconData(0x2d5d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDrag02 = IconData(0x2d5d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDrag03' icon.
-  static const IconData strokeRoundedDrag03 =
-      IconData(0x2d5e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDrag03 = IconData(0x2d5e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDrag04' icon.
-  static const IconData strokeRoundedDrag04 =
-      IconData(0x2d5f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDrag04 = IconData(0x2d5f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDragDropHorizontal' icon.
   static const IconData strokeRoundedDragDropHorizontal =
@@ -4828,32 +4596,25 @@ class HugeIcons {
       IconData(0x2d6c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDress01' icon.
-  static const IconData strokeRoundedDress01 =
-      IconData(0x2d6d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDress01 = IconData(0x2d6d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDress02' icon.
-  static const IconData strokeRoundedDress02 =
-      IconData(0x2d6e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDress02 = IconData(0x2d6e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDress03' icon.
-  static const IconData strokeRoundedDress03 =
-      IconData(0x2d6f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDress03 = IconData(0x2d6f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDress04' icon.
-  static const IconData strokeRoundedDress04 =
-      IconData(0x2d70, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDress04 = IconData(0x2d70, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDress05' icon.
-  static const IconData strokeRoundedDress05 =
-      IconData(0x2d71, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDress05 = IconData(0x2d71, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDress06' icon.
-  static const IconData strokeRoundedDress06 =
-      IconData(0x2d72, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDress06 = IconData(0x2d72, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDress07' icon.
-  static const IconData strokeRoundedDress07 =
-      IconData(0x2d73, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDress07 = IconData(0x2d73, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDressingTable01' icon.
   static const IconData strokeRoundedDressingTable01 =
@@ -4872,36 +4633,29 @@ class HugeIcons {
       IconData(0x2d77, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDrink' icon.
-  static const IconData strokeRoundedDrink =
-      IconData(0x2d78, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDrink = IconData(0x2d78, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDrone' icon.
-  static const IconData strokeRoundedDrone =
-      IconData(0x2d79, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDrone = IconData(0x2d79, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDrooling' icon.
   static const IconData strokeRoundedDrooling =
       IconData(0x2d7a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDropbox' icon.
-  static const IconData strokeRoundedDropbox =
-      IconData(0x2d7b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDropbox = IconData(0x2d7b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDroplet' icon.
-  static const IconData strokeRoundedDroplet =
-      IconData(0x2d7c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDroplet = IconData(0x2d7c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDropper' icon.
-  static const IconData strokeRoundedDropper =
-      IconData(0x2d7d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDropper = IconData(0x2d7d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDs3Tool' icon.
-  static const IconData strokeRoundedDs3Tool =
-      IconData(0x2d7e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDs3Tool = IconData(0x2d7e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDua' icon.
-  static const IconData strokeRoundedDua =
-      IconData(0x2d7f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedDua = IconData(0x2d7f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedDumbbell01' icon.
   static const IconData strokeRoundedDumbbell01 =
@@ -4928,12 +4682,10 @@ class HugeIcons {
       IconData(0x2d85, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEar' icon.
-  static const IconData strokeRoundedEar =
-      IconData(0x2d86, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEar = IconData(0x2d86, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEarth' icon.
-  static const IconData strokeRoundedEarth =
-      IconData(0x2d87, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEarth = IconData(0x2d87, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEaseCurveControlPoints' icon.
   static const IconData strokeRoundedEaseCurveControlPoints =
@@ -4948,16 +4700,14 @@ class HugeIcons {
       IconData(0x2d8a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEaseIn' icon.
-  static const IconData strokeRoundedEaseIn =
-      IconData(0x2d8b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEaseIn = IconData(0x2d8b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEaseOutControlPoint' icon.
   static const IconData strokeRoundedEaseOutControlPoint =
       IconData(0x2d8c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEaseOut' icon.
-  static const IconData strokeRoundedEaseOut =
-      IconData(0x2d8d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEaseOut = IconData(0x2d8d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEcoEnergy' icon.
   static const IconData strokeRoundedEcoEnergy =
@@ -4972,16 +4722,13 @@ class HugeIcons {
       IconData(0x2d90, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEdit01' icon.
-  static const IconData strokeRoundedEdit01 =
-      IconData(0x2d91, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEdit01 = IconData(0x2d91, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEdit02' icon.
-  static const IconData strokeRoundedEdit02 =
-      IconData(0x2d92, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEdit02 = IconData(0x2d92, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEditOff' icon.
-  static const IconData strokeRoundedEditOff =
-      IconData(0x2d93, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEditOff = IconData(0x2d93, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEditRoad' icon.
   static const IconData strokeRoundedEditRoad =
@@ -4996,8 +4743,7 @@ class HugeIcons {
       IconData(0x2d96, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEggs' icon.
-  static const IconData strokeRoundedEggs =
-      IconData(0x2d97, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEggs = IconData(0x2d97, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEidMubarak' icon.
   static const IconData strokeRoundedEidMubarak =
@@ -5048,16 +4794,14 @@ class HugeIcons {
       IconData(0x2da3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEnergy' icon.
-  static const IconData strokeRoundedEnergy =
-      IconData(0x2da4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEnergy = IconData(0x2da4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEnteringGeoFence' icon.
   static const IconData strokeRoundedEnteringGeoFence =
       IconData(0x2da5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEnvato' icon.
-  static const IconData strokeRoundedEnvato =
-      IconData(0x2da6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEnvato = IconData(0x2da6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEqualSignCircle' icon.
   static const IconData strokeRoundedEqualSignCircle =
@@ -5108,8 +4852,7 @@ class HugeIcons {
       IconData(0x2db2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEraser' icon.
-  static const IconData strokeRoundedEraser =
-      IconData(0x2db3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEraser = IconData(0x2db3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEstimate01' icon.
   static const IconData strokeRoundedEstimate01 =
@@ -5148,16 +4891,14 @@ class HugeIcons {
       IconData(0x2dbc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEuro' icon.
-  static const IconData strokeRoundedEuro =
-      IconData(0x2dbd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEuro = IconData(0x2dbd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEvCharging' icon.
   static const IconData strokeRoundedEvCharging =
       IconData(0x2dbe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEvil' icon.
-  static const IconData strokeRoundedEvil =
-      IconData(0x2dbf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEvil = IconData(0x2dbf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedExchange01' icon.
   static const IconData strokeRoundedExchange01 =
@@ -5180,8 +4921,7 @@ class HugeIcons {
       IconData(0x2dc4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedEye' icon.
-  static const IconData strokeRoundedEye =
-      IconData(0x2dc5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedEye = IconData(0x2dc5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFacebook01' icon.
   static const IconData strokeRoundedFacebook01 =
@@ -5200,8 +4940,7 @@ class HugeIcons {
       IconData(0x2dc9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFactory' icon.
-  static const IconData strokeRoundedFactory =
-      IconData(0x2dca, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFactory = IconData(0x2dca, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFahrenheit' icon.
   static const IconData strokeRoundedFahrenheit =
@@ -5228,16 +4967,14 @@ class HugeIcons {
       IconData(0x2dd0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFeather' icon.
-  static const IconData strokeRoundedFeather =
-      IconData(0x2dd1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFeather = IconData(0x2dd1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFencingMask' icon.
   static const IconData strokeRoundedFencingMask =
       IconData(0x2dd2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFencing' icon.
-  static const IconData strokeRoundedFencing =
-      IconData(0x2dd3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFencing = IconData(0x2dd3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFerrisWheel' icon.
   static const IconData strokeRoundedFerrisWheel =
@@ -5248,20 +4985,16 @@ class HugeIcons {
       IconData(0x2dd5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFigma' icon.
-  static const IconData strokeRoundedFigma =
-      IconData(0x2dd6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFigma = IconData(0x2dd6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFile01' icon.
-  static const IconData strokeRoundedFile01 =
-      IconData(0x2dd7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFile01 = IconData(0x2dd7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFile02' icon.
-  static const IconData strokeRoundedFile02 =
-      IconData(0x2dd8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFile02 = IconData(0x2dd8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFileAdd' icon.
-  static const IconData strokeRoundedFileAdd =
-      IconData(0x2dd9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFileAdd = IconData(0x2dd9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFileAttachment' icon.
   static const IconData strokeRoundedFileAttachment =
@@ -5348,8 +5081,7 @@ class HugeIcons {
       IconData(0x2dee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFilePin' icon.
-  static const IconData strokeRoundedFilePin =
-      IconData(0x2def, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFilePin = IconData(0x2def, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFilePound' icon.
   static const IconData strokeRoundedFilePound =
@@ -5412,20 +5144,16 @@ class HugeIcons {
       IconData(0x2dfe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFileYen' icon.
-  static const IconData strokeRoundedFileYen =
-      IconData(0x2dff, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFileYen = IconData(0x2dff, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFileZip' icon.
-  static const IconData strokeRoundedFileZip =
-      IconData(0x2e00, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFileZip = IconData(0x2e00, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFilm01' icon.
-  static const IconData strokeRoundedFilm01 =
-      IconData(0x2e01, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFilm01 = IconData(0x2e01, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFilm02' icon.
-  static const IconData strokeRoundedFilm02 =
-      IconData(0x2e02, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFilm02 = IconData(0x2e02, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFilmRoll01' icon.
   static const IconData strokeRoundedFilmRoll01 =
@@ -5468,8 +5196,7 @@ class HugeIcons {
       IconData(0x2e0c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFilter' icon.
-  static const IconData strokeRoundedFilter =
-      IconData(0x2e0d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFilter = IconData(0x2e0d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFingerPrintAdd' icon.
   static const IconData strokeRoundedFingerPrintAdd =
@@ -5496,20 +5223,17 @@ class HugeIcons {
       IconData(0x2e13, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFins' icon.
-  static const IconData strokeRoundedFins =
-      IconData(0x2e14, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFins = IconData(0x2e14, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFirePit' icon.
-  static const IconData strokeRoundedFirePit =
-      IconData(0x2e15, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFirePit = IconData(0x2e15, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFireSecurity' icon.
   static const IconData strokeRoundedFireSecurity =
       IconData(0x2e16, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFire' icon.
-  static const IconData strokeRoundedFire =
-      IconData(0x2e17, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFire = IconData(0x2e17, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFirewall' icon.
   static const IconData strokeRoundedFirewall =
@@ -5536,36 +5260,30 @@ class HugeIcons {
       IconData(0x2e1d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFiverr' icon.
-  static const IconData strokeRoundedFiverr =
-      IconData(0x2e1e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFiverr = IconData(0x2e1e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlag01' icon.
-  static const IconData strokeRoundedFlag01 =
-      IconData(0x2e1f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFlag01 = IconData(0x2e1f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlag02' icon.
-  static const IconData strokeRoundedFlag02 =
-      IconData(0x2e20, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFlag02 = IconData(0x2e20, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlag03' icon.
-  static const IconData strokeRoundedFlag03 =
-      IconData(0x2e21, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFlag03 = IconData(0x2e21, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlashOff' icon.
   static const IconData strokeRoundedFlashOff =
       IconData(0x2e22, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlash' icon.
-  static const IconData strokeRoundedFlash =
-      IconData(0x2e23, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFlash = IconData(0x2e23, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlaticon' icon.
   static const IconData strokeRoundedFlaticon =
       IconData(0x2e24, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlickr' icon.
-  static const IconData strokeRoundedFlickr =
-      IconData(0x2e25, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFlickr = IconData(0x2e25, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlimSlate' icon.
   static const IconData strokeRoundedFlimSlate =
@@ -5592,8 +5310,7 @@ class HugeIcons {
       IconData(0x2e2b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlipTop' icon.
-  static const IconData strokeRoundedFlipTop =
-      IconData(0x2e2c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFlipTop = IconData(0x2e2c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlipVertical' icon.
   static const IconData strokeRoundedFlipVertical =
@@ -5620,8 +5337,7 @@ class HugeIcons {
       IconData(0x2e32, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlow' icon.
-  static const IconData strokeRoundedFlow =
-      IconData(0x2e33, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFlow = IconData(0x2e33, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlowchart01' icon.
   static const IconData strokeRoundedFlowchart01 =
@@ -5636,8 +5352,7 @@ class HugeIcons {
       IconData(0x2e36, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFlushed' icon.
-  static const IconData strokeRoundedFlushed =
-      IconData(0x2e37, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFlushed = IconData(0x2e37, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFocusPoint' icon.
   static const IconData strokeRoundedFocusPoint =
@@ -5804,8 +5519,7 @@ class HugeIcons {
       IconData(0x2e60, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFolders' icon.
-  static const IconData strokeRoundedFolders =
-      IconData(0x2e61, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFolders = IconData(0x2e61, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFootballPitch' icon.
   static const IconData strokeRoundedFootballPitch =
@@ -5816,12 +5530,10 @@ class HugeIcons {
       IconData(0x2e63, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFork' icon.
-  static const IconData strokeRoundedFork =
-      IconData(0x2e64, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFork = IconData(0x2e64, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedForrst' icon.
-  static const IconData strokeRoundedForrst =
-      IconData(0x2e65, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedForrst = IconData(0x2e65, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFortress' icon.
   static const IconData strokeRoundedFortress =
@@ -5844,16 +5556,14 @@ class HugeIcons {
       IconData(0x2e6a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFourK' icon.
-  static const IconData strokeRoundedFourK =
-      IconData(0x2e6b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFourK = IconData(0x2e6b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFoursquare' icon.
   static const IconData strokeRoundedFoursquare =
       IconData(0x2e6c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFramer' icon.
-  static const IconData strokeRoundedFramer =
-      IconData(0x2e6d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFramer = IconData(0x2e6d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFrameworks' icon.
   static const IconData strokeRoundedFrameworks =
@@ -5868,20 +5578,16 @@ class HugeIcons {
       IconData(0x2e70, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFridge' icon.
-  static const IconData strokeRoundedFridge =
-      IconData(0x2e71, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFridge = IconData(0x2e71, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFry' icon.
-  static const IconData strokeRoundedFry =
-      IconData(0x2e72, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFry = IconData(0x2e72, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFuel01' icon.
-  static const IconData strokeRoundedFuel01 =
-      IconData(0x2e73, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFuel01 = IconData(0x2e73, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFuel02' icon.
-  static const IconData strokeRoundedFuel02 =
-      IconData(0x2e74, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedFuel02 = IconData(0x2e74, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedFuelStation' icon.
   static const IconData strokeRoundedFuelStation =
@@ -5904,8 +5610,7 @@ class HugeIcons {
       IconData(0x2e79, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGalaxy' icon.
-  static const IconData strokeRoundedGalaxy =
-      IconData(0x2e7a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGalaxy = IconData(0x2e7a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGameController01' icon.
   static const IconData strokeRoundedGameController01 =
@@ -5920,32 +5625,27 @@ class HugeIcons {
       IconData(0x2e7d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGame' icon.
-  static const IconData strokeRoundedGame =
-      IconData(0x2e7e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGame = IconData(0x2e7e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGameboy' icon.
-  static const IconData strokeRoundedGameboy =
-      IconData(0x2e7f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGameboy = IconData(0x2e7f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGarage' icon.
-  static const IconData strokeRoundedGarage =
-      IconData(0x2e80, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGarage = IconData(0x2e80, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGarbageTruck' icon.
   static const IconData strokeRoundedGarbageTruck =
       IconData(0x2e81, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGasPipe' icon.
-  static const IconData strokeRoundedGasPipe =
-      IconData(0x2e82, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGasPipe = IconData(0x2e82, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGasStove' icon.
   static const IconData strokeRoundedGasStove =
       IconData(0x2e83, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGem' icon.
-  static const IconData strokeRoundedGem =
-      IconData(0x2e84, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGem = IconData(0x2e84, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGeologyCrust' icon.
   static const IconData strokeRoundedGeologyCrust =
@@ -5964,20 +5664,17 @@ class HugeIcons {
       IconData(0x2e88, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGif01' icon.
-  static const IconData strokeRoundedGif01 =
-      IconData(0x2e89, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGif01 = IconData(0x2e89, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGif02' icon.
-  static const IconData strokeRoundedGif02 =
-      IconData(0x2e8a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGif02 = IconData(0x2e8a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGiftCard' icon.
   static const IconData strokeRoundedGiftCard =
       IconData(0x2e8b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGift' icon.
-  static const IconData strokeRoundedGift =
-      IconData(0x2e8c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGift = IconData(0x2e8c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGitBranch' icon.
   static const IconData strokeRoundedGitBranch =
@@ -5992,8 +5689,7 @@ class HugeIcons {
       IconData(0x2e8f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGitFork' icon.
-  static const IconData strokeRoundedGitFork =
-      IconData(0x2e90, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGitFork = IconData(0x2e90, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGitMerge' icon.
   static const IconData strokeRoundedGitMerge =
@@ -6012,20 +5708,17 @@ class HugeIcons {
       IconData(0x2e94, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGitbook' icon.
-  static const IconData strokeRoundedGitbook =
-      IconData(0x2e95, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGitbook = IconData(0x2e95, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGithub01' icon.
   static const IconData strokeRoundedGithub01 =
       IconData(0x2e96, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGithub' icon.
-  static const IconData strokeRoundedGithub =
-      IconData(0x2e97, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGithub = IconData(0x2e97, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGitlab' icon.
-  static const IconData strokeRoundedGitlab =
-      IconData(0x2e98, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGitlab = IconData(0x2e98, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGiveBlood' icon.
   static const IconData strokeRoundedGiveBlood =
@@ -6036,8 +5729,7 @@ class HugeIcons {
       IconData(0x2e9a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGlasses' icon.
-  static const IconData strokeRoundedGlasses =
-      IconData(0x2e9b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGlasses = IconData(0x2e9b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGlobalEditing' icon.
   static const IconData strokeRoundedGlobalEditing =
@@ -6056,20 +5748,16 @@ class HugeIcons {
       IconData(0x2e9f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGlobal' icon.
-  static const IconData strokeRoundedGlobal =
-      IconData(0x2ea0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGlobal = IconData(0x2ea0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGlobe02' icon.
-  static const IconData strokeRoundedGlobe02 =
-      IconData(0x2ea1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGlobe02 = IconData(0x2ea1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGlobe' icon.
-  static const IconData strokeRoundedGlobe =
-      IconData(0x2ea2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGlobe = IconData(0x2ea2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGlove' icon.
-  static const IconData strokeRoundedGlove =
-      IconData(0x2ea3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGlove = IconData(0x2ea3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGoBackward10Sec' icon.
   static const IconData strokeRoundedGoBackward10Sec =
@@ -6116,16 +5804,14 @@ class HugeIcons {
       IconData(0x2eae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGold' icon.
-  static const IconData strokeRoundedGold =
-      IconData(0x2eaf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGold = IconData(0x2eaf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGolfBall' icon.
   static const IconData strokeRoundedGolfBall =
       IconData(0x2eb0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGolfBat' icon.
-  static const IconData strokeRoundedGolfBat =
-      IconData(0x2eb1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGolfBat = IconData(0x2eb1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGolfCart' icon.
   static const IconData strokeRoundedGolfCart =
@@ -6160,16 +5846,13 @@ class HugeIcons {
       IconData(0x2eb9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGoogle' icon.
-  static const IconData strokeRoundedGoogle =
-      IconData(0x2eba, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGoogle = IconData(0x2eba, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGps01' icon.
-  static const IconData strokeRoundedGps01 =
-      IconData(0x2ebb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGps01 = IconData(0x2ebb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGps02' icon.
-  static const IconData strokeRoundedGps02 =
-      IconData(0x2ebc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGps02 = IconData(0x2ebc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGpsDisconnected' icon.
   static const IconData strokeRoundedGpsDisconnected =
@@ -6204,12 +5887,10 @@ class HugeIcons {
       IconData(0x2ec4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGrapes' icon.
-  static const IconData strokeRoundedGrapes =
-      IconData(0x2ec5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGrapes = IconData(0x2ec5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGravity' icon.
-  static const IconData strokeRoundedGravity =
-      IconData(0x2ec6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGravity = IconData(0x2ec6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGreaterThanCircle' icon.
   static const IconData strokeRoundedGreaterThanCircle =
@@ -6232,8 +5913,7 @@ class HugeIcons {
       IconData(0x2ecb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGridOff' icon.
-  static const IconData strokeRoundedGridOff =
-      IconData(0x2ecc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGridOff = IconData(0x2ecc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGridTable' icon.
   static const IconData strokeRoundedGridTable =
@@ -6244,8 +5924,7 @@ class HugeIcons {
       IconData(0x2ece, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGrid' icon.
-  static const IconData strokeRoundedGrid =
-      IconData(0x2ecf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGrid = IconData(0x2ecf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGrimacing' icon.
   static const IconData strokeRoundedGrimacing =
@@ -6256,8 +5935,7 @@ class HugeIcons {
       IconData(0x2ed1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGrok' icon.
-  static const IconData strokeRoundedGrok =
-      IconData(0x2ed2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGrok = IconData(0x2ed2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGroupItems' icon.
   static const IconData strokeRoundedGroupItems =
@@ -6272,8 +5950,7 @@ class HugeIcons {
       IconData(0x2ed5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGun' icon.
-  static const IconData strokeRoundedGun =
-      IconData(0x2ed6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedGun = IconData(0x2ed6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedGymnasticRings' icon.
   static const IconData strokeRoundedGymnasticRings =
@@ -6296,12 +5973,10 @@ class HugeIcons {
       IconData(0x2edb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHaji' icon.
-  static const IconData strokeRoundedHaji =
-      IconData(0x2edc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHaji = IconData(0x2edc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHalal' icon.
-  static const IconData strokeRoundedHalal =
-      IconData(0x2edd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHalal = IconData(0x2edd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHamburger01' icon.
   static const IconData strokeRoundedHamburger01 =
@@ -6388,36 +6063,30 @@ class HugeIcons {
       IconData(0x2ef2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHanger' icon.
-  static const IconData strokeRoundedHanger =
-      IconData(0x2ef3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHanger = IconData(0x2ef3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHangingClock' icon.
   static const IconData strokeRoundedHangingClock =
       IconData(0x2ef4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHangout' icon.
-  static const IconData strokeRoundedHangout =
-      IconData(0x2ef5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHangout = IconData(0x2ef5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHappy' icon.
-  static const IconData strokeRoundedHappy =
-      IconData(0x2ef6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHappy = IconData(0x2ef6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHardDrive' icon.
   static const IconData strokeRoundedHardDrive =
       IconData(0x2ef7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHdd' icon.
-  static const IconData strokeRoundedHdd =
-      IconData(0x2ef8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHdd = IconData(0x2ef8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHdr01' icon.
-  static const IconData strokeRoundedHdr01 =
-      IconData(0x2ef9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHdr01 = IconData(0x2ef9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHdr02' icon.
-  static const IconData strokeRoundedHdr02 =
-      IconData(0x2efa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHdr02 = IconData(0x2efa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHeading01' icon.
   static const IconData strokeRoundedHeading01 =
@@ -6444,8 +6113,7 @@ class HugeIcons {
       IconData(0x2f00, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHeading' icon.
-  static const IconData strokeRoundedHeading =
-      IconData(0x2f01, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHeading = IconData(0x2f01, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHeadphoneMute' icon.
   static const IconData strokeRoundedHeadphoneMute =
@@ -6464,16 +6132,14 @@ class HugeIcons {
       IconData(0x2f05, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHeadset' icon.
-  static const IconData strokeRoundedHeadset =
-      IconData(0x2f06, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHeadset = IconData(0x2f06, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHealtcare' icon.
   static const IconData strokeRoundedHealtcare =
       IconData(0x2f07, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHealth' icon.
-  static const IconData strokeRoundedHealth =
-      IconData(0x2f08, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHealth = IconData(0x2f08, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHeartAdd' icon.
   static const IconData strokeRoundedHeartAdd =
@@ -6508,8 +6174,7 @@ class HugeIcons {
       IconData(0x2f10, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHexagon' icon.
-  static const IconData strokeRoundedHexagon =
-      IconData(0x2f11, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHexagon = IconData(0x2f11, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHierarchyCircle01' icon.
   static const IconData strokeRoundedHierarchyCircle01 =
@@ -6576,32 +6241,25 @@ class HugeIcons {
       IconData(0x2f21, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHijab' icon.
-  static const IconData strokeRoundedHijab =
-      IconData(0x2f22, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHijab = IconData(0x2f22, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHockey' icon.
-  static const IconData strokeRoundedHockey =
-      IconData(0x2f23, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHockey = IconData(0x2f23, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHold01' icon.
-  static const IconData strokeRoundedHold01 =
-      IconData(0x2f24, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHold01 = IconData(0x2f24, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHold02' icon.
-  static const IconData strokeRoundedHold02 =
-      IconData(0x2f25, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHold02 = IconData(0x2f25, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHold03' icon.
-  static const IconData strokeRoundedHold03 =
-      IconData(0x2f26, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHold03 = IconData(0x2f26, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHold04' icon.
-  static const IconData strokeRoundedHold04 =
-      IconData(0x2f27, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHold04 = IconData(0x2f27, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHold05' icon.
-  static const IconData strokeRoundedHold05 =
-      IconData(0x2f28, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHold05 = IconData(0x2f28, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHoldLocked01' icon.
   static const IconData strokeRoundedHoldLocked01 =
@@ -6620,52 +6278,42 @@ class HugeIcons {
       IconData(0x2f2c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHome01' icon.
-  static const IconData strokeRoundedHome01 =
-      IconData(0x2f2d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHome01 = IconData(0x2f2d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHome02' icon.
-  static const IconData strokeRoundedHome02 =
-      IconData(0x2f2e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHome02 = IconData(0x2f2e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHome03' icon.
-  static const IconData strokeRoundedHome03 =
-      IconData(0x2f2f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHome03 = IconData(0x2f2f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHome04' icon.
-  static const IconData strokeRoundedHome04 =
-      IconData(0x2f30, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHome04 = IconData(0x2f30, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHome05' icon.
-  static const IconData strokeRoundedHome05 =
-      IconData(0x2f31, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHome05 = IconData(0x2f31, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHome06' icon.
-  static const IconData strokeRoundedHome06 =
-      IconData(0x2f32, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHome06 = IconData(0x2f32, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHomeWifi' icon.
   static const IconData strokeRoundedHomeWifi =
       IconData(0x2f33, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHoney01' icon.
-  static const IconData strokeRoundedHoney01 =
-      IconData(0x2f34, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHoney01 = IconData(0x2f34, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHoney02' icon.
-  static const IconData strokeRoundedHoney02 =
-      IconData(0x2f35, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHoney02 = IconData(0x2f35, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHonor' icon.
-  static const IconData strokeRoundedHonor =
-      IconData(0x2f36, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHonor = IconData(0x2f36, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHonourStar' icon.
   static const IconData strokeRoundedHonourStar =
       IconData(0x2f37, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHoodie' icon.
-  static const IconData strokeRoundedHoodie =
-      IconData(0x2f38, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHoodie = IconData(0x2f38, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHorizonalScrollPoint' icon.
   static const IconData strokeRoundedHorizonalScrollPoint =
@@ -6704,28 +6352,23 @@ class HugeIcons {
       IconData(0x2f41, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHotTube' icon.
-  static const IconData strokeRoundedHotTube =
-      IconData(0x2f42, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHotTube = IconData(0x2f42, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHotdog' icon.
-  static const IconData strokeRoundedHotdog =
-      IconData(0x2f43, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHotdog = IconData(0x2f43, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHotel01' icon.
-  static const IconData strokeRoundedHotel01 =
-      IconData(0x2f44, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHotel01 = IconData(0x2f44, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHotel02' icon.
-  static const IconData strokeRoundedHotel02 =
-      IconData(0x2f45, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHotel02 = IconData(0x2f45, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHotspotOffline' icon.
   static const IconData strokeRoundedHotspotOffline =
       IconData(0x2f46, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHotspot' icon.
-  static const IconData strokeRoundedHotspot =
-      IconData(0x2f47, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHotspot = IconData(0x2f47, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHourglassOff' icon.
   static const IconData strokeRoundedHourglassOff =
@@ -6736,40 +6379,33 @@ class HugeIcons {
       IconData(0x2f49, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHouse01' icon.
-  static const IconData strokeRoundedHouse01 =
-      IconData(0x2f4a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHouse01 = IconData(0x2f4a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHouse02' icon.
-  static const IconData strokeRoundedHouse02 =
-      IconData(0x2f4b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHouse02 = IconData(0x2f4b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHouse03' icon.
-  static const IconData strokeRoundedHouse03 =
-      IconData(0x2f4c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHouse03 = IconData(0x2f4c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHouse04' icon.
-  static const IconData strokeRoundedHouse04 =
-      IconData(0x2f4d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHouse04 = IconData(0x2f4d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHouse05' icon.
-  static const IconData strokeRoundedHouse05 =
-      IconData(0x2f4e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHouse05 = IconData(0x2f4e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHouseSolarPanel' icon.
   static const IconData strokeRoundedHouseSolarPanel =
       IconData(0x2f4f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHtml5' icon.
-  static const IconData strokeRoundedHtml5 =
-      IconData(0x2f50, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHtml5 = IconData(0x2f50, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHumidity' icon.
   static const IconData strokeRoundedHumidity =
       IconData(0x2f51, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHut' icon.
-  static const IconData strokeRoundedHut =
-      IconData(0x2f52, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedHut = IconData(0x2f52, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedHydroPower' icon.
   static const IconData strokeRoundedHydroPower =
@@ -6804,12 +6440,10 @@ class HugeIcons {
       IconData(0x2f5a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedIco' icon.
-  static const IconData strokeRoundedIco =
-      IconData(0x2f5b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedIco = IconData(0x2f5b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedIconjar' icon.
-  static const IconData strokeRoundedIconjar =
-      IconData(0x2f5c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedIconjar = IconData(0x2f5c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedIdNotVerified' icon.
   static const IconData strokeRoundedIdNotVerified =
@@ -6820,28 +6454,23 @@ class HugeIcons {
       IconData(0x2f5e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedId' icon.
-  static const IconData strokeRoundedId =
-      IconData(0x2f5f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedId = IconData(0x2f5f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedIdea01' icon.
-  static const IconData strokeRoundedIdea01 =
-      IconData(0x2f60, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedIdea01 = IconData(0x2f60, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedIdea' icon.
-  static const IconData strokeRoundedIdea =
-      IconData(0x2f61, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedIdea = IconData(0x2f61, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedIdentification' icon.
   static const IconData strokeRoundedIdentification =
       IconData(0x2f62, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedImage01' icon.
-  static const IconData strokeRoundedImage01 =
-      IconData(0x2f63, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedImage01 = IconData(0x2f63, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedImage02' icon.
-  static const IconData strokeRoundedImage02 =
-      IconData(0x2f64, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedImage02 = IconData(0x2f64, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedImageAdd01' icon.
   static const IconData strokeRoundedImageAdd01 =
@@ -6912,16 +6541,14 @@ class HugeIcons {
       IconData(0x2f75, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedImo' icon.
-  static const IconData strokeRoundedImo =
-      IconData(0x2f76, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedImo = IconData(0x2f76, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedImportantBook' icon.
   static const IconData strokeRoundedImportantBook =
       IconData(0x2f77, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedInLove' icon.
-  static const IconData strokeRoundedInLove =
-      IconData(0x2f78, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedInLove = IconData(0x2f78, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedInboxCheck' icon.
   static const IconData strokeRoundedInboxCheck =
@@ -6940,8 +6567,7 @@ class HugeIcons {
       IconData(0x2f7c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedInbox' icon.
-  static const IconData strokeRoundedInbox =
-      IconData(0x2f7d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedInbox = IconData(0x2f7d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedIncognito' icon.
   static const IconData strokeRoundedIncognito =
@@ -7100,36 +6726,30 @@ class HugeIcons {
       IconData(0x2fa4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedInvoice' icon.
-  static const IconData strokeRoundedInvoice =
-      IconData(0x2fa5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedInvoice = IconData(0x2fa5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedIpod' icon.
-  static const IconData strokeRoundedIpod =
-      IconData(0x2fa6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedIpod = IconData(0x2fa6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedIrisScan' icon.
   static const IconData strokeRoundedIrisScan =
       IconData(0x2fa7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedIsland' icon.
-  static const IconData strokeRoundedIsland =
-      IconData(0x2fa8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedIsland = IconData(0x2fa8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJar' icon.
-  static const IconData strokeRoundedJar =
-      IconData(0x2fa9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJar = IconData(0x2fa9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJavaScript' icon.
   static const IconData strokeRoundedJavaScript =
       IconData(0x2faa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJava' icon.
-  static const IconData strokeRoundedJava =
-      IconData(0x2fab, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJava = IconData(0x2fab, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJobLink' icon.
-  static const IconData strokeRoundedJobLink =
-      IconData(0x2fac, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJobLink = IconData(0x2fac, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJobSearch' icon.
   static const IconData strokeRoundedJobSearch =
@@ -7156,8 +6776,7 @@ class HugeIcons {
       IconData(0x2fb2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJoker' icon.
-  static const IconData strokeRoundedJoker =
-      IconData(0x2fb3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJoker = IconData(0x2fb3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJoystick01' icon.
   static const IconData strokeRoundedJoystick01 =
@@ -7180,32 +6799,25 @@ class HugeIcons {
       IconData(0x2fb8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJpg01' icon.
-  static const IconData strokeRoundedJpg01 =
-      IconData(0x2fb9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJpg01 = IconData(0x2fb9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJpg02' icon.
-  static const IconData strokeRoundedJpg02 =
-      IconData(0x2fba, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJpg02 = IconData(0x2fba, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJsx01' icon.
-  static const IconData strokeRoundedJsx01 =
-      IconData(0x2fbb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJsx01 = IconData(0x2fbb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJsx02' icon.
-  static const IconData strokeRoundedJsx02 =
-      IconData(0x2fbc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJsx02 = IconData(0x2fbc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJsx03' icon.
-  static const IconData strokeRoundedJsx03 =
-      IconData(0x2fbd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJsx03 = IconData(0x2fbd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJudge' icon.
-  static const IconData strokeRoundedJudge =
-      IconData(0x2fbe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJudge = IconData(0x2fbe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJupiter' icon.
-  static const IconData strokeRoundedJupiter =
-      IconData(0x2fbf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedJupiter = IconData(0x2fbf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedJusticeScale01' icon.
   static const IconData strokeRoundedJusticeScale01 =
@@ -7216,16 +6828,13 @@ class HugeIcons {
       IconData(0x2fc1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKaaba01' icon.
-  static const IconData strokeRoundedKaaba01 =
-      IconData(0x2fc2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKaaba01 = IconData(0x2fc2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKaaba02' icon.
-  static const IconData strokeRoundedKaaba02 =
-      IconData(0x2fc3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKaaba02 = IconData(0x2fc3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKayak' icon.
-  static const IconData strokeRoundedKayak =
-      IconData(0x2fc4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKayak = IconData(0x2fc4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKeffiyeh' icon.
   static const IconData strokeRoundedKeffiyeh =
@@ -7236,24 +6845,20 @@ class HugeIcons {
       IconData(0x2fc6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKettle' icon.
-  static const IconData strokeRoundedKettle =
-      IconData(0x2fc7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKettle = IconData(0x2fc7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKettlebell' icon.
   static const IconData strokeRoundedKettlebell =
       IconData(0x2fc8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKetupat' icon.
-  static const IconData strokeRoundedKetupat =
-      IconData(0x2fc9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKetupat = IconData(0x2fc9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKey01' icon.
-  static const IconData strokeRoundedKey01 =
-      IconData(0x2fca, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKey01 = IconData(0x2fca, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKey02' icon.
-  static const IconData strokeRoundedKey02 =
-      IconData(0x2fcb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKey02 = IconData(0x2fcb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKeyboard' icon.
   static const IconData strokeRoundedKeyboard =
@@ -7332,32 +6937,26 @@ class HugeIcons {
       IconData(0x2fde, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKid' icon.
-  static const IconData strokeRoundedKid =
-      IconData(0x2fdf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKid = IconData(0x2fdf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKidneys' icon.
-  static const IconData strokeRoundedKidneys =
-      IconData(0x2fe0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKidneys = IconData(0x2fe0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKissing' icon.
-  static const IconData strokeRoundedKissing =
-      IconData(0x2fe1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKissing = IconData(0x2fe1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKitchenUtensils' icon.
   static const IconData strokeRoundedKitchenUtensils =
       IconData(0x2fe2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKite' icon.
-  static const IconData strokeRoundedKite =
-      IconData(0x2fe3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKite = IconData(0x2fe3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKnife01' icon.
-  static const IconData strokeRoundedKnife01 =
-      IconData(0x2fe4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKnife01 = IconData(0x2fe4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKnife02' icon.
-  static const IconData strokeRoundedKnife02 =
-      IconData(0x2fe5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKnife02 = IconData(0x2fe5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKnifeBread' icon.
   static const IconData strokeRoundedKnifeBread =
@@ -7368,8 +6967,7 @@ class HugeIcons {
       IconData(0x2fe7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKnives' icon.
-  static const IconData strokeRoundedKnives =
-      IconData(0x2fe8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKnives = IconData(0x2fe8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKnowledge01' icon.
   static const IconData strokeRoundedKnowledge01 =
@@ -7380,56 +6978,44 @@ class HugeIcons {
       IconData(0x2fea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKurta01' icon.
-  static const IconData strokeRoundedKurta01 =
-      IconData(0x2feb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKurta01 = IconData(0x2feb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedKurta' icon.
-  static const IconData strokeRoundedKurta =
-      IconData(0x2fec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedKurta = IconData(0x2fec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLabelImportant' icon.
   static const IconData strokeRoundedLabelImportant =
       IconData(0x2fed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLabel' icon.
-  static const IconData strokeRoundedLabel =
-      IconData(0x2fee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLabel = IconData(0x2fee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLabor' icon.
-  static const IconData strokeRoundedLabor =
-      IconData(0x2fef, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLabor = IconData(0x2fef, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLabs' icon.
-  static const IconData strokeRoundedLabs =
-      IconData(0x2ff0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLabs = IconData(0x2ff0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLake' icon.
-  static const IconData strokeRoundedLake =
-      IconData(0x2ff1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLake = IconData(0x2ff1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLamp01' icon.
-  static const IconData strokeRoundedLamp01 =
-      IconData(0x2ff2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLamp01 = IconData(0x2ff2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLamp02' icon.
-  static const IconData strokeRoundedLamp02 =
-      IconData(0x2ff3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLamp02 = IconData(0x2ff3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLamp03' icon.
-  static const IconData strokeRoundedLamp03 =
-      IconData(0x2ff4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLamp03 = IconData(0x2ff4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLamp04' icon.
-  static const IconData strokeRoundedLamp04 =
-      IconData(0x2ff5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLamp04 = IconData(0x2ff5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLamp05' icon.
-  static const IconData strokeRoundedLamp05 =
-      IconData(0x2ff6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLamp05 = IconData(0x2ff6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLamp' icon.
-  static const IconData strokeRoundedLamp =
-      IconData(0x2ff7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLamp = IconData(0x2ff7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLanguageCircle' icon.
   static const IconData strokeRoundedLanguageCircle =
@@ -7444,8 +7030,7 @@ class HugeIcons {
       IconData(0x2ffa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLantern' icon.
-  static const IconData strokeRoundedLantern =
-      IconData(0x2ffb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLantern = IconData(0x2ffb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLaptopAdd' icon.
   static const IconData strokeRoundedLaptopAdd =
@@ -7492,8 +7077,7 @@ class HugeIcons {
       IconData(0x3006, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLaptop' icon.
-  static const IconData strokeRoundedLaptop =
-      IconData(0x3007, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLaptop = IconData(0x3007, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLassoTool01' icon.
   static const IconData strokeRoundedLassoTool01 =
@@ -7504,8 +7088,7 @@ class HugeIcons {
       IconData(0x3009, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLastFm' icon.
-  static const IconData strokeRoundedLastFm =
-      IconData(0x300a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLastFm = IconData(0x300a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLatitude' icon.
   static const IconData strokeRoundedLatitude =
@@ -7652,20 +7235,16 @@ class HugeIcons {
       IconData(0x302e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLeaf01' icon.
-  static const IconData strokeRoundedLeaf01 =
-      IconData(0x302f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLeaf01 = IconData(0x302f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLeaf02' icon.
-  static const IconData strokeRoundedLeaf02 =
-      IconData(0x3030, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLeaf02 = IconData(0x3030, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLeaf03' icon.
-  static const IconData strokeRoundedLeaf03 =
-      IconData(0x3031, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLeaf03 = IconData(0x3031, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLeaf04' icon.
-  static const IconData strokeRoundedLeaf04 =
-      IconData(0x3032, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLeaf04 = IconData(0x3032, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLeavingGeoFence' icon.
   static const IconData strokeRoundedLeavingGeoFence =
@@ -7712,12 +7291,10 @@ class HugeIcons {
       IconData(0x303d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLegal01' icon.
-  static const IconData strokeRoundedLegal01 =
-      IconData(0x303e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLegal01 = IconData(0x303e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLegal02' icon.
-  static const IconData strokeRoundedLegal02 =
-      IconData(0x303f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLegal02 = IconData(0x303f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLegalDocument01' icon.
   static const IconData strokeRoundedLegalDocument01 =
@@ -7752,8 +7329,7 @@ class HugeIcons {
       IconData(0x3047, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLibrary' icon.
-  static const IconData strokeRoundedLibrary =
-      IconData(0x3048, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLibrary = IconData(0x3048, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLicenseDraft' icon.
   static const IconData strokeRoundedLicenseDraft =
@@ -7776,8 +7352,7 @@ class HugeIcons {
       IconData(0x304d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLicense' icon.
-  static const IconData strokeRoundedLicense =
-      IconData(0x304e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLicense = IconData(0x304e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLiftTruck' icon.
   static const IconData strokeRoundedLiftTruck =
@@ -7792,36 +7367,28 @@ class HugeIcons {
       IconData(0x3051, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLine' icon.
-  static const IconData strokeRoundedLine =
-      IconData(0x3052, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLine = IconData(0x3052, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLiner' icon.
-  static const IconData strokeRoundedLiner =
-      IconData(0x3053, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLiner = IconData(0x3053, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLink01' icon.
-  static const IconData strokeRoundedLink01 =
-      IconData(0x3054, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLink01 = IconData(0x3054, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLink02' icon.
-  static const IconData strokeRoundedLink02 =
-      IconData(0x3055, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLink02 = IconData(0x3055, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLink03' icon.
-  static const IconData strokeRoundedLink03 =
-      IconData(0x3056, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLink03 = IconData(0x3056, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLink04' icon.
-  static const IconData strokeRoundedLink04 =
-      IconData(0x3057, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLink04 = IconData(0x3057, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLink05' icon.
-  static const IconData strokeRoundedLink05 =
-      IconData(0x3058, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLink05 = IconData(0x3058, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLink06' icon.
-  static const IconData strokeRoundedLink06 =
-      IconData(0x3059, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLink06 = IconData(0x3059, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLinkBackward' icon.
   static const IconData strokeRoundedLinkBackward =
@@ -7868,8 +7435,7 @@ class HugeIcons {
       IconData(0x3064, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLiver' icon.
-  static const IconData strokeRoundedLiver =
-      IconData(0x3065, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLiver = IconData(0x3065, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLoading01' icon.
   static const IconData strokeRoundedLoading01 =
@@ -8020,8 +7586,7 @@ class HugeIcons {
       IconData(0x308a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLockKey' icon.
-  static const IconData strokeRoundedLockKey =
-      IconData(0x308b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLockKey = IconData(0x308b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLockSync01' icon.
   static const IconData strokeRoundedLockSync01 =
@@ -8032,32 +7597,26 @@ class HugeIcons {
       IconData(0x308d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLock' icon.
-  static const IconData strokeRoundedLock =
-      IconData(0x308e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLock = IconData(0x308e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLocked' icon.
-  static const IconData strokeRoundedLocked =
-      IconData(0x308f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLocked = IconData(0x308f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLocker01' icon.
   static const IconData strokeRoundedLocker01 =
       IconData(0x3090, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLocker' icon.
-  static const IconData strokeRoundedLocker =
-      IconData(0x3091, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLocker = IconData(0x3091, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLogin01' icon.
-  static const IconData strokeRoundedLogin01 =
-      IconData(0x3092, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLogin01 = IconData(0x3092, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLogin02' icon.
-  static const IconData strokeRoundedLogin02 =
-      IconData(0x3093, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLogin02 = IconData(0x3093, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLogin03' icon.
-  static const IconData strokeRoundedLogin03 =
-      IconData(0x3094, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLogin03 = IconData(0x3094, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLoginCircle01' icon.
   static const IconData strokeRoundedLoginCircle01 =
@@ -8136,12 +7695,10 @@ class HugeIcons {
       IconData(0x30a7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLookTop' icon.
-  static const IconData strokeRoundedLookTop =
-      IconData(0x30a8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLookTop = IconData(0x30a8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLoom' icon.
-  static const IconData strokeRoundedLoom =
-      IconData(0x30a9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLoom = IconData(0x30a9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLottiefiles' icon.
   static const IconData strokeRoundedLottiefiles =
@@ -8164,8 +7721,7 @@ class HugeIcons {
       IconData(0x30ae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedLungs' icon.
-  static const IconData strokeRoundedLungs =
-      IconData(0x30af, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedLungs = IconData(0x30af, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMachineRobot' icon.
   static const IconData strokeRoundedMachineRobot =
@@ -8192,16 +7748,13 @@ class HugeIcons {
       IconData(0x30b5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMagnet' icon.
-  static const IconData strokeRoundedMagnet =
-      IconData(0x30b6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMagnet = IconData(0x30b6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMail01' icon.
-  static const IconData strokeRoundedMail01 =
-      IconData(0x30b7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMail01 = IconData(0x30b7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMail02' icon.
-  static const IconData strokeRoundedMail02 =
-      IconData(0x30b8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMail02 = IconData(0x30b8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMailAccount01' icon.
   static const IconData strokeRoundedMailAccount01 =
@@ -8392,16 +7945,13 @@ class HugeIcons {
       IconData(0x30e7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMailbox' icon.
-  static const IconData strokeRoundedMailbox =
-      IconData(0x30e8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMailbox = IconData(0x30e8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedManager' icon.
-  static const IconData strokeRoundedManager =
-      IconData(0x30e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedManager = IconData(0x30e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMapPin' icon.
-  static const IconData strokeRoundedMapPin =
-      IconData(0x30ea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMapPin = IconData(0x30ea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMapPinpoint01' icon.
   static const IconData strokeRoundedMapPinpoint01 =
@@ -8412,8 +7962,7 @@ class HugeIcons {
       IconData(0x30ec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMaping' icon.
-  static const IconData strokeRoundedMaping =
-      IconData(0x30ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMaping = IconData(0x30ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMapsCircle01' icon.
   static const IconData strokeRoundedMapsCircle01 =
@@ -8444,8 +7993,7 @@ class HugeIcons {
       IconData(0x30f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMapsOff' icon.
-  static const IconData strokeRoundedMapsOff =
-      IconData(0x30f5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMapsOff = IconData(0x30f5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMapsRefresh' icon.
   static const IconData strokeRoundedMapsRefresh =
@@ -8464,8 +8012,7 @@ class HugeIcons {
       IconData(0x30f9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMaps' icon.
-  static const IconData strokeRoundedMaps =
-      IconData(0x30fa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMaps = IconData(0x30fa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMarketAnalysis' icon.
   static const IconData strokeRoundedMarketAnalysis =
@@ -8480,24 +8027,20 @@ class HugeIcons {
       IconData(0x30fd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMask' icon.
-  static const IconData strokeRoundedMask =
-      IconData(0x30fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMask = IconData(0x30fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMasterCard' icon.
   static const IconData strokeRoundedMasterCard =
       IconData(0x30ff, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMatches' icon.
-  static const IconData strokeRoundedMatches =
-      IconData(0x3100, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMatches = IconData(0x3100, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMath' icon.
-  static const IconData strokeRoundedMath =
-      IconData(0x3101, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMath = IconData(0x3101, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMatrix' icon.
-  static const IconData strokeRoundedMatrix =
-      IconData(0x3102, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMatrix = IconData(0x3102, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMaximize01' icon.
   static const IconData strokeRoundedMaximize01 =
@@ -8524,36 +8067,28 @@ class HugeIcons {
       IconData(0x3108, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMaze' icon.
-  static const IconData strokeRoundedMaze =
-      IconData(0x3109, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMaze = IconData(0x3109, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMedal01' icon.
-  static const IconData strokeRoundedMedal01 =
-      IconData(0x310a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMedal01 = IconData(0x310a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMedal02' icon.
-  static const IconData strokeRoundedMedal02 =
-      IconData(0x310b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMedal02 = IconData(0x310b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMedal03' icon.
-  static const IconData strokeRoundedMedal03 =
-      IconData(0x310c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMedal03 = IconData(0x310c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMedal04' icon.
-  static const IconData strokeRoundedMedal04 =
-      IconData(0x310d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMedal04 = IconData(0x310d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMedal05' icon.
-  static const IconData strokeRoundedMedal05 =
-      IconData(0x310e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMedal05 = IconData(0x310e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMedal06' icon.
-  static const IconData strokeRoundedMedal06 =
-      IconData(0x310f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMedal06 = IconData(0x310f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMedal07' icon.
-  static const IconData strokeRoundedMedal07 =
-      IconData(0x3110, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMedal07 = IconData(0x3110, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMedalFirstPlace' icon.
   static const IconData strokeRoundedMedalFirstPlace =
@@ -8600,8 +8135,7 @@ class HugeIcons {
       IconData(0x311b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMedium' icon.
-  static const IconData strokeRoundedMedium =
-      IconData(0x311c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMedium = IconData(0x311c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMeetingRoom' icon.
   static const IconData strokeRoundedMeetingRoom =
@@ -8616,60 +8150,47 @@ class HugeIcons {
       IconData(0x311f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMeh' icon.
-  static const IconData strokeRoundedMeh =
-      IconData(0x3120, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMeh = IconData(0x3120, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMentor' icon.
-  static const IconData strokeRoundedMentor =
-      IconData(0x3121, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMentor = IconData(0x3121, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMentoring' icon.
   static const IconData strokeRoundedMentoring =
       IconData(0x3122, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu01' icon.
-  static const IconData strokeRoundedMenu01 =
-      IconData(0x3123, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu01 = IconData(0x3123, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu02' icon.
-  static const IconData strokeRoundedMenu02 =
-      IconData(0x3124, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu02 = IconData(0x3124, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu03' icon.
-  static const IconData strokeRoundedMenu03 =
-      IconData(0x3125, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu03 = IconData(0x3125, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu04' icon.
-  static const IconData strokeRoundedMenu04 =
-      IconData(0x3126, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu04 = IconData(0x3126, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu05' icon.
-  static const IconData strokeRoundedMenu05 =
-      IconData(0x3127, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu05 = IconData(0x3127, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu06' icon.
-  static const IconData strokeRoundedMenu06 =
-      IconData(0x3128, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu06 = IconData(0x3128, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu07' icon.
-  static const IconData strokeRoundedMenu07 =
-      IconData(0x3129, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu07 = IconData(0x3129, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu08' icon.
-  static const IconData strokeRoundedMenu08 =
-      IconData(0x312a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu08 = IconData(0x312a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu09' icon.
-  static const IconData strokeRoundedMenu09 =
-      IconData(0x312b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu09 = IconData(0x312b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu10' icon.
-  static const IconData strokeRoundedMenu10 =
-      IconData(0x312c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu10 = IconData(0x312c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenu11' icon.
-  static const IconData strokeRoundedMenu11 =
-      IconData(0x312d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMenu11 = IconData(0x312d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMenuCircle' icon.
   static const IconData strokeRoundedMenuCircle =
@@ -8856,20 +8377,16 @@ class HugeIcons {
       IconData(0x315b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMeta' icon.
-  static const IconData strokeRoundedMeta =
-      IconData(0x315c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMeta = IconData(0x315c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMetro' icon.
-  static const IconData strokeRoundedMetro =
-      IconData(0x315d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMetro = IconData(0x315d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMic01' icon.
-  static const IconData strokeRoundedMic01 =
-      IconData(0x315e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMic01 = IconData(0x315e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMic02' icon.
-  static const IconData strokeRoundedMic02 =
-      IconData(0x315f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMic02 = IconData(0x315f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMicOff01' icon.
   static const IconData strokeRoundedMicOff01 =
@@ -8904,8 +8421,7 @@ class HugeIcons {
       IconData(0x3167, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMilkOat' icon.
-  static const IconData strokeRoundedMilkOat =
-      IconData(0x3168, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMilkOat = IconData(0x3168, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMinimize01' icon.
   static const IconData strokeRoundedMinimize01 =
@@ -8976,16 +8492,14 @@ class HugeIcons {
       IconData(0x3179, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMirror' icon.
-  static const IconData strokeRoundedMirror =
-      IconData(0x317a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMirror = IconData(0x317a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMirroringScreen' icon.
   static const IconData strokeRoundedMirroringScreen =
       IconData(0x317b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMixer' icon.
-  static const IconData strokeRoundedMixer =
-      IconData(0x317c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMixer = IconData(0x317c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMobileNavigator01' icon.
   static const IconData strokeRoundedMobileNavigator01 =
@@ -9012,8 +8526,7 @@ class HugeIcons {
       IconData(0x3182, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMochi' icon.
-  static const IconData strokeRoundedMochi =
-      IconData(0x3183, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMochi = IconData(0x3183, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedModernTvFourK' icon.
   static const IconData strokeRoundedModernTvFourK =
@@ -9032,24 +8545,19 @@ class HugeIcons {
       IconData(0x3187, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMonas' icon.
-  static const IconData strokeRoundedMonas =
-      IconData(0x3188, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMonas = IconData(0x3188, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoney01' icon.
-  static const IconData strokeRoundedMoney01 =
-      IconData(0x3189, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMoney01 = IconData(0x3189, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoney02' icon.
-  static const IconData strokeRoundedMoney02 =
-      IconData(0x318a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMoney02 = IconData(0x318a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoney03' icon.
-  static const IconData strokeRoundedMoney03 =
-      IconData(0x318b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMoney03 = IconData(0x318b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoney04' icon.
-  static const IconData strokeRoundedMoney04 =
-      IconData(0x318c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMoney04 = IconData(0x318c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoneyAdd01' icon.
   static const IconData strokeRoundedMoneyAdd01 =
@@ -9164,20 +8672,16 @@ class HugeIcons {
       IconData(0x31a8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMonocle' icon.
-  static const IconData strokeRoundedMonocle =
-      IconData(0x31a9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMonocle = IconData(0x31a9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMonster' icon.
-  static const IconData strokeRoundedMonster =
-      IconData(0x31aa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMonster = IconData(0x31aa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoon01' icon.
-  static const IconData strokeRoundedMoon01 =
-      IconData(0x31ab, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMoon01 = IconData(0x31ab, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoon02' icon.
-  static const IconData strokeRoundedMoon02 =
-      IconData(0x31ac, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMoon02 = IconData(0x31ac, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoonAngledRainZap' icon.
   static const IconData strokeRoundedMoonAngledRainZap =
@@ -9248,24 +8752,19 @@ class HugeIcons {
       IconData(0x31bd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoon' icon.
-  static const IconData strokeRoundedMoon =
-      IconData(0x31be, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMoon = IconData(0x31be, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoonset' icon.
-  static const IconData strokeRoundedMoonset =
-      IconData(0x31bf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMoonset = IconData(0x31bf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMore01' icon.
-  static const IconData strokeRoundedMore01 =
-      IconData(0x31c0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMore01 = IconData(0x31c0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMore02' icon.
-  static const IconData strokeRoundedMore02 =
-      IconData(0x31c1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMore02 = IconData(0x31c1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMore03' icon.
-  static const IconData strokeRoundedMore03 =
-      IconData(0x31c2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMore03 = IconData(0x31c2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoreHorizontalCircle01' icon.
   static const IconData strokeRoundedMoreHorizontalCircle01 =
@@ -9320,12 +8819,10 @@ class HugeIcons {
       IconData(0x31cf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMore' icon.
-  static const IconData strokeRoundedMore =
-      IconData(0x31d0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMore = IconData(0x31d0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMortar' icon.
-  static const IconData strokeRoundedMortar =
-      IconData(0x31d1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMortar = IconData(0x31d1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMortarboard01' icon.
   static const IconData strokeRoundedMortarboard01 =
@@ -9376,96 +8873,73 @@ class HugeIcons {
       IconData(0x31dd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse01' icon.
-  static const IconData strokeRoundedMouse01 =
-      IconData(0x31de, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse01 = IconData(0x31de, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse02' icon.
-  static const IconData strokeRoundedMouse02 =
-      IconData(0x31df, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse02 = IconData(0x31df, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse03' icon.
-  static const IconData strokeRoundedMouse03 =
-      IconData(0x31e0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse03 = IconData(0x31e0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse04' icon.
-  static const IconData strokeRoundedMouse04 =
-      IconData(0x31e1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse04 = IconData(0x31e1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse05' icon.
-  static const IconData strokeRoundedMouse05 =
-      IconData(0x31e2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse05 = IconData(0x31e2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse06' icon.
-  static const IconData strokeRoundedMouse06 =
-      IconData(0x31e3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse06 = IconData(0x31e3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse07' icon.
-  static const IconData strokeRoundedMouse07 =
-      IconData(0x31e4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse07 = IconData(0x31e4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse08' icon.
-  static const IconData strokeRoundedMouse08 =
-      IconData(0x31e5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse08 = IconData(0x31e5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse09' icon.
-  static const IconData strokeRoundedMouse09 =
-      IconData(0x31e6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse09 = IconData(0x31e6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse10' icon.
-  static const IconData strokeRoundedMouse10 =
-      IconData(0x31e7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse10 = IconData(0x31e7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse11' icon.
-  static const IconData strokeRoundedMouse11 =
-      IconData(0x31e8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse11 = IconData(0x31e8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse12' icon.
-  static const IconData strokeRoundedMouse12 =
-      IconData(0x31e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse12 = IconData(0x31e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse13' icon.
-  static const IconData strokeRoundedMouse13 =
-      IconData(0x31ea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse13 = IconData(0x31ea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse14' icon.
-  static const IconData strokeRoundedMouse14 =
-      IconData(0x31eb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse14 = IconData(0x31eb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse15' icon.
-  static const IconData strokeRoundedMouse15 =
-      IconData(0x31ec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse15 = IconData(0x31ec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse16' icon.
-  static const IconData strokeRoundedMouse16 =
-      IconData(0x31ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse16 = IconData(0x31ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse17' icon.
-  static const IconData strokeRoundedMouse17 =
-      IconData(0x31ee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse17 = IconData(0x31ee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse18' icon.
-  static const IconData strokeRoundedMouse18 =
-      IconData(0x31ef, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse18 = IconData(0x31ef, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse19' icon.
-  static const IconData strokeRoundedMouse19 =
-      IconData(0x31f0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse19 = IconData(0x31f0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse20' icon.
-  static const IconData strokeRoundedMouse20 =
-      IconData(0x31f1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse20 = IconData(0x31f1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse21' icon.
-  static const IconData strokeRoundedMouse21 =
-      IconData(0x31f2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse21 = IconData(0x31f2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse22' icon.
-  static const IconData strokeRoundedMouse22 =
-      IconData(0x31f3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse22 = IconData(0x31f3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouse23' icon.
-  static const IconData strokeRoundedMouse23 =
-      IconData(0x31f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMouse23 = IconData(0x31f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMouseLeftClick01' icon.
   static const IconData strokeRoundedMouseLeftClick01 =
@@ -9524,12 +8998,10 @@ class HugeIcons {
       IconData(0x3202, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMove01' icon.
-  static const IconData strokeRoundedMove01 =
-      IconData(0x3203, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMove01 = IconData(0x3203, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMove02' icon.
-  static const IconData strokeRoundedMove02 =
-      IconData(0x3204, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMove02 = IconData(0x3204, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoveBottom' icon.
   static const IconData strokeRoundedMoveBottom =
@@ -9544,32 +9016,25 @@ class HugeIcons {
       IconData(0x3207, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoveTo' icon.
-  static const IconData strokeRoundedMoveTo =
-      IconData(0x3208, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMoveTo = IconData(0x3208, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMoveTop' icon.
-  static const IconData strokeRoundedMoveTop =
-      IconData(0x3209, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMoveTop = IconData(0x3209, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMove' icon.
-  static const IconData strokeRoundedMove =
-      IconData(0x320a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMove = IconData(0x320a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMp301' icon.
-  static const IconData strokeRoundedMp301 =
-      IconData(0x320b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMp301 = IconData(0x320b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMp302' icon.
-  static const IconData strokeRoundedMp302 =
-      IconData(0x320c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMp302 = IconData(0x320c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMp401' icon.
-  static const IconData strokeRoundedMp401 =
-      IconData(0x320d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMp401 = IconData(0x320d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMp402' icon.
-  static const IconData strokeRoundedMp402 =
-      IconData(0x320e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMp402 = IconData(0x320e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMuhammad' icon.
   static const IconData strokeRoundedMuhammad =
@@ -9620,16 +9085,13 @@ class HugeIcons {
       IconData(0x321a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMuslim' icon.
-  static const IconData strokeRoundedMuslim =
-      IconData(0x321b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMuslim = IconData(0x321b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMute' icon.
-  static const IconData strokeRoundedMute =
-      IconData(0x321c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMute = IconData(0x321c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedMymind' icon.
-  static const IconData strokeRoundedMymind =
-      IconData(0x321d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedMymind = IconData(0x321d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNThRootCircle' icon.
   static const IconData strokeRoundedNThRootCircle =
@@ -9640,8 +9102,7 @@ class HugeIcons {
       IconData(0x321f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNThRoot' icon.
-  static const IconData strokeRoundedNThRoot =
-      IconData(0x3220, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNThRoot = IconData(0x3220, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNanoTechnology' icon.
   static const IconData strokeRoundedNanoTechnology =
@@ -9680,16 +9141,13 @@ class HugeIcons {
       IconData(0x3229, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNerd' icon.
-  static const IconData strokeRoundedNerd =
-      IconData(0x322a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNerd = IconData(0x322a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNeutral' icon.
-  static const IconData strokeRoundedNeutral =
-      IconData(0x322b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNeutral = IconData(0x322b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNewJob' icon.
-  static const IconData strokeRoundedNewJob =
-      IconData(0x322c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNewJob = IconData(0x322c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNewOffice' icon.
   static const IconData strokeRoundedNewOffice =
@@ -9712,20 +9170,16 @@ class HugeIcons {
       IconData(0x3231, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNews01' icon.
-  static const IconData strokeRoundedNews01 =
-      IconData(0x3232, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNews01 = IconData(0x3232, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNews' icon.
-  static const IconData strokeRoundedNews =
-      IconData(0x3233, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNews = IconData(0x3233, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNext' icon.
-  static const IconData strokeRoundedNext =
-      IconData(0x3234, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNext = IconData(0x3234, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNike' icon.
-  static const IconData strokeRoundedNike =
-      IconData(0x3235, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNike = IconData(0x3235, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNintendoSwitch' icon.
   static const IconData strokeRoundedNintendoSwitch =
@@ -9736,8 +9190,7 @@ class HugeIcons {
       IconData(0x3237, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNiqab' icon.
-  static const IconData strokeRoundedNiqab =
-      IconData(0x3238, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNiqab = IconData(0x3238, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNoInternet' icon.
   static const IconData strokeRoundedNoInternet =
@@ -9748,8 +9201,7 @@ class HugeIcons {
       IconData(0x323a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNodeAdd' icon.
-  static const IconData strokeRoundedNodeAdd =
-      IconData(0x323b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNodeAdd = IconData(0x323b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNodeEdit' icon.
   static const IconData strokeRoundedNodeEdit =
@@ -9768,12 +9220,10 @@ class HugeIcons {
       IconData(0x323f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNoodles' icon.
-  static const IconData strokeRoundedNoodles =
-      IconData(0x3240, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNoodles = IconData(0x3240, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNose' icon.
-  static const IconData strokeRoundedNose =
-      IconData(0x3241, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNose = IconData(0x3241, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNotEqualSignCircle' icon.
   static const IconData strokeRoundedNotEqualSignCircle =
@@ -9788,28 +9238,22 @@ class HugeIcons {
       IconData(0x3244, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNote01' icon.
-  static const IconData strokeRoundedNote01 =
-      IconData(0x3245, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNote01 = IconData(0x3245, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNote02' icon.
-  static const IconData strokeRoundedNote02 =
-      IconData(0x3246, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNote02 = IconData(0x3246, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNote03' icon.
-  static const IconData strokeRoundedNote03 =
-      IconData(0x3247, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNote03 = IconData(0x3247, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNote04' icon.
-  static const IconData strokeRoundedNote04 =
-      IconData(0x3248, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNote04 = IconData(0x3248, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNote05' icon.
-  static const IconData strokeRoundedNote05 =
-      IconData(0x3249, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNote05 = IconData(0x3249, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNoteAdd' icon.
-  static const IconData strokeRoundedNoteAdd =
-      IconData(0x324a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNoteAdd = IconData(0x324a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNoteDone' icon.
   static const IconData strokeRoundedNoteDone =
@@ -9824,8 +9268,7 @@ class HugeIcons {
       IconData(0x324d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNote' icon.
-  static const IconData strokeRoundedNote =
-      IconData(0x324e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNote = IconData(0x324e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNotebook01' icon.
   static const IconData strokeRoundedNotebook01 =
@@ -9908,28 +9351,23 @@ class HugeIcons {
       IconData(0x3262, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNpm' icon.
-  static const IconData strokeRoundedNpm =
-      IconData(0x3263, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNpm = IconData(0x3263, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNuclearPower' icon.
   static const IconData strokeRoundedNuclearPower =
       IconData(0x3264, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedNut' icon.
-  static const IconData strokeRoundedNut =
-      IconData(0x3265, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedNut = IconData(0x3265, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedObtuse' icon.
-  static const IconData strokeRoundedObtuse =
-      IconData(0x3266, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedObtuse = IconData(0x3266, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOctagon' icon.
-  static const IconData strokeRoundedOctagon =
-      IconData(0x3267, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedOctagon = IconData(0x3267, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOctopus' icon.
-  static const IconData strokeRoundedOctopus =
-      IconData(0x3268, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedOctopus = IconData(0x3268, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOffice365' icon.
   static const IconData strokeRoundedOffice365 =
@@ -9940,8 +9378,7 @@ class HugeIcons {
       IconData(0x326a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOffice' icon.
-  static const IconData strokeRoundedOffice =
-      IconData(0x326b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedOffice = IconData(0x326b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOilBarrel' icon.
   static const IconData strokeRoundedOilBarrel =
@@ -9976,20 +9413,16 @@ class HugeIcons {
       IconData(0x3273, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOption' icon.
-  static const IconData strokeRoundedOption =
-      IconData(0x3274, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedOption = IconData(0x3274, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOrange' icon.
-  static const IconData strokeRoundedOrange =
-      IconData(0x3275, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedOrange = IconData(0x3275, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOrbit01' icon.
-  static const IconData strokeRoundedOrbit01 =
-      IconData(0x3276, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedOrbit01 = IconData(0x3276, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOrbit02' icon.
-  static const IconData strokeRoundedOrbit02 =
-      IconData(0x3277, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedOrbit02 = IconData(0x3277, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOrganicFood' icon.
   static const IconData strokeRoundedOrganicFood =
@@ -10000,12 +9433,10 @@ class HugeIcons {
       IconData(0x3279, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOval' icon.
-  static const IconData strokeRoundedOval =
-      IconData(0x327a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedOval = IconData(0x327a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedOven' icon.
-  static const IconData strokeRoundedOven =
-      IconData(0x327b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedOven = IconData(0x327b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPackageAdd' icon.
   static const IconData strokeRoundedPackageAdd =
@@ -10048,8 +9479,7 @@ class HugeIcons {
       IconData(0x3285, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPackage' icon.
-  static const IconData strokeRoundedPackage =
-      IconData(0x3286, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPackage = IconData(0x3286, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPacman01' icon.
   static const IconData strokeRoundedPacman01 =
@@ -10084,16 +9514,13 @@ class HugeIcons {
       IconData(0x328e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPan01' icon.
-  static const IconData strokeRoundedPan01 =
-      IconData(0x328f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPan01 = IconData(0x328f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPan02' icon.
-  static const IconData strokeRoundedPan02 =
-      IconData(0x3290, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPan02 = IconData(0x3290, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPan03' icon.
-  static const IconData strokeRoundedPan03 =
-      IconData(0x3291, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPan03 = IconData(0x3291, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedParabola01' icon.
   static const IconData strokeRoundedParabola01 =
@@ -10160,8 +9587,7 @@ class HugeIcons {
       IconData(0x32a1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPath' icon.
-  static const IconData strokeRoundedPath =
-      IconData(0x32a2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPath = IconData(0x32a2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPathfinderCrop' icon.
   static const IconData strokeRoundedPathfinderCrop =
@@ -10204,20 +9630,16 @@ class HugeIcons {
       IconData(0x32ac, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPatient' icon.
-  static const IconData strokeRoundedPatient =
-      IconData(0x32ad, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPatient = IconData(0x32ad, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPatio' icon.
-  static const IconData strokeRoundedPatio =
-      IconData(0x32ae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPatio = IconData(0x32ae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPause' icon.
-  static const IconData strokeRoundedPause =
-      IconData(0x32af, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPause = IconData(0x32af, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPavilon' icon.
-  static const IconData strokeRoundedPavilon =
-      IconData(0x32b0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPavilon = IconData(0x32b0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPayByCheck' icon.
   static const IconData strokeRoundedPayByCheck =
@@ -10244,16 +9666,13 @@ class HugeIcons {
       IconData(0x32b6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPaypal' icon.
-  static const IconData strokeRoundedPaypal =
-      IconData(0x32b7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPaypal = IconData(0x32b7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPdf01' icon.
-  static const IconData strokeRoundedPdf01 =
-      IconData(0x32b8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPdf01 = IconData(0x32b8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPdf02' icon.
-  static const IconData strokeRoundedPdf02 =
-      IconData(0x32b9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPdf02 = IconData(0x32b9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPeerToPeer01' icon.
   static const IconData strokeRoundedPeerToPeer01 =
@@ -10308,16 +9727,14 @@ class HugeIcons {
       IconData(0x32c6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPencil' icon.
-  static const IconData strokeRoundedPencil =
-      IconData(0x32c7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPencil = IconData(0x32c7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPendulum' icon.
   static const IconData strokeRoundedPendulum =
       IconData(0x32c8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPensive' icon.
-  static const IconData strokeRoundedPensive =
-      IconData(0x32c9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPensive = IconData(0x32c9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPentagon01' icon.
   static const IconData strokeRoundedPentagon01 =
@@ -10336,12 +9753,10 @@ class HugeIcons {
       IconData(0x32cd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPercent' icon.
-  static const IconData strokeRoundedPercent =
-      IconData(0x32ce, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPercent = IconData(0x32ce, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPerfume' icon.
-  static const IconData strokeRoundedPerfume =
-      IconData(0x32cf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPerfume = IconData(0x32cf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPeriscope' icon.
   static const IconData strokeRoundedPeriscope =
@@ -10356,8 +9771,7 @@ class HugeIcons {
       IconData(0x32d2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPexels' icon.
-  static const IconData strokeRoundedPexels =
-      IconData(0x32d3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPexels = IconData(0x32d3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPhoneOff01' icon.
   static const IconData strokeRoundedPhoneOff01 =
@@ -10368,12 +9782,10 @@ class HugeIcons {
       IconData(0x32d5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPhp' icon.
-  static const IconData strokeRoundedPhp =
-      IconData(0x32d6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPhp = IconData(0x32d6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPhysics' icon.
-  static const IconData strokeRoundedPhysics =
-      IconData(0x32d7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPhysics = IconData(0x32d7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPiCircle' icon.
   static const IconData strokeRoundedPiCircle =
@@ -10384,12 +9796,10 @@ class HugeIcons {
       IconData(0x32d9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPi' icon.
-  static const IconData strokeRoundedPi =
-      IconData(0x32da, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPi = IconData(0x32da, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPicasa' icon.
-  static const IconData strokeRoundedPicasa =
-      IconData(0x32db, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPicasa = IconData(0x32db, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPickup01' icon.
   static const IconData strokeRoundedPickup01 =
@@ -10416,16 +9826,14 @@ class HugeIcons {
       IconData(0x32e1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPie' icon.
-  static const IconData strokeRoundedPie =
-      IconData(0x32e2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPie = IconData(0x32e2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPiggyBank' icon.
   static const IconData strokeRoundedPiggyBank =
       IconData(0x32e3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPinCode' icon.
-  static const IconData strokeRoundedPinCode =
-      IconData(0x32e4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPinCode = IconData(0x32e4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPinLocation01' icon.
   static const IconData strokeRoundedPinLocation01 =
@@ -10440,12 +9848,10 @@ class HugeIcons {
       IconData(0x32e7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPinOff' icon.
-  static const IconData strokeRoundedPinOff =
-      IconData(0x32e8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPinOff = IconData(0x32e8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPin' icon.
-  static const IconData strokeRoundedPin =
-      IconData(0x32e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPin = IconData(0x32e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPinterest' icon.
   static const IconData strokeRoundedPinterest =
@@ -10460,40 +9866,32 @@ class HugeIcons {
       IconData(0x32ec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPizza01' icon.
-  static const IconData strokeRoundedPizza01 =
-      IconData(0x32ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPizza01 = IconData(0x32ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPizza02' icon.
-  static const IconData strokeRoundedPizza02 =
-      IconData(0x32ee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPizza02 = IconData(0x32ee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPizzaCutter' icon.
   static const IconData strokeRoundedPizzaCutter =
       IconData(0x32ef, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlane' icon.
-  static const IconData strokeRoundedPlane =
-      IconData(0x32f0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPlane = IconData(0x32f0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlant01' icon.
-  static const IconData strokeRoundedPlant01 =
-      IconData(0x32f1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPlant01 = IconData(0x32f1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlant02' icon.
-  static const IconData strokeRoundedPlant02 =
-      IconData(0x32f2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPlant02 = IconData(0x32f2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlant03' icon.
-  static const IconData strokeRoundedPlant03 =
-      IconData(0x32f3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPlant03 = IconData(0x32f3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlate' icon.
-  static const IconData strokeRoundedPlate =
-      IconData(0x32f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPlate = IconData(0x32f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlaxo' icon.
-  static const IconData strokeRoundedPlaxo =
-      IconData(0x32f5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPlaxo = IconData(0x32f5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlayCircle02' icon.
   static const IconData strokeRoundedPlayCircle02 =
@@ -10536,8 +9934,7 @@ class HugeIcons {
       IconData(0x32ff, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlay' icon.
-  static const IconData strokeRoundedPlay =
-      IconData(0x3300, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPlay = IconData(0x3300, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlaylist01' icon.
   static const IconData strokeRoundedPlaylist01 =
@@ -10552,16 +9949,13 @@ class HugeIcons {
       IconData(0x3303, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlaza' icon.
-  static const IconData strokeRoundedPlaza =
-      IconData(0x3304, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPlaza = IconData(0x3304, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlug01' icon.
-  static const IconData strokeRoundedPlug01 =
-      IconData(0x3305, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPlug01 = IconData(0x3305, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlug02' icon.
-  static const IconData strokeRoundedPlug02 =
-      IconData(0x3306, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPlug02 = IconData(0x3306, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPlugSocket' icon.
   static const IconData strokeRoundedPlugSocket =
@@ -10608,16 +10002,13 @@ class HugeIcons {
       IconData(0x3311, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPng01' icon.
-  static const IconData strokeRoundedPng01 =
-      IconData(0x3312, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPng01 = IconData(0x3312, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPng02' icon.
-  static const IconData strokeRoundedPng02 =
-      IconData(0x3313, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPng02 = IconData(0x3313, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPodium' icon.
-  static const IconData strokeRoundedPodium =
-      IconData(0x3314, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPodium = IconData(0x3314, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPointingLeft01' icon.
   static const IconData strokeRoundedPointingLeft01 =
@@ -10688,8 +10079,7 @@ class HugeIcons {
       IconData(0x3325, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPokemon' icon.
-  static const IconData strokeRoundedPokemon =
-      IconData(0x3326, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPokemon = IconData(0x3326, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPoliceBadge' icon.
   static const IconData strokeRoundedPoliceBadge =
@@ -10708,40 +10098,32 @@ class HugeIcons {
       IconData(0x332a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPolicy' icon.
-  static const IconData strokeRoundedPolicy =
-      IconData(0x332b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPolicy = IconData(0x332b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPolygon' icon.
-  static const IconData strokeRoundedPolygon =
-      IconData(0x332c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPolygon = IconData(0x332c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPoolTable' icon.
   static const IconData strokeRoundedPoolTable =
       IconData(0x332d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPool' icon.
-  static const IconData strokeRoundedPool =
-      IconData(0x332e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPool = IconData(0x332e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPoop' icon.
-  static const IconData strokeRoundedPoop =
-      IconData(0x332f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPoop = IconData(0x332f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPopcorn' icon.
-  static const IconData strokeRoundedPopcorn =
-      IconData(0x3330, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPopcorn = IconData(0x3330, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPot01' icon.
-  static const IconData strokeRoundedPot01 =
-      IconData(0x3331, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPot01 = IconData(0x3331, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPot02' icon.
-  static const IconData strokeRoundedPot02 =
-      IconData(0x3332, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPot02 = IconData(0x3332, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPotion' icon.
-  static const IconData strokeRoundedPotion =
-      IconData(0x3333, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPotion = IconData(0x3333, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPoundCircle' icon.
   static const IconData strokeRoundedPoundCircle =
@@ -10760,8 +10142,7 @@ class HugeIcons {
       IconData(0x3337, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPound' icon.
-  static const IconData strokeRoundedPound =
-      IconData(0x3338, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPound = IconData(0x3338, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPowerService' icon.
   static const IconData strokeRoundedPowerService =
@@ -10776,16 +10157,13 @@ class HugeIcons {
       IconData(0x333b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPpt01' icon.
-  static const IconData strokeRoundedPpt01 =
-      IconData(0x333c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPpt01 = IconData(0x333c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPpt02' icon.
-  static const IconData strokeRoundedPpt02 =
-      IconData(0x333d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPpt02 = IconData(0x333d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPrawn' icon.
-  static const IconData strokeRoundedPrawn =
-      IconData(0x333e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPrawn = IconData(0x333e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPrayerRug01' icon.
   static const IconData strokeRoundedPrayerRug01 =
@@ -10868,24 +10246,20 @@ class HugeIcons {
       IconData(0x3352, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPrinter' icon.
-  static const IconData strokeRoundedPrinter =
-      IconData(0x3353, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPrinter = IconData(0x3353, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPrism01' icon.
-  static const IconData strokeRoundedPrism01 =
-      IconData(0x3354, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPrism01 = IconData(0x3354, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPrism' icon.
-  static const IconData strokeRoundedPrism =
-      IconData(0x3355, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPrism = IconData(0x3355, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPrisonGuard' icon.
   static const IconData strokeRoundedPrisonGuard =
       IconData(0x3356, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPrison' icon.
-  static const IconData strokeRoundedPrison =
-      IconData(0x3357, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPrison = IconData(0x3357, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPrisoner' icon.
   static const IconData strokeRoundedPrisoner =
@@ -10900,12 +10274,10 @@ class HugeIcons {
       IconData(0x335a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedProfile' icon.
-  static const IconData strokeRoundedProfile =
-      IconData(0x335b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedProfile = IconData(0x335b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedProfit' icon.
-  static const IconData strokeRoundedProfit =
-      IconData(0x335c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedProfit = IconData(0x335c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedProgrammingFlag' icon.
   static const IconData strokeRoundedProgrammingFlag =
@@ -10952,16 +10324,13 @@ class HugeIcons {
       IconData(0x3367, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPulley' icon.
-  static const IconData strokeRoundedPulley =
-      IconData(0x3368, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPulley = IconData(0x3368, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPulse01' icon.
-  static const IconData strokeRoundedPulse01 =
-      IconData(0x3369, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPulse01 = IconData(0x3369, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPulse02' icon.
-  static const IconData strokeRoundedPulse02 =
-      IconData(0x336a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPulse02 = IconData(0x336a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPulseRectangle01' icon.
   static const IconData strokeRoundedPulseRectangle01 =
@@ -10972,12 +10341,10 @@ class HugeIcons {
       IconData(0x336c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPumpkin' icon.
-  static const IconData strokeRoundedPumpkin =
-      IconData(0x336d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPumpkin = IconData(0x336d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPunch' icon.
-  static const IconData strokeRoundedPunch =
-      IconData(0x336e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPunch = IconData(0x336e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPunchingBall01' icon.
   static const IconData strokeRoundedPunchingBall01 =
@@ -10988,20 +10355,17 @@ class HugeIcons {
       IconData(0x3370, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPurse01' icon.
-  static const IconData strokeRoundedPurse01 =
-      IconData(0x3371, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPurse01 = IconData(0x3371, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPurse' icon.
-  static const IconData strokeRoundedPurse =
-      IconData(0x3372, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPurse = IconData(0x3372, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPushUpBar' icon.
   static const IconData strokeRoundedPushUpBar =
       IconData(0x3373, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPuzzle' icon.
-  static const IconData strokeRoundedPuzzle =
-      IconData(0x3374, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPuzzle = IconData(0x3374, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPyramidMaslowo' icon.
   static const IconData strokeRoundedPyramidMaslowo =
@@ -11016,32 +10380,27 @@ class HugeIcons {
       IconData(0x3377, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedPyramid' icon.
-  static const IconData strokeRoundedPyramid =
-      IconData(0x3378, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedPyramid = IconData(0x3378, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQqPlot' icon.
-  static const IconData strokeRoundedQqPlot =
-      IconData(0x3379, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQqPlot = IconData(0x3379, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQrCode01' icon.
   static const IconData strokeRoundedQrCode01 =
       IconData(0x337a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQrCode' icon.
-  static const IconData strokeRoundedQrCode =
-      IconData(0x337b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQrCode = IconData(0x337b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuestion' icon.
   static const IconData strokeRoundedQuestion =
       IconData(0x337c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQueue01' icon.
-  static const IconData strokeRoundedQueue01 =
-      IconData(0x337d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQueue01 = IconData(0x337d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQueue02' icon.
-  static const IconData strokeRoundedQueue02 =
-      IconData(0x337e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQueue02 = IconData(0x337e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuillWrite01' icon.
   static const IconData strokeRoundedQuillWrite01 =
@@ -11052,28 +10411,22 @@ class HugeIcons {
       IconData(0x3380, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuiz01' icon.
-  static const IconData strokeRoundedQuiz01 =
-      IconData(0x3381, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuiz01 = IconData(0x3381, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuiz02' icon.
-  static const IconData strokeRoundedQuiz02 =
-      IconData(0x3382, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuiz02 = IconData(0x3382, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuiz03' icon.
-  static const IconData strokeRoundedQuiz03 =
-      IconData(0x3383, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuiz03 = IconData(0x3383, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuiz04' icon.
-  static const IconData strokeRoundedQuiz04 =
-      IconData(0x3384, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuiz04 = IconData(0x3384, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuiz05' icon.
-  static const IconData strokeRoundedQuiz05 =
-      IconData(0x3385, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuiz05 = IconData(0x3385, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuora' icon.
-  static const IconData strokeRoundedQuora =
-      IconData(0x3386, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuora = IconData(0x3386, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuoteDownCircle' icon.
   static const IconData strokeRoundedQuoteDownCircle =
@@ -11096,60 +10449,48 @@ class HugeIcons {
       IconData(0x338b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuoteUp' icon.
-  static const IconData strokeRoundedQuoteUp =
-      IconData(0x338c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuoteUp = IconData(0x338c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuotes' icon.
-  static const IconData strokeRoundedQuotes =
-      IconData(0x338d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuotes = IconData(0x338d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuran01' icon.
-  static const IconData strokeRoundedQuran01 =
-      IconData(0x338e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuran01 = IconData(0x338e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuran02' icon.
-  static const IconData strokeRoundedQuran02 =
-      IconData(0x338f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuran02 = IconData(0x338f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedQuran03' icon.
-  static const IconData strokeRoundedQuran03 =
-      IconData(0x3390, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedQuran03 = IconData(0x3390, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRacingFlag' icon.
   static const IconData strokeRoundedRacingFlag =
       IconData(0x3391, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRadar01' icon.
-  static const IconData strokeRoundedRadar01 =
-      IconData(0x3392, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRadar01 = IconData(0x3392, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRadar02' icon.
-  static const IconData strokeRoundedRadar02 =
-      IconData(0x3393, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRadar02 = IconData(0x3393, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRadial' icon.
-  static const IconData strokeRoundedRadial =
-      IconData(0x3394, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRadial = IconData(0x3394, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRadio01' icon.
-  static const IconData strokeRoundedRadio01 =
-      IconData(0x3395, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRadio01 = IconData(0x3395, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRadio02' icon.
-  static const IconData strokeRoundedRadio02 =
-      IconData(0x3396, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRadio02 = IconData(0x3396, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRadio' icon.
-  static const IconData strokeRoundedRadio =
-      IconData(0x3397, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRadio = IconData(0x3397, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRadioactiveAlert' icon.
   static const IconData strokeRoundedRadioactiveAlert =
       IconData(0x3398, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRadius' icon.
-  static const IconData strokeRoundedRadius =
-      IconData(0x3399, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRadius = IconData(0x3399, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRainDoubleDrop' icon.
   static const IconData strokeRoundedRainDoubleDrop =
@@ -11160,12 +10501,10 @@ class HugeIcons {
       IconData(0x339b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRain' icon.
-  static const IconData strokeRoundedRain =
-      IconData(0x339c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRain = IconData(0x339c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRainbow' icon.
-  static const IconData strokeRoundedRainbow =
-      IconData(0x339d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRainbow = IconData(0x339d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRamadhan01' icon.
   static const IconData strokeRoundedRamadhan01 =
@@ -11180,24 +10519,19 @@ class HugeIcons {
       IconData(0x33a0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRanking' icon.
-  static const IconData strokeRoundedRanking =
-      IconData(0x33a1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRanking = IconData(0x33a1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRaw01' icon.
-  static const IconData strokeRoundedRaw01 =
-      IconData(0x33a2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRaw01 = IconData(0x33a2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRaw02' icon.
-  static const IconData strokeRoundedRaw02 =
-      IconData(0x33a3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRaw02 = IconData(0x33a3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRe' icon.
-  static const IconData strokeRoundedRe =
-      IconData(0x33a4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRe = IconData(0x33a4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedReact' icon.
-  static const IconData strokeRoundedReact =
-      IconData(0x33a5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedReact = IconData(0x33a5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRealEstate01' icon.
   static const IconData strokeRoundedRealEstate01 =
@@ -11208,8 +10542,7 @@ class HugeIcons {
       IconData(0x33a7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRecord' icon.
-  static const IconData strokeRoundedRecord =
-      IconData(0x33a8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRecord = IconData(0x33a8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRectangular01' icon.
   static const IconData strokeRoundedRectangular01 =
@@ -11232,16 +10565,13 @@ class HugeIcons {
       IconData(0x33ad, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedReddit' icon.
-  static const IconData strokeRoundedReddit =
-      IconData(0x33ae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedReddit = IconData(0x33ae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedReflex' icon.
-  static const IconData strokeRoundedReflex =
-      IconData(0x33af, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedReflex = IconData(0x33af, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRefresh' icon.
-  static const IconData strokeRoundedRefresh =
-      IconData(0x33b0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRefresh = IconData(0x33b0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRefrigerator' icon.
   static const IconData strokeRoundedRefrigerator =
@@ -11264,8 +10594,7 @@ class HugeIcons {
       IconData(0x33b5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedReload' icon.
-  static const IconData strokeRoundedReload =
-      IconData(0x33b6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedReload = IconData(0x33b6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedReminder' icon.
   static const IconData strokeRoundedReminder =
@@ -11308,8 +10637,7 @@ class HugeIcons {
       IconData(0x33c0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRepair' icon.
-  static const IconData strokeRoundedRepair =
-      IconData(0x33c1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRepair = IconData(0x33c1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRepeatOff' icon.
   static const IconData strokeRoundedRepeatOff =
@@ -11324,12 +10652,10 @@ class HugeIcons {
       IconData(0x33c4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRepeat' icon.
-  static const IconData strokeRoundedRepeat =
-      IconData(0x33c5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRepeat = IconData(0x33c5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedReplay' icon.
-  static const IconData strokeRoundedReplay =
-      IconData(0x33c6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedReplay = IconData(0x33c6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRepository' icon.
   static const IconData strokeRoundedRepository =
@@ -11388,8 +10714,7 @@ class HugeIcons {
       IconData(0x33d4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRhombus' icon.
-  static const IconData strokeRoundedRhombus =
-      IconData(0x33d5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRhombus = IconData(0x33d5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRiceBowl01' icon.
   static const IconData strokeRoundedRiceBowl01 =
@@ -11428,16 +10753,13 @@ class HugeIcons {
       IconData(0x33de, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRipple' icon.
-  static const IconData strokeRoundedRipple =
-      IconData(0x33df, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRipple = IconData(0x33df, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRoad01' icon.
-  static const IconData strokeRoundedRoad01 =
-      IconData(0x33e0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRoad01 = IconData(0x33e0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRoad02' icon.
-  static const IconData strokeRoundedRoad02 =
-      IconData(0x33e1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRoad02 = IconData(0x33e1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRoadLocation01' icon.
   static const IconData strokeRoundedRoadLocation01 =
@@ -11452,12 +10774,10 @@ class HugeIcons {
       IconData(0x33e4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRoad' icon.
-  static const IconData strokeRoundedRoad =
-      IconData(0x33e5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRoad = IconData(0x33e5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRobotic' icon.
-  static const IconData strokeRoundedRobotic =
-      IconData(0x33e6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRobotic = IconData(0x33e6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRocket01' icon.
   static const IconData strokeRoundedRocket01 =
@@ -11468,8 +10788,7 @@ class HugeIcons {
       IconData(0x33e8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRocket' icon.
-  static const IconData strokeRoundedRocket =
-      IconData(0x33e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRocket = IconData(0x33e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRockingChair' icon.
   static const IconData strokeRoundedRockingChair =
@@ -11484,12 +10803,10 @@ class HugeIcons {
       IconData(0x33ec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRoot01' icon.
-  static const IconData strokeRoundedRoot01 =
-      IconData(0x33ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRoot01 = IconData(0x33ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRoot02' icon.
-  static const IconData strokeRoundedRoot02 =
-      IconData(0x33ee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRoot02 = IconData(0x33ee, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRootCircle' icon.
   static const IconData strokeRoundedRootCircle =
@@ -11596,16 +10913,13 @@ class HugeIcons {
       IconData(0x3408, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRoute01' icon.
-  static const IconData strokeRoundedRoute01 =
-      IconData(0x3409, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRoute01 = IconData(0x3409, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRoute02' icon.
-  static const IconData strokeRoundedRoute02 =
-      IconData(0x340a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRoute02 = IconData(0x340a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRoute03' icon.
-  static const IconData strokeRoundedRoute03 =
-      IconData(0x340b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRoute03 = IconData(0x340b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRouteBlock' icon.
   static const IconData strokeRoundedRouteBlock =
@@ -11620,8 +10934,7 @@ class HugeIcons {
       IconData(0x340e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRouter' icon.
-  static const IconData strokeRoundedRouter =
-      IconData(0x340f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRouter = IconData(0x340f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRowDelete' icon.
   static const IconData strokeRoundedRowDelete =
@@ -11652,40 +10965,34 @@ class HugeIcons {
       IconData(0x3416, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRss' icon.
-  static const IconData strokeRoundedRss =
-      IconData(0x3417, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRss = IconData(0x3417, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRubElHizb' icon.
   static const IconData strokeRoundedRubElHizb =
       IconData(0x3418, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRuku' icon.
-  static const IconData strokeRoundedRuku =
-      IconData(0x3419, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRuku = IconData(0x3419, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRuler' icon.
-  static const IconData strokeRoundedRuler =
-      IconData(0x341a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedRuler = IconData(0x341a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedRunningShoes' icon.
   static const IconData strokeRoundedRunningShoes =
       IconData(0x341b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSad01' icon.
-  static const IconData strokeRoundedSad01 =
-      IconData(0x341c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSad01 = IconData(0x341c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSad02' icon.
-  static const IconData strokeRoundedSad02 =
-      IconData(0x341d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSad02 = IconData(0x341d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSadDizzy' icon.
   static const IconData strokeRoundedSadDizzy =
       IconData(0x341e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSafari' icon.
-  static const IconData strokeRoundedSafari =
-      IconData(0x341f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSafari = IconData(0x341f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSafeDelivery01' icon.
   static const IconData strokeRoundedSafeDelivery01 =
@@ -11696,8 +11003,7 @@ class HugeIcons {
       IconData(0x3421, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSafe' icon.
-  static const IconData strokeRoundedSafe =
-      IconData(0x3422, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSafe = IconData(0x3422, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSafetyPin01' icon.
   static const IconData strokeRoundedSafetyPin01 =
@@ -11720,8 +11026,7 @@ class HugeIcons {
       IconData(0x3427, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSalah' icon.
-  static const IconData strokeRoundedSalah =
-      IconData(0x3428, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSalah = IconData(0x3428, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSaleTag01' icon.
   static const IconData strokeRoundedSaleTag01 =
@@ -11732,8 +11037,7 @@ class HugeIcons {
       IconData(0x342a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSandals' icon.
-  static const IconData strokeRoundedSandals =
-      IconData(0x342b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSandals = IconData(0x342b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSatellite01' icon.
   static const IconData strokeRoundedSatellite01 =
@@ -11760,12 +11064,10 @@ class HugeIcons {
       IconData(0x3431, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSaturn' icon.
-  static const IconData strokeRoundedSaturn =
-      IconData(0x3432, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSaturn = IconData(0x3432, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSausage' icon.
-  static const IconData strokeRoundedSausage =
-      IconData(0x3433, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSausage = IconData(0x3433, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSaveEnergy01' icon.
   static const IconData strokeRoundedSaveEnergy01 =
@@ -11780,8 +11082,7 @@ class HugeIcons {
       IconData(0x3436, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedScheme' icon.
-  static const IconData strokeRoundedScheme =
-      IconData(0x3437, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedScheme = IconData(0x3437, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSchool01' icon.
   static const IconData strokeRoundedSchool01 =
@@ -11808,8 +11109,7 @@ class HugeIcons {
       IconData(0x343d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSchool' icon.
-  static const IconData strokeRoundedSchool =
-      IconData(0x343e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSchool = IconData(0x343e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedScissor01' icon.
   static const IconData strokeRoundedScissor01 =
@@ -11820,8 +11120,7 @@ class HugeIcons {
       IconData(0x3440, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedScissor' icon.
-  static const IconData strokeRoundedScissor =
-      IconData(0x3441, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedScissor = IconData(0x3441, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedScooter01' icon.
   static const IconData strokeRoundedScooter01 =
@@ -11860,8 +11159,7 @@ class HugeIcons {
       IconData(0x344a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedScribd' icon.
-  static const IconData strokeRoundedScribd =
-      IconData(0x344b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedScribd = IconData(0x344b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedScrollHorizontal' icon.
   static const IconData strokeRoundedScrollHorizontal =
@@ -11872,16 +11170,13 @@ class HugeIcons {
       IconData(0x344d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedScroll' icon.
-  static const IconData strokeRoundedScroll =
-      IconData(0x344e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedScroll = IconData(0x344e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSdCard' icon.
-  static const IconData strokeRoundedSdCard =
-      IconData(0x344f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSdCard = IconData(0x344f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSeal' icon.
-  static const IconData strokeRoundedSeal =
-      IconData(0x3450, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSeal = IconData(0x3450, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSearch01' icon.
   static const IconData strokeRoundedSearch01 =
@@ -11988,8 +11283,7 @@ class HugeIcons {
       IconData(0x346a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSegment' icon.
-  static const IconData strokeRoundedSegment =
-      IconData(0x346b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSegment = IconData(0x346b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSelect01' icon.
   static const IconData strokeRoundedSelect01 =
@@ -12008,16 +11302,13 @@ class HugeIcons {
       IconData(0x346f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSent' icon.
-  static const IconData strokeRoundedSent =
-      IconData(0x3470, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSent = IconData(0x3470, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSeo' icon.
-  static const IconData strokeRoundedSeo =
-      IconData(0x3471, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSeo = IconData(0x3471, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedService' icon.
-  static const IconData strokeRoundedService =
-      IconData(0x3472, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedService = IconData(0x3472, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSetting06' icon.
   static const IconData strokeRoundedSetting06 =
@@ -12080,68 +11371,52 @@ class HugeIcons {
       IconData(0x3481, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSetup01' icon.
-  static const IconData strokeRoundedSetup01 =
-      IconData(0x3482, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSetup01 = IconData(0x3482, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSetup02' icon.
-  static const IconData strokeRoundedSetup02 =
-      IconData(0x3483, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSetup02 = IconData(0x3483, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShaka01' icon.
-  static const IconData strokeRoundedShaka01 =
-      IconData(0x3484, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShaka01 = IconData(0x3484, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShaka02' icon.
-  static const IconData strokeRoundedShaka02 =
-      IconData(0x3485, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShaka02 = IconData(0x3485, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShaka03' icon.
-  static const IconData strokeRoundedShaka03 =
-      IconData(0x3486, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShaka03 = IconData(0x3486, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShaka04' icon.
-  static const IconData strokeRoundedShaka04 =
-      IconData(0x3487, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShaka04 = IconData(0x3487, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShampoo' icon.
-  static const IconData strokeRoundedShampoo =
-      IconData(0x3488, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShampoo = IconData(0x3488, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShapes' icon.
-  static const IconData strokeRoundedShapes =
-      IconData(0x3489, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShapes = IconData(0x3489, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShare01' icon.
-  static const IconData strokeRoundedShare01 =
-      IconData(0x348a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShare01 = IconData(0x348a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShare02' icon.
-  static const IconData strokeRoundedShare02 =
-      IconData(0x348b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShare02 = IconData(0x348b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShare03' icon.
-  static const IconData strokeRoundedShare03 =
-      IconData(0x348c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShare03 = IconData(0x348c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShare04' icon.
-  static const IconData strokeRoundedShare04 =
-      IconData(0x348d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShare04 = IconData(0x348d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShare05' icon.
-  static const IconData strokeRoundedShare05 =
-      IconData(0x348e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShare05 = IconData(0x348e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShare06' icon.
-  static const IconData strokeRoundedShare06 =
-      IconData(0x348f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShare06 = IconData(0x348f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShare07' icon.
-  static const IconData strokeRoundedShare07 =
-      IconData(0x3490, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShare07 = IconData(0x3490, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShare08' icon.
-  static const IconData strokeRoundedShare08 =
-      IconData(0x3491, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShare08 = IconData(0x3491, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShareKnowledge' icon.
   static const IconData strokeRoundedShareKnowledge =
@@ -12160,8 +11435,7 @@ class HugeIcons {
       IconData(0x3495, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSharing' icon.
-  static const IconData strokeRoundedSharing =
-      IconData(0x3496, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSharing = IconData(0x3496, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShellfish' icon.
   static const IconData strokeRoundedShellfish =
@@ -12204,12 +11478,10 @@ class HugeIcons {
       IconData(0x34a0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShirt01' icon.
-  static const IconData strokeRoundedShirt01 =
-      IconData(0x34a1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShirt01 = IconData(0x34a1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShocked' icon.
-  static const IconData strokeRoundedShocked =
-      IconData(0x34a2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShocked = IconData(0x34a2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShopSign' icon.
   static const IconData strokeRoundedShopSign =
@@ -12404,8 +11676,7 @@ class HugeIcons {
       IconData(0x34d2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShuffle' icon.
-  static const IconData strokeRoundedShuffle =
-      IconData(0x34d3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedShuffle = IconData(0x34d3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedShutterstock' icon.
   static const IconData strokeRoundedShutterstock =
@@ -12476,16 +11747,14 @@ class HugeIcons {
       IconData(0x34e4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSignal' icon.
-  static const IconData strokeRoundedSignal =
-      IconData(0x34e5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSignal = IconData(0x34e5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSignature' icon.
   static const IconData strokeRoundedSignature =
       IconData(0x34e6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSilence' icon.
-  static const IconData strokeRoundedSilence =
-      IconData(0x34e7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSilence = IconData(0x34e7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSimcard01' icon.
   static const IconData strokeRoundedSimcard01 =
@@ -12500,16 +11769,13 @@ class HugeIcons {
       IconData(0x34ea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSin' icon.
-  static const IconData strokeRoundedSin =
-      IconData(0x34eb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSin = IconData(0x34eb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSine01' icon.
-  static const IconData strokeRoundedSine01 =
-      IconData(0x34ec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSine01 = IconData(0x34ec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSine02' icon.
-  static const IconData strokeRoundedSine02 =
-      IconData(0x34ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSine02 = IconData(0x34ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSingLeft' icon.
   static const IconData strokeRoundedSingLeft =
@@ -12520,40 +11786,32 @@ class HugeIcons {
       IconData(0x34ef, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSink01' icon.
-  static const IconData strokeRoundedSink01 =
-      IconData(0x34f0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSink01 = IconData(0x34f0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSink02' icon.
-  static const IconData strokeRoundedSink02 =
-      IconData(0x34f1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSink02 = IconData(0x34f1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSiri' icon.
-  static const IconData strokeRoundedSiri =
-      IconData(0x34f2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSiri = IconData(0x34f2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSketch' icon.
-  static const IconData strokeRoundedSketch =
-      IconData(0x34f3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSketch = IconData(0x34f3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSkew' icon.
-  static const IconData strokeRoundedSkew =
-      IconData(0x34f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSkew = IconData(0x34f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSkippingRope' icon.
   static const IconData strokeRoundedSkippingRope =
       IconData(0x34f5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSkull' icon.
-  static const IconData strokeRoundedSkull =
-      IconData(0x34f6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSkull = IconData(0x34f6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSkype' icon.
-  static const IconData strokeRoundedSkype =
-      IconData(0x34f7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSkype = IconData(0x34f7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSlack' icon.
-  static const IconData strokeRoundedSlack =
-      IconData(0x34f8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSlack = IconData(0x34f8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSleeping' icon.
   static const IconData strokeRoundedSleeping =
@@ -12580,8 +11838,7 @@ class HugeIcons {
       IconData(0x34fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSmartAc' icon.
-  static const IconData strokeRoundedSmartAc =
-      IconData(0x34ff, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSmartAc = IconData(0x34ff, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSmartPhone01' icon.
   static const IconData strokeRoundedSmartPhone01 =
@@ -12620,8 +11877,7 @@ class HugeIcons {
       IconData(0x3508, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSmart' icon.
-  static const IconData strokeRoundedSmart =
-      IconData(0x3509, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSmart = IconData(0x3509, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSmartphoneLostWifi' icon.
   static const IconData strokeRoundedSmartphoneLostWifi =
@@ -12636,36 +11892,29 @@ class HugeIcons {
       IconData(0x350c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSmile' icon.
-  static const IconData strokeRoundedSmile =
-      IconData(0x350d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSmile = IconData(0x350d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSnail' icon.
-  static const IconData strokeRoundedSnail =
-      IconData(0x350e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSnail = IconData(0x350e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSnapchat' icon.
   static const IconData strokeRoundedSnapchat =
       IconData(0x350f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSnow' icon.
-  static const IconData strokeRoundedSnow =
-      IconData(0x3510, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSnow = IconData(0x3510, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSodaCan' icon.
-  static const IconData strokeRoundedSodaCan =
-      IconData(0x3511, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSodaCan = IconData(0x3511, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSofa01' icon.
-  static const IconData strokeRoundedSofa01 =
-      IconData(0x3512, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSofa01 = IconData(0x3512, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSofa02' icon.
-  static const IconData strokeRoundedSofa02 =
-      IconData(0x3513, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSofa02 = IconData(0x3513, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSofa03' icon.
-  static const IconData strokeRoundedSofa03 =
-      IconData(0x3514, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSofa03 = IconData(0x3514, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSofaSingle' icon.
   static const IconData strokeRoundedSofaSingle =
@@ -12836,16 +12085,14 @@ class HugeIcons {
       IconData(0x353e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpades' icon.
-  static const IconData strokeRoundedSpades =
-      IconData(0x353f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSpades = IconData(0x353f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpaghetti' icon.
   static const IconData strokeRoundedSpaghetti =
       IconData(0x3540, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpam' icon.
-  static const IconData strokeRoundedSpam =
-      IconData(0x3541, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSpam = IconData(0x3541, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSparkles' icon.
   static const IconData strokeRoundedSparkles =
@@ -12856,16 +12103,14 @@ class HugeIcons {
       IconData(0x3543, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpatula' icon.
-  static const IconData strokeRoundedSpatula =
-      IconData(0x3544, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSpatula = IconData(0x3544, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpeaker01' icon.
   static const IconData strokeRoundedSpeaker01 =
       IconData(0x3545, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpeaker' icon.
-  static const IconData strokeRoundedSpeaker =
-      IconData(0x3546, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSpeaker = IconData(0x3546, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpeechToText' icon.
   static const IconData strokeRoundedSpeechToText =
@@ -12880,16 +12125,13 @@ class HugeIcons {
       IconData(0x3549, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSperm' icon.
-  static const IconData strokeRoundedSperm =
-      IconData(0x354a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSperm = IconData(0x354a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSphere' icon.
-  static const IconData strokeRoundedSphere =
-      IconData(0x354b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSphere = IconData(0x354b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpirals' icon.
-  static const IconData strokeRoundedSpirals =
-      IconData(0x354c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSpirals = IconData(0x354c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpoonAndFork' icon.
   static const IconData strokeRoundedSpoonAndFork =
@@ -12900,16 +12142,13 @@ class HugeIcons {
       IconData(0x354e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpoon' icon.
-  static const IconData strokeRoundedSpoon =
-      IconData(0x354f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSpoon = IconData(0x354f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSpotify' icon.
-  static const IconData strokeRoundedSpotify =
-      IconData(0x3550, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSpotify = IconData(0x3550, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSql' icon.
-  static const IconData strokeRoundedSql =
-      IconData(0x3551, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSql = IconData(0x3551, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSquare01' icon.
   static const IconData strokeRoundedSquare01 =
@@ -13144,28 +12383,23 @@ class HugeIcons {
       IconData(0x358b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSquare' icon.
-  static const IconData strokeRoundedSquare =
-      IconData(0x358c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSquare = IconData(0x358c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStackStar' icon.
   static const IconData strokeRoundedStackStar =
       IconData(0x358d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStake' icon.
-  static const IconData strokeRoundedStake =
-      IconData(0x358e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStake = IconData(0x358e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStamp01' icon.
-  static const IconData strokeRoundedStamp01 =
-      IconData(0x358f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStamp01 = IconData(0x358f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStamp02' icon.
-  static const IconData strokeRoundedStamp02 =
-      IconData(0x3590, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStamp02 = IconData(0x3590, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStamp' icon.
-  static const IconData strokeRoundedStamp =
-      IconData(0x3591, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStamp = IconData(0x3591, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStarCircle' icon.
   static const IconData strokeRoundedStarCircle =
@@ -13180,20 +12414,17 @@ class HugeIcons {
       IconData(0x3594, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStarOff' icon.
-  static const IconData strokeRoundedStarOff =
-      IconData(0x3595, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStarOff = IconData(0x3595, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStarSquare' icon.
   static const IconData strokeRoundedStarSquare =
       IconData(0x3596, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStar' icon.
-  static const IconData strokeRoundedStar =
-      IconData(0x3597, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStar = IconData(0x3597, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStars' icon.
-  static const IconData strokeRoundedStars =
-      IconData(0x3598, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStars = IconData(0x3598, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStartUp01' icon.
   static const IconData strokeRoundedStartUp01 =
@@ -13208,8 +12439,7 @@ class HugeIcons {
       IconData(0x359b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSteak' icon.
-  static const IconData strokeRoundedSteak =
-      IconData(0x359c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSteak = IconData(0x359c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSteering' icon.
   static const IconData strokeRoundedSteering =
@@ -13220,8 +12450,7 @@ class HugeIcons {
       IconData(0x359e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStepOut' icon.
-  static const IconData strokeRoundedStepOut =
-      IconData(0x359f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStepOut = IconData(0x359f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStepOver' icon.
   static const IconData strokeRoundedStepOver =
@@ -13248,24 +12477,19 @@ class HugeIcons {
       IconData(0x35a5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStop' icon.
-  static const IconData strokeRoundedStop =
-      IconData(0x35a6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStop = IconData(0x35a6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStore01' icon.
-  static const IconData strokeRoundedStore01 =
-      IconData(0x35a7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStore01 = IconData(0x35a7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStore02' icon.
-  static const IconData strokeRoundedStore02 =
-      IconData(0x35a8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStore02 = IconData(0x35a8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStore03' icon.
-  static const IconData strokeRoundedStore03 =
-      IconData(0x35a9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStore03 = IconData(0x35a9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStore04' icon.
-  static const IconData strokeRoundedStore04 =
-      IconData(0x35aa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStore04 = IconData(0x35aa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStoreAdd01' icon.
   static const IconData strokeRoundedStoreAdd01 =
@@ -13364,8 +12588,7 @@ class HugeIcons {
       IconData(0x35c2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStudent' icon.
-  static const IconData strokeRoundedStudent =
-      IconData(0x35c3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedStudent = IconData(0x35c3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedStudents' icon.
   static const IconData strokeRoundedStudents =
@@ -13408,16 +12631,13 @@ class HugeIcons {
       IconData(0x35cd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSuit01' icon.
-  static const IconData strokeRoundedSuit01 =
-      IconData(0x35ce, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSuit01 = IconData(0x35ce, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSuit02' icon.
-  static const IconData strokeRoundedSuit02 =
-      IconData(0x35cf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSuit02 = IconData(0x35cf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSujood' icon.
-  static const IconData strokeRoundedSujood =
-      IconData(0x35d0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSujood = IconData(0x35d0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSummation01' icon.
   static const IconData strokeRoundedSummation01 =
@@ -13436,16 +12656,13 @@ class HugeIcons {
       IconData(0x35d4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSun01' icon.
-  static const IconData strokeRoundedSun01 =
-      IconData(0x35d5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSun01 = IconData(0x35d5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSun02' icon.
-  static const IconData strokeRoundedSun02 =
-      IconData(0x35d6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSun02 = IconData(0x35d6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSun03' icon.
-  static const IconData strokeRoundedSun03 =
-      IconData(0x35d7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSun03 = IconData(0x35d7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSunCloud01' icon.
   static const IconData strokeRoundedSunCloud01 =
@@ -13556,12 +12773,10 @@ class HugeIcons {
       IconData(0x35f2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSunrise' icon.
-  static const IconData strokeRoundedSunrise =
-      IconData(0x35f3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSunrise = IconData(0x35f3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSunset' icon.
-  static const IconData strokeRoundedSunset =
-      IconData(0x35f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSunset = IconData(0x35f4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSuperMarioToad' icon.
   static const IconData strokeRoundedSuperMarioToad =
@@ -13580,16 +12795,13 @@ class HugeIcons {
       IconData(0x35f8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSushi01' icon.
-  static const IconData strokeRoundedSushi01 =
-      IconData(0x35f9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSushi01 = IconData(0x35f9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSushi02' icon.
-  static const IconData strokeRoundedSushi02 =
-      IconData(0x35fa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSushi02 = IconData(0x35fa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSushi03' icon.
-  static const IconData strokeRoundedSushi03 =
-      IconData(0x35fb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSushi03 = IconData(0x35fb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSuspicious' icon.
   static const IconData strokeRoundedSuspicious =
@@ -13600,20 +12812,16 @@ class HugeIcons {
       IconData(0x35fd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSvg01' icon.
-  static const IconData strokeRoundedSvg01 =
-      IconData(0x35fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSvg01 = IconData(0x35fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSvg02' icon.
-  static const IconData strokeRoundedSvg02 =
-      IconData(0x35ff, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSvg02 = IconData(0x35ff, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSwarm' icon.
-  static const IconData strokeRoundedSwarm =
-      IconData(0x3600, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSwarm = IconData(0x3600, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSwatch' icon.
-  static const IconData strokeRoundedSwatch =
-      IconData(0x3601, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSwatch = IconData(0x3601, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSwimmingCap' icon.
   static const IconData strokeRoundedSwimmingCap =
@@ -13760,16 +12968,13 @@ class HugeIcons {
       IconData(0x3625, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSword01' icon.
-  static const IconData strokeRoundedSword01 =
-      IconData(0x3626, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSword01 = IconData(0x3626, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSword02' icon.
-  static const IconData strokeRoundedSword02 =
-      IconData(0x3627, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSword02 = IconData(0x3627, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSword03' icon.
-  static const IconData strokeRoundedSword03 =
-      IconData(0x3628, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedSword03 = IconData(0x3628, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedSystemUpdate01' icon.
   static const IconData strokeRoundedSystemUpdate01 =
@@ -13780,20 +12985,16 @@ class HugeIcons {
       IconData(0x362a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTShirt' icon.
-  static const IconData strokeRoundedTShirt =
-      IconData(0x362b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTShirt = IconData(0x362b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTable01' icon.
-  static const IconData strokeRoundedTable01 =
-      IconData(0x362c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTable01 = IconData(0x362c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTable02' icon.
-  static const IconData strokeRoundedTable02 =
-      IconData(0x362d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTable02 = IconData(0x362d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTable03' icon.
-  static const IconData strokeRoundedTable03 =
-      IconData(0x362e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTable03 = IconData(0x362e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTableLamp01' icon.
   static const IconData strokeRoundedTableLamp01 =
@@ -13812,8 +13013,7 @@ class HugeIcons {
       IconData(0x3632, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTable' icon.
-  static const IconData strokeRoundedTable =
-      IconData(0x3633, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTable = IconData(0x3633, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTablet01' icon.
   static const IconData strokeRoundedTablet01 =
@@ -13840,68 +13040,53 @@ class HugeIcons {
       IconData(0x3639, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTaco01' icon.
-  static const IconData strokeRoundedTaco01 =
-      IconData(0x363a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTaco01 = IconData(0x363a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTaco02' icon.
-  static const IconData strokeRoundedTaco02 =
-      IconData(0x363b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTaco02 = IconData(0x363b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTag01' icon.
-  static const IconData strokeRoundedTag01 =
-      IconData(0x363c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTag01 = IconData(0x363c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTag02' icon.
-  static const IconData strokeRoundedTag02 =
-      IconData(0x363d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTag02 = IconData(0x363d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTags' icon.
-  static const IconData strokeRoundedTags =
-      IconData(0x363e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTags = IconData(0x363e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTajMahal' icon.
   static const IconData strokeRoundedTajMahal =
       IconData(0x363f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTan' icon.
-  static const IconData strokeRoundedTan =
-      IconData(0x3640, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTan = IconData(0x3640, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTankTop' icon.
-  static const IconData strokeRoundedTankTop =
-      IconData(0x3641, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTankTop = IconData(0x3641, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTap01' icon.
-  static const IconData strokeRoundedTap01 =
-      IconData(0x3642, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTap01 = IconData(0x3642, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTap02' icon.
-  static const IconData strokeRoundedTap02 =
-      IconData(0x3643, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTap02 = IconData(0x3643, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTap03' icon.
-  static const IconData strokeRoundedTap03 =
-      IconData(0x3644, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTap03 = IconData(0x3644, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTap04' icon.
-  static const IconData strokeRoundedTap04 =
-      IconData(0x3645, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTap04 = IconData(0x3645, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTap05' icon.
-  static const IconData strokeRoundedTap05 =
-      IconData(0x3646, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTap05 = IconData(0x3646, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTap06' icon.
-  static const IconData strokeRoundedTap06 =
-      IconData(0x3647, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTap06 = IconData(0x3647, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTap07' icon.
-  static const IconData strokeRoundedTap07 =
-      IconData(0x3648, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTap07 = IconData(0x3648, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTap08' icon.
-  static const IconData strokeRoundedTap08 =
-      IconData(0x3649, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTap08 = IconData(0x3649, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTapeMeasure' icon.
   static const IconData strokeRoundedTapeMeasure =
@@ -13924,16 +13109,13 @@ class HugeIcons {
       IconData(0x364e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTasbih' icon.
-  static const IconData strokeRoundedTasbih =
-      IconData(0x364f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTasbih = IconData(0x364f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTask01' icon.
-  static const IconData strokeRoundedTask01 =
-      IconData(0x3650, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTask01 = IconData(0x3650, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTask02' icon.
-  static const IconData strokeRoundedTask02 =
-      IconData(0x3651, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTask02 = IconData(0x3651, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTaskAdd01' icon.
   static const IconData strokeRoundedTaskAdd01 =
@@ -13976,24 +13158,19 @@ class HugeIcons {
       IconData(0x365b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTaxes' icon.
-  static const IconData strokeRoundedTaxes =
-      IconData(0x365c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTaxes = IconData(0x365c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTaxi' icon.
-  static const IconData strokeRoundedTaxi =
-      IconData(0x365d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTaxi = IconData(0x365d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTeaPod' icon.
-  static const IconData strokeRoundedTeaPod =
-      IconData(0x365e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTeaPod = IconData(0x365e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTea' icon.
-  static const IconData strokeRoundedTea =
-      IconData(0x365f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTea = IconData(0x365f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTeacher' icon.
-  static const IconData strokeRoundedTeacher =
-      IconData(0x3660, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTeacher = IconData(0x3660, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTeaching' icon.
   static const IconData strokeRoundedTeaching =
@@ -14032,8 +13209,7 @@ class HugeIcons {
       IconData(0x3669, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTerrace' icon.
-  static const IconData strokeRoundedTerrace =
-      IconData(0x366a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTerrace = IconData(0x366a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTestTube01' icon.
   static const IconData strokeRoundedTestTube01 =
@@ -14052,8 +13228,7 @@ class HugeIcons {
       IconData(0x366e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTetris' icon.
-  static const IconData strokeRoundedTetris =
-      IconData(0x366f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTetris = IconData(0x366f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTextAlignCenter' icon.
   static const IconData strokeRoundedTextAlignCenter =
@@ -14212,8 +13387,7 @@ class HugeIcons {
       IconData(0x3696, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedText' icon.
-  static const IconData strokeRoundedText =
-      IconData(0x3697, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedText = IconData(0x3697, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTheProphetsMosque' icon.
   static const IconData strokeRoundedTheProphetsMosque =
@@ -14252,8 +13426,7 @@ class HugeIcons {
       IconData(0x36a0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedThreads' icon.
-  static const IconData strokeRoundedThreads =
-      IconData(0x36a1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedThreads = IconData(0x36a1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedThreeDMove' icon.
   static const IconData strokeRoundedThreeDMove =
@@ -14324,20 +13497,16 @@ class HugeIcons {
       IconData(0x36b2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTick01' icon.
-  static const IconData strokeRoundedTick01 =
-      IconData(0x36b3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTick01 = IconData(0x36b3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTick02' icon.
-  static const IconData strokeRoundedTick02 =
-      IconData(0x36b4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTick02 = IconData(0x36b4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTick03' icon.
-  static const IconData strokeRoundedTick03 =
-      IconData(0x36b5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTick03 = IconData(0x36b5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTick04' icon.
-  static const IconData strokeRoundedTick04 =
-      IconData(0x36b6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTick04 = IconData(0x36b6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTickDouble01' icon.
   static const IconData strokeRoundedTickDouble01 =
@@ -14372,28 +13541,22 @@ class HugeIcons {
       IconData(0x36be, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTie' icon.
-  static const IconData strokeRoundedTie =
-      IconData(0x36bf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTie = IconData(0x36bf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTiktok' icon.
-  static const IconData strokeRoundedTiktok =
-      IconData(0x36c0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTiktok = IconData(0x36c0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTime01' icon.
-  static const IconData strokeRoundedTime01 =
-      IconData(0x36c1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTime01 = IconData(0x36c1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTime02' icon.
-  static const IconData strokeRoundedTime02 =
-      IconData(0x36c2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTime02 = IconData(0x36c2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTime03' icon.
-  static const IconData strokeRoundedTime03 =
-      IconData(0x36c3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTime03 = IconData(0x36c3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTime04' icon.
-  static const IconData strokeRoundedTime04 =
-      IconData(0x36c4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTime04 = IconData(0x36c4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTimeHalfPass' icon.
   static const IconData strokeRoundedTimeHalfPass =
@@ -14432,32 +13595,26 @@ class HugeIcons {
       IconData(0x36cd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTimer01' icon.
-  static const IconData strokeRoundedTimer01 =
-      IconData(0x36ce, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTimer01 = IconData(0x36ce, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTimer02' icon.
-  static const IconData strokeRoundedTimer02 =
-      IconData(0x36cf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTimer02 = IconData(0x36cf, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTinderSquare' icon.
   static const IconData strokeRoundedTinderSquare =
       IconData(0x36d0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTinder' icon.
-  static const IconData strokeRoundedTinder =
-      IconData(0x36d1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTinder = IconData(0x36d1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTips' icon.
-  static const IconData strokeRoundedTips =
-      IconData(0x36d2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTips = IconData(0x36d2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTired01' icon.
-  static const IconData strokeRoundedTired01 =
-      IconData(0x36d3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTired01 = IconData(0x36d3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTired02' icon.
-  static const IconData strokeRoundedTired02 =
-      IconData(0x36d4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTired02 = IconData(0x36d4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTissuePaper' icon.
   static const IconData strokeRoundedTissuePaper =
@@ -14492,12 +13649,10 @@ class HugeIcons {
       IconData(0x36dc, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTongue' icon.
-  static const IconData strokeRoundedTongue =
-      IconData(0x36dd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTongue = IconData(0x36dd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTools' icon.
-  static const IconData strokeRoundedTools =
-      IconData(0x36de, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTools = IconData(0x36de, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTornado01' icon.
   static const IconData strokeRoundedTornado01 =
@@ -14512,44 +13667,34 @@ class HugeIcons {
       IconData(0x36e1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouch01' icon.
-  static const IconData strokeRoundedTouch01 =
-      IconData(0x36e2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTouch01 = IconData(0x36e2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouch02' icon.
-  static const IconData strokeRoundedTouch02 =
-      IconData(0x36e3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTouch02 = IconData(0x36e3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouch03' icon.
-  static const IconData strokeRoundedTouch03 =
-      IconData(0x36e4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTouch03 = IconData(0x36e4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouch04' icon.
-  static const IconData strokeRoundedTouch04 =
-      IconData(0x36e5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTouch04 = IconData(0x36e5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouch05' icon.
-  static const IconData strokeRoundedTouch05 =
-      IconData(0x36e6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTouch05 = IconData(0x36e6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouch06' icon.
-  static const IconData strokeRoundedTouch06 =
-      IconData(0x36e7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTouch06 = IconData(0x36e7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouch07' icon.
-  static const IconData strokeRoundedTouch07 =
-      IconData(0x36e8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTouch07 = IconData(0x36e8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouch08' icon.
-  static const IconData strokeRoundedTouch08 =
-      IconData(0x36e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTouch08 = IconData(0x36e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouch09' icon.
-  static const IconData strokeRoundedTouch09 =
-      IconData(0x36ea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTouch09 = IconData(0x36ea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouch10' icon.
-  static const IconData strokeRoundedTouch10 =
-      IconData(0x36eb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTouch10 = IconData(0x36eb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTouchInteraction01' icon.
   static const IconData strokeRoundedTouchInteraction01 =
@@ -14604,16 +13749,14 @@ class HugeIcons {
       IconData(0x36f8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTowels' icon.
-  static const IconData strokeRoundedTowels =
-      IconData(0x36f9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTowels = IconData(0x36f9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedToyTrain' icon.
   static const IconData strokeRoundedToyTrain =
       IconData(0x36fa, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTractor' icon.
-  static const IconData strokeRoundedTractor =
-      IconData(0x36fb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTractor = IconData(0x36fb, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTradeDown' icon.
   static const IconData strokeRoundedTradeDown =
@@ -14624,8 +13767,7 @@ class HugeIcons {
       IconData(0x36fd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTradeUp' icon.
-  static const IconData strokeRoundedTradeUp =
-      IconData(0x36fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTradeUp = IconData(0x36fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTrademark' icon.
   static const IconData strokeRoundedTrademark =
@@ -14640,16 +13782,13 @@ class HugeIcons {
       IconData(0x3701, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTrain01' icon.
-  static const IconData strokeRoundedTrain01 =
-      IconData(0x3702, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTrain01 = IconData(0x3702, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTrain02' icon.
-  static const IconData strokeRoundedTrain02 =
-      IconData(0x3703, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTrain02 = IconData(0x3703, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTram' icon.
-  static const IconData strokeRoundedTram =
-      IconData(0x3704, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTram = IconData(0x3704, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTrampoline' icon.
   static const IconData strokeRoundedTrampoline =
@@ -14716,36 +13855,28 @@ class HugeIcons {
       IconData(0x3714, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTree01' icon.
-  static const IconData strokeRoundedTree01 =
-      IconData(0x3715, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTree01 = IconData(0x3715, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTree02' icon.
-  static const IconData strokeRoundedTree02 =
-      IconData(0x3716, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTree02 = IconData(0x3716, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTree03' icon.
-  static const IconData strokeRoundedTree03 =
-      IconData(0x3717, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTree03 = IconData(0x3717, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTree04' icon.
-  static const IconData strokeRoundedTree04 =
-      IconData(0x3718, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTree04 = IconData(0x3718, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTree05' icon.
-  static const IconData strokeRoundedTree05 =
-      IconData(0x3719, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTree05 = IconData(0x3719, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTree06' icon.
-  static const IconData strokeRoundedTree06 =
-      IconData(0x371a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTree06 = IconData(0x371a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTree07' icon.
-  static const IconData strokeRoundedTree07 =
-      IconData(0x371b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTree07 = IconData(0x371b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTrello' icon.
-  static const IconData strokeRoundedTrello =
-      IconData(0x371c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTrello = IconData(0x371c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTriangle01' icon.
   static const IconData strokeRoundedTriangle01 =
@@ -14796,60 +13927,49 @@ class HugeIcons {
       IconData(0x3728, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTruck' icon.
-  static const IconData strokeRoundedTruck =
-      IconData(0x3729, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTruck = IconData(0x3729, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTrulli' icon.
-  static const IconData strokeRoundedTrulli =
-      IconData(0x372a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTrulli = IconData(0x372a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTsunami' icon.
-  static const IconData strokeRoundedTsunami =
-      IconData(0x372b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTsunami = IconData(0x372b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTumblr' icon.
-  static const IconData strokeRoundedTumblr =
-      IconData(0x372c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTumblr = IconData(0x372c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTurtleNeck' icon.
   static const IconData strokeRoundedTurtleNeck =
       IconData(0x372d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTv01' icon.
-  static const IconData strokeRoundedTv01 =
-      IconData(0x372e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTv01 = IconData(0x372e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTv02' icon.
-  static const IconData strokeRoundedTv02 =
-      IconData(0x372f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTv02 = IconData(0x372f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTvFix' icon.
-  static const IconData strokeRoundedTvFix =
-      IconData(0x3730, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTvFix = IconData(0x3730, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTvIssue' icon.
-  static const IconData strokeRoundedTvIssue =
-      IconData(0x3731, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTvIssue = IconData(0x3731, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTvSmart' icon.
-  static const IconData strokeRoundedTvSmart =
-      IconData(0x3732, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTvSmart = IconData(0x3732, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTwinTower' icon.
   static const IconData strokeRoundedTwinTower =
       IconData(0x3733, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTwitch' icon.
-  static const IconData strokeRoundedTwitch =
-      IconData(0x3734, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTwitch = IconData(0x3734, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTwitterSquare' icon.
   static const IconData strokeRoundedTwitterSquare =
       IconData(0x3735, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTwitter' icon.
-  static const IconData strokeRoundedTwitter =
-      IconData(0x3736, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTwitter = IconData(0x3736, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTwoFinger01' icon.
   static const IconData strokeRoundedTwoFinger01 =
@@ -14872,12 +13992,10 @@ class HugeIcons {
       IconData(0x373b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTxt01' icon.
-  static const IconData strokeRoundedTxt01 =
-      IconData(0x373c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTxt01 = IconData(0x373c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTxt02' icon.
-  static const IconData strokeRoundedTxt02 =
-      IconData(0x373d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedTxt02 = IconData(0x373d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedTypeCursor' icon.
   static const IconData strokeRoundedTypeCursor =
@@ -14896,16 +14014,13 @@ class HugeIcons {
       IconData(0x3741, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUber' icon.
-  static const IconData strokeRoundedUber =
-      IconData(0x3742, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUber = IconData(0x3742, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUfo01' icon.
-  static const IconData strokeRoundedUfo01 =
-      IconData(0x3743, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUfo01 = IconData(0x3743, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUfo' icon.
-  static const IconData strokeRoundedUfo =
-      IconData(0x3744, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUfo = IconData(0x3744, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUmbrellaDollar' icon.
   static const IconData strokeRoundedUmbrellaDollar =
@@ -14952,8 +14067,7 @@ class HugeIcons {
       IconData(0x374f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUnhappy' icon.
-  static const IconData strokeRoundedUnhappy =
-      IconData(0x3750, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUnhappy = IconData(0x3750, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUniversity' icon.
   static const IconData strokeRoundedUniversity =
@@ -15024,12 +14138,10 @@ class HugeIcons {
       IconData(0x3761, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUpwork' icon.
-  static const IconData strokeRoundedUpwork =
-      IconData(0x3762, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUpwork = IconData(0x3762, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUsbBugs' icon.
-  static const IconData strokeRoundedUsbBugs =
-      IconData(0x3763, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUsbBugs = IconData(0x3763, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUsbConnected01' icon.
   static const IconData strokeRoundedUsbConnected01 =
@@ -15064,8 +14176,7 @@ class HugeIcons {
       IconData(0x376b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUsb' icon.
-  static const IconData strokeRoundedUsb =
-      IconData(0x376c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUsb = IconData(0x376c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUserAccount' icon.
   static const IconData strokeRoundedUserAccount =
@@ -15240,24 +14351,19 @@ class HugeIcons {
       IconData(0x3797, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUser' icon.
-  static const IconData strokeRoundedUser =
-      IconData(0x3798, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUser = IconData(0x3798, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUv01' icon.
-  static const IconData strokeRoundedUv01 =
-      IconData(0x3799, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUv01 = IconData(0x3799, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUv02' icon.
-  static const IconData strokeRoundedUv02 =
-      IconData(0x379a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUv02 = IconData(0x379a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedUv03' icon.
-  static const IconData strokeRoundedUv03 =
-      IconData(0x379b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedUv03 = IconData(0x379b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVaccine' icon.
-  static const IconData strokeRoundedVaccine =
-      IconData(0x379c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVaccine = IconData(0x379c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedValidationApproval' icon.
   static const IconData strokeRoundedValidationApproval =
@@ -15268,8 +14374,7 @@ class HugeIcons {
       IconData(0x379e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVan' icon.
-  static const IconData strokeRoundedVan =
-      IconData(0x379f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVan = IconData(0x379f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVariable' icon.
   static const IconData strokeRoundedVariable =
@@ -15288,8 +14393,7 @@ class HugeIcons {
       IconData(0x37a3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVest' icon.
-  static const IconData strokeRoundedVest =
-      IconData(0x37a4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVest = IconData(0x37a4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVictoryFinger01' icon.
   static const IconData strokeRoundedVictoryFinger01 =
@@ -15304,12 +14408,10 @@ class HugeIcons {
       IconData(0x37a7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVideo01' icon.
-  static const IconData strokeRoundedVideo01 =
-      IconData(0x37a8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVideo01 = IconData(0x37a8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVideo02' icon.
-  static const IconData strokeRoundedVideo02 =
-      IconData(0x37a9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVideo02 = IconData(0x37a9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVideoConsole' icon.
   static const IconData strokeRoundedVideoConsole =
@@ -15324,24 +14426,20 @@ class HugeIcons {
       IconData(0x37ac, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedViewOff' icon.
-  static const IconData strokeRoundedViewOff =
-      IconData(0x37ad, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedViewOff = IconData(0x37ad, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedView' icon.
-  static const IconData strokeRoundedView =
-      IconData(0x37ae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedView = IconData(0x37ae, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVimeo' icon.
-  static const IconData strokeRoundedVimeo =
-      IconData(0x37af, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVimeo = IconData(0x37af, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVineSquare' icon.
   static const IconData strokeRoundedVineSquare =
       IconData(0x37b0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVine' icon.
-  static const IconData strokeRoundedVine =
-      IconData(0x37b1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVine = IconData(0x37b1, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVintageClock' icon.
   static const IconData strokeRoundedVintageClock =
@@ -15356,24 +14454,20 @@ class HugeIcons {
       IconData(0x37b4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVision' icon.
-  static const IconData strokeRoundedVision =
-      IconData(0x37b5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVision = IconData(0x37b5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVkSquare' icon.
   static const IconData strokeRoundedVkSquare =
       IconData(0x37b6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVk' icon.
-  static const IconData strokeRoundedVk =
-      IconData(0x37b7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVk = IconData(0x37b7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVoiceId' icon.
-  static const IconData strokeRoundedVoiceId =
-      IconData(0x37b8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVoiceId = IconData(0x37b8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVoice' icon.
-  static const IconData strokeRoundedVoice =
-      IconData(0x37b9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVoice = IconData(0x37b9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVolleyball' icon.
   static const IconData strokeRoundedVolleyball =
@@ -15412,36 +14506,29 @@ class HugeIcons {
       IconData(0x37c2, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVoucher' icon.
-  static const IconData strokeRoundedVoucher =
-      IconData(0x37c3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVoucher = IconData(0x37c3, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVrGlasses' icon.
   static const IconData strokeRoundedVrGlasses =
       IconData(0x37c4, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVr' icon.
-  static const IconData strokeRoundedVr =
-      IconData(0x37c5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVr = IconData(0x37c5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVynil01' icon.
-  static const IconData strokeRoundedVynil01 =
-      IconData(0x37c6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVynil01 = IconData(0x37c6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVynil02' icon.
-  static const IconData strokeRoundedVynil02 =
-      IconData(0x37c7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVynil02 = IconData(0x37c7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedVynil03' icon.
-  static const IconData strokeRoundedVynil03 =
-      IconData(0x37c8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedVynil03 = IconData(0x37c8, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWaiter' icon.
-  static const IconData strokeRoundedWaiter =
-      IconData(0x37c9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWaiter = IconData(0x37c9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWaiters' icon.
-  static const IconData strokeRoundedWaiters =
-      IconData(0x37ca, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWaiters = IconData(0x37ca, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWallLamp' icon.
   static const IconData strokeRoundedWallLamp =
@@ -15492,8 +14579,7 @@ class HugeIcons {
       IconData(0x37d6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWanted' icon.
-  static const IconData strokeRoundedWanted =
-      IconData(0x37d7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWanted = IconData(0x37d7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWardrobe01' icon.
   static const IconData strokeRoundedWardrobe01 =
@@ -15520,16 +14606,13 @@ class HugeIcons {
       IconData(0x37dd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWaste' icon.
-  static const IconData strokeRoundedWaste =
-      IconData(0x37de, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWaste = IconData(0x37de, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWatch01' icon.
-  static const IconData strokeRoundedWatch01 =
-      IconData(0x37df, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWatch01 = IconData(0x37df, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWatch02' icon.
-  static const IconData strokeRoundedWatch02 =
-      IconData(0x37e0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWatch02 = IconData(0x37e0, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWaterEnergy' icon.
   static const IconData strokeRoundedWaterEnergy =
@@ -15568,8 +14651,7 @@ class HugeIcons {
       IconData(0x37e9, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWattpad' icon.
-  static const IconData strokeRoundedWattpad =
-      IconData(0x37ea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWattpad = IconData(0x37ea, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWavingHand01' icon.
   static const IconData strokeRoundedWavingHand01 =
@@ -15580,8 +14662,7 @@ class HugeIcons {
       IconData(0x37ec, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWaze' icon.
-  static const IconData strokeRoundedWaze =
-      IconData(0x37ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWaze = IconData(0x37ed, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWebDesign01' icon.
   static const IconData strokeRoundedWebDesign01 =
@@ -15616,12 +14697,10 @@ class HugeIcons {
       IconData(0x37f5, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWebflow' icon.
-  static const IconData strokeRoundedWebflow =
-      IconData(0x37f6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWebflow = IconData(0x37f6, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWechat' icon.
-  static const IconData strokeRoundedWechat =
-      IconData(0x37f7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWechat = IconData(0x37f7, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWeightScale01' icon.
   static const IconData strokeRoundedWeightScale01 =
@@ -15648,20 +14727,16 @@ class HugeIcons {
       IconData(0x37fd, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWhisk' icon.
-  static const IconData strokeRoundedWhisk =
-      IconData(0x37fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWhisk = IconData(0x37fe, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWhistle' icon.
-  static const IconData strokeRoundedWhistle =
-      IconData(0x37ff, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWhistle = IconData(0x37ff, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWifi01' icon.
-  static const IconData strokeRoundedWifi01 =
-      IconData(0x3800, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWifi01 = IconData(0x3800, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWifi02' icon.
-  static const IconData strokeRoundedWifi02 =
-      IconData(0x3801, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWifi02 = IconData(0x3801, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWifiCircle' icon.
   static const IconData strokeRoundedWifiCircle =
@@ -15772,12 +14847,10 @@ class HugeIcons {
       IconData(0x381c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWink' icon.
-  static const IconData strokeRoundedWink =
-      IconData(0x381d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWink = IconData(0x381d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWinking' icon.
-  static const IconData strokeRoundedWinking =
-      IconData(0x381e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWinking = IconData(0x381e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWirelessCloudAccess' icon.
   static const IconData strokeRoundedWirelessCloudAccess =
@@ -15788,8 +14861,7 @@ class HugeIcons {
       IconData(0x3820, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWise' icon.
-  static const IconData strokeRoundedWise =
-      IconData(0x3821, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWise = IconData(0x3821, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWordpress' icon.
   static const IconData strokeRoundedWordpress =
@@ -15904,8 +14976,7 @@ class HugeIcons {
       IconData(0x383d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWorry' icon.
-  static const IconData strokeRoundedWorry =
-      IconData(0x383e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWorry = IconData(0x383e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWpsOfficeRectangle' icon.
   static const IconData strokeRoundedWpsOfficeRectangle =
@@ -15924,12 +14995,10 @@ class HugeIcons {
       IconData(0x3842, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedWudu' icon.
-  static const IconData strokeRoundedWudu =
-      IconData(0x3843, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedWudu = IconData(0x3843, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedXRay' icon.
-  static const IconData strokeRoundedXRay =
-      IconData(0x3844, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedXRay = IconData(0x3844, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedXVariableCircle' icon.
   static const IconData strokeRoundedXVariableCircle =
@@ -15944,36 +15013,28 @@ class HugeIcons {
       IconData(0x3847, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedXing' icon.
-  static const IconData strokeRoundedXing =
-      IconData(0x3848, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedXing = IconData(0x3848, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedXls01' icon.
-  static const IconData strokeRoundedXls01 =
-      IconData(0x3849, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedXls01 = IconData(0x3849, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedXls02' icon.
-  static const IconData strokeRoundedXls02 =
-      IconData(0x384a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedXls02 = IconData(0x384a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedXml01' icon.
-  static const IconData strokeRoundedXml01 =
-      IconData(0x384b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedXml01 = IconData(0x384b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedXml02' icon.
-  static const IconData strokeRoundedXml02 =
-      IconData(0x384c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedXml02 = IconData(0x384c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedXsl01' icon.
-  static const IconData strokeRoundedXsl01 =
-      IconData(0x384d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedXsl01 = IconData(0x384d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedXsl02' icon.
-  static const IconData strokeRoundedXsl02 =
-      IconData(0x384e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedXsl02 = IconData(0x384e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYelp' icon.
-  static const IconData strokeRoundedYelp =
-      IconData(0x384f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedYelp = IconData(0x384f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYenCircle' icon.
   static const IconData strokeRoundedYenCircle =
@@ -15984,68 +15045,55 @@ class HugeIcons {
       IconData(0x3851, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYenSend' icon.
-  static const IconData strokeRoundedYenSend =
-      IconData(0x3852, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedYenSend = IconData(0x3852, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYenSquare' icon.
   static const IconData strokeRoundedYenSquare =
       IconData(0x3853, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYen' icon.
-  static const IconData strokeRoundedYen =
-      IconData(0x3854, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedYen = IconData(0x3854, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYoga01' icon.
-  static const IconData strokeRoundedYoga01 =
-      IconData(0x3855, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedYoga01 = IconData(0x3855, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYoga02' icon.
-  static const IconData strokeRoundedYoga02 =
-      IconData(0x3856, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedYoga02 = IconData(0x3856, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYoga03' icon.
-  static const IconData strokeRoundedYoga03 =
-      IconData(0x3857, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedYoga03 = IconData(0x3857, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYogaBall' icon.
   static const IconData strokeRoundedYogaBall =
       IconData(0x3858, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYogaMat' icon.
-  static const IconData strokeRoundedYogaMat =
-      IconData(0x3859, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedYogaMat = IconData(0x3859, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYogurt' icon.
-  static const IconData strokeRoundedYogurt =
-      IconData(0x385a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedYogurt = IconData(0x385a, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYoutube' icon.
-  static const IconData strokeRoundedYoutube =
-      IconData(0x385b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedYoutube = IconData(0x385b, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedYurt' icon.
-  static const IconData strokeRoundedYurt =
-      IconData(0x385c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedYurt = IconData(0x385c, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedZakat' icon.
-  static const IconData strokeRoundedZakat =
-      IconData(0x385d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedZakat = IconData(0x385d, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedZap' icon.
-  static const IconData strokeRoundedZap =
-      IconData(0x385e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedZap = IconData(0x385e, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedZeppelin' icon.
   static const IconData strokeRoundedZeppelin =
       IconData(0x385f, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedZip01' icon.
-  static const IconData strokeRoundedZip01 =
-      IconData(0x3860, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedZip01 = IconData(0x3860, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedZip02' icon.
-  static const IconData strokeRoundedZip02 =
-      IconData(0x3861, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedZip02 = IconData(0x3861, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedZoomCircle' icon.
   static const IconData strokeRoundedZoomCircle =
@@ -16064,8 +15112,7 @@ class HugeIcons {
       IconData(0x3865, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 
   /// IconData for the 'strokeRoundedZoom' icon.
-  static const IconData strokeRoundedZoom =
-      IconData(0x3866, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
+  static const IconData strokeRoundedZoom = IconData(0x3866, fontFamily: 'HgiStrokeRounded', fontPackage: _kFontPkg);
 }
 
 /// A widget that displays an icon.
@@ -16084,12 +15131,12 @@ class HugeIcon extends StatelessWidget {
   /// The [icon] parameter must be specified.
   /// The [color] parameter specifies the color to use when drawing the icon.
   /// The [size] parameter specifies the size of the icon in logical pixels.
-  HugeIcon({
-    Key? key,
+  const HugeIcon({
+    super.key,
     required this.icon,
     required this.color,
     this.size = 24.0,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
