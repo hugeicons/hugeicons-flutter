@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.0.7] - 2024-07-25
+### Fixes
+- General bug fixes and improvements.
+- Added the latest icons to the package.
+
 ## [0.0.5] - 2024-07-09
 ### Fixes
 - General bug fixes and improvements.

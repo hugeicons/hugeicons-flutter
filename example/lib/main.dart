@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
                 size: 50.0,
               ),
               HugeIcon(
-                icon: HugeIcons.strokeRoundedHome02,
+                icon: HugeIcons.strokeRoundedAirplaneSeat,
                 color: Colors.red,
                 size: 100.0,
               ),
