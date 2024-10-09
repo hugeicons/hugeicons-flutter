@@ -16522,7 +16522,7 @@ class HugeIcon extends StatelessWidget {
   final IconData icon;
 
   /// The color to use when drawing the icon.
-  final Color color;
+  final Color? color;
 
   /// The size of the icon in logical pixels.
   final double size;
@@ -16535,7 +16535,7 @@ class HugeIcon extends StatelessWidget {
   const HugeIcon({
     super.key,
     required this.icon,
-    required this.color,
+    this.color,
     this.size = 24.0,
   });
 
