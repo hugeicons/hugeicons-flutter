@@ -3,9 +3,11 @@
 
 # Free Flutter Icons by Hugeicons
 
-Welcome to Hugeicons Flutter Icons, your premier destination for free Flutter icons. Our expansive collection features over 4,000 stroke Flutter icons, available at no charge and crafted to meet a diverse array of design requirements. These icons are perfect for devs and designers seeking top-quality, customizable options for enhancing their digital product.
+Hugeicons is a free, open-source icon library offering over 4,000 stroke Flutter icons. Designed to simplify your development workflow, these icons are fully customizable and easy to use, making them a perfect fit for both Flutter developers and designers alike.
 
-Hugeicons Pro is trusted and utilized by thousands of designers, devs, and content creators for unlimited personal and commercial projects, establishing it as one of the most versatile and user-friendly Flutter icons libraries in the market.
+What sets Hugeicons apart is the careful attention to detail—each icon is crafted to be incredibly beautiful and consistent, ensuring that your designs look user-friendly and professional.
+
+Trusted by over 150,000 creatives worldwide, Hugeicons makes it easy to add a wide range of beautiful icons to your Flutter projects without any hassle.
 
 You can preview out our full collection of icons on the [Hugeicons website](https://hugeicons.com/icons).
 
