@@ -1,7 +1,7 @@
 ![31c9262e-aeea-4403-9086-3c8b88885cab](https://github.com/hugeicons/hugeicons-react/assets/130147052/ff91f2f0-095a-4c6d-8942-3af4759f9021)
 
 
-# Free Flutter Icons by Hugeicons
+# Free Flutter Icons - Hugeicons
 
 Hugeicons is a free, open-source icon library offering over 4,000 stroke Flutter icons. Designed to simplify your development workflow, these icons are fully customizable and easy to use, making them a perfect fit for both Flutter developers and designers alike.
 
