@@ -6,6 +6,7 @@ import 'package:flutter/widgets.dart';
 ///
 /// The [HugeIcons] class provides a comprehensive set of stroke-rounded icons
 /// for enhancing the UI design of your Flutter applications.
+@staticIconProvider
 class HugeIcons {
   HugeIcons._();
 
