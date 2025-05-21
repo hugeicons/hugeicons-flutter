@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.11] - 2025-05-21
+### Fixes
+- General bug fixes and improvements.
+
 ## [0.0.7] - 2024-07-25
 ### Fixes
 - General bug fixes and improvements.
