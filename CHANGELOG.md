@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1] - 2025-01-09
+### Fixed
+- **Code Quality**: Fixed linting issues for perfect static analysis score
+  - Added proper curly braces around if/else statements in generated Dart code
+  - Fixed string concatenation to use proper interpolation syntax
+  - Improved overall code quality and maintainability
+
 ## [1.0.0] - 2025-01-09
 ### Major Changes
 - **BREAKING**: Migrated from font-based (TTF) to SVG-based icons for better performance and scalability
