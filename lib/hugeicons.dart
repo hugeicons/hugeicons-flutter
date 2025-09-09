@@ -4603,12 +4603,18 @@ class HugeIcon extends StatelessWidget {
           finalValue = strokeWidth.toString();
         }
         String svgAttrName = key;
-        if (key == 'strokeWidth') svgAttrName = 'stroke-width';
-        else if (key == 'strokeLinecap') svgAttrName = 'stroke-linecap';
-        else if (key == 'strokeLinejoin') svgAttrName = 'stroke-linejoin';
-        else if (key == 'fillRule') svgAttrName = 'fill-rule';
-        else if (key == 'clipRule') svgAttrName = 'clip-rule';
-        buffer.write(' ' + svgAttrName + '="' + finalValue + '"');
+        if (key == 'strokeWidth') {
+          svgAttrName = 'stroke-width';
+        } else if (key == 'strokeLinecap') {
+          svgAttrName = 'stroke-linecap';
+        } else if (key == 'strokeLinejoin') {
+          svgAttrName = 'stroke-linejoin';
+        } else if (key == 'fillRule') {
+          svgAttrName = 'fill-rule';
+        } else if (key == 'clipRule') {
+          svgAttrName = 'clip-rule';
+        }
+        buffer.write(' $svgAttrName="$finalValue"');
       }
       buffer.write('/>');
     }
