@@ -1,11 +1,13 @@
 ![31c9262e-aeea-4403-9086-3c8b88885cab](https://github.com/hugeicons/hugeicons-react/assets/130147052/ff91f2f0-095a-4c6d-8942-3af4759f9021)
 
 
-# Free Flutter Icons by Hugeicons
+# Free Flutter Icons - Hugeicons
 
 Welcome to Hugeicons Flutter Icons, your premier destination for free Flutter icons. Our expansive collection features over 4,500+ stroke-rounded SVG icons, available at no charge and crafted to meet a diverse array of design requirements. These icons are perfect for devs and designers seeking top-quality, customizable options for enhancing their digital product.
 
-Hugeicons Pro is trusted and utilized by thousands of designers, devs, and content creators for unlimited personal and commercial projects, establishing it as one of the most versatile and user-friendly Flutter icons libraries in the market.
+What sets Hugeicons apart is the careful attention to detail—each icon is crafted to be incredibly beautiful and consistent, ensuring that your designs look user-friendly and professional.
+
+Trusted by over 150,000 creatives worldwide, Hugeicons makes it easy to add a wide range of beautiful icons to your Flutter projects without any hassle.
 
 You can preview out our full collection of icons on the [Hugeicons website](https://hugeicons.com/icons).
 
