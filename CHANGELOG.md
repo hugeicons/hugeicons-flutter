@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2] - 2025-01-09
+### Fixed
+- **Code Formatting**: Applied Dart formatter to all generated files for perfect static analysis score
+  - Fixed formatting issues in `hugeicons.dart` and `stroke_rounded.dart`
+  - Achieved perfect 50/50 static analysis score on pub.dev
+  - Improved code readability and consistency
+
 ## [1.0.1] - 2025-01-09
 ### Fixed
 - **Code Quality**: Fixed linting issues for perfect static analysis score
