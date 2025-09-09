@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.0.0] - 2025-01-09
+### Major Changes
+- **BREAKING**: Migrated from font-based (TTF) to SVG-based icons for better performance and scalability
+- **BREAKING**: Removed font assets and dependencies - now uses `flutter_svg` package
+- **BREAKING**: Updated icon naming pattern to `HugeIcons.strokeRounded[IconName]`
+
+### Added
+- **Stroke Width Control**: Added `strokeWidth` parameter to `HugeIcon` widget for fine-tuned design control
+- **SVG-Based Icons**: High-quality vector icons that scale perfectly at any size
+- **Tree Shaking Support**: Only include the icons you use in your final app bundle
+- **Enhanced Performance**: Faster rendering and smaller bundle sizes with SVG approach
+- **4,500+ Icons**: Comprehensive collection of stroke-rounded icons
+
+### Removed
+- Font-based icon system (TTF files)
+- Old icon naming conventions
+- Font family dependencies
+
+### Updated
+- Package version bumped to 1.0.0 to reflect major architectural changes
+- All icons now use consistent stroke-rounded style
+- Improved documentation and usage examples
+
+## [0.0.10] - 2024-10-06
+### Fixes
+- General bug fixes and improvements.
+- Updated font assets.
+- Added the latest icons to the package.
+
 ## [0.0.7] - 2024-07-25
 ### Fixes
 - General bug fixes and improvements.
