@@ -1,5 +1,58 @@
 # Changelog
 
+## [1.1.0] - 2025-01-22
+
+### 🎨 Enhanced Theme Integration
+
+#### Added
+- **Automatic Theme Color Inheritance**: Icons now automatically inherit theme text colors when no explicit color is provided
+- **Dark Mode Support**: Seamless adaptation to light/dark theme changes across all platforms
+- **Improved Color Fallback Chain**: 
+  ```
+  widget.color → IconTheme.color → DefaultTextStyle.color → Theme.colorScheme.onSurface
+  ```
+- **Desktop Platform Optimization**: Enhanced color inheritance specifically for macOS, Windows, and Linux
+- **StatefulWidget Architecture**: Upgraded from StatelessWidget to StatefulWidget for proper theme change detection
+
+#### Enhanced
+- **Optional Color Parameter**: Color parameter is now optional, enabling automatic theme inheritance
+- **Material Design 3 Compatibility**: Full support for Material 3 color schemes and theme modes
+- **Color API Modernization**: Updated from deprecated `.value` to modern `.toARGB32()` API
+- **Performance Optimizations**: 
+  - Intelligent SVG caching with invalidation on theme/color changes
+  - Reduced unnecessary rebuilds through proper lifecycle management
+- **Feature Parity**: Now has 100% feature parity with the Pro version for theme handling
+
+#### Usage Examples
+```dart
+// Theme-aware icons (recommended) - automatically adapt to light/dark themes
+HugeIcon(
+  icon: HugeIconsStrokeRounded.user,
+  strokeWidth: 2.0,
+)
+
+// Explicit color (override theme)
+HugeIcon(
+  icon: HugeIconsStrokeRounded.user,
+  color: Colors.blue,
+)
+```
+
+#### Technical Improvements
+- **Widget Architecture**: Migrated from StatelessWidget to StatefulWidget
+- **Lifecycle Management**: Added `didChangeDependencies()` and `didUpdateWidget()` 
+- **Import Updates**: Added Material import for Theme access
+- **Code Quality**: Zero deprecation warnings and improved static analysis scores
+
+### 🔧 Breaking Changes
+None - All changes are backward compatible. Existing code continues to work unchanged.
+
+### 📱 Platform Support
+- Enhanced macOS, Windows, and Linux theme inheritance
+- Continued full support for Android, iOS, and Web
+
+---
+
 ## [1.0.2] - 2025-01-09
 ### Fixed
 - **Code Formatting**: Applied Dart formatter to all generated files for perfect static analysis score
