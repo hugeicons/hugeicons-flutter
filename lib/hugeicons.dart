@@ -9301,12 +9301,14 @@ class _HugeIconState extends State<HugeIcon> {
     _rebuildIfNeeded(context);
     final double effectiveSize =
         widget.size ?? IconTheme.of(context).size ?? 24.0;
-    return SizedBox.square(
-      dimension: effectiveSize,
-      child: SvgPicture.string(
-        _cachedSvg!,
-        width: effectiveSize,
-        height: effectiveSize,
+    return Center(
+      child: SizedBox.square(
+        dimension: effectiveSize,
+        child: SvgPicture.string(
+          _cachedSvg!,
+          width: effectiveSize,
+          height: effectiveSize,
+        ),
       ),
     );
   }
